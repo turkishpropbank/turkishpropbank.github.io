@@ -8,8 +8,7 @@ Acknowledgements:
 * Text is originally form Metu Sabanci Treebank[3,4], morphological and 
   syntactic annotation layer is taken from Itu-Metu-Sabanci-TreeBank Universal 
   Dependencies project(IMST-UD)[2] http://universaldependencies.org/#tr which 
-  is also distributed under Creative Commons Attribution-ShareAlike 4.0 
-  International license.
+  is also distributed under Creative Commons BY-NC-SA license.
 
 References:
 * [1] Nivre, Joakim; Agić, Željko; Ahrenberg, Lars; et al., 2016, 
