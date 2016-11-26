@@ -20,7 +20,7 @@ Corpora constructed upon IMST and IMST-UD can be investigated from [project's co
 
 ### License
 
-We distribute resources built in scope of this project under Creative Commons BY-NC-SA 4.0 International license. 
+We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 ### Turkish Semantic Role Labeling
 
