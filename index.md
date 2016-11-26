@@ -4,8 +4,6 @@ title: Turkish PropBank
 published: true
 ---
 
-## About
-
 Turkish Proposition Bank is the first semantically annotated corpus built for Turkish language. It is constructed upon [ITU Metu Sabancı Turkish Dependency TreeBank (IMST)](http://tools.nlp.itu.edu.tr/Datasets) and later mapped onto [IMST-Universal Dependencies(UD)](http://universaldependencies.org/#tr). It contains sense and semantic argument information of each predicate similar to below:
 
 ![_config.yml]({{ site.baseurl }}/images/example.png)
@@ -14,15 +12,16 @@ _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A
 
 ### Frames
 
-Frame files can be browsed from: a and can be download from ....
+Frame files can be download from [here](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames).
 
-### Annotated Corpus
+### Annotated Corpora
+
+Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the license and readme files before usage.
 
 ### License
+
+We distributed resources built in scope of this project under Creative Commons-BY-NC-SA 4.0 license. 
 
 ### Turkish Semantic Role Labeling
 
 ### Publications
-
-
-
