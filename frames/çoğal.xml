@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çoğal">
+
+
+<roleset id="çoğal.01" name="Artmak">
+<roles>
+<role descr="çoğalan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuklar çoğalıyor.</text>
+<note/>
+<arg f="" n="1" suffix="">Çocuklar</arg>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

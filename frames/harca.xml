@@ -1,0 +1,102 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="harca">
+
+
+<roleset id="harca.01" name="Parayı elden çıkarmak">
+<roles>
+<role descr="harcayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="harcanan miktar" f="" n="3" suffix="ACC">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+<role descr="neye/kime harcandığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki maaşımı hastalığına harcadığım talebe, sonbaharla beraber ölmüştü.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">İki maaşımı</arg>
+<arg f="" n="1" suffix="">hastalığına</arg>
+<rel f="">harcadığım</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="harca.02" name="Para dışında bir şeyi tüketmek (zaman vb...)">
+<roles>
+<role descr="tüketen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="tüketilen şey (genelde zaman)" f="" n="3" suffix="ACC">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+<role descr="ne için/neye harcadığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir bütün günü mutfakta harcayıp çeşitli yemekler yapıyor.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">Bir bütün günü</arg>
+<arg f="loc" n="m" suffix="">mutfakta</arg>
+<rel f="">harcayıp</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

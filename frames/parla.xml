@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="parla">
+
+
+<roleset id="parla.01" name="Bir ışık kaynağından gelen ışınları yansıtmak">
+<roles>
+<role descr="parlayan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözleri ışıl ışıl parlıyordu.</text>
+<note/>
+<arg f="" n="1" suffix="">Gözleri</arg>
+<arg f="mnr" n="m" suffix="">ışıl ışıl</arg>
+<rel f="">parlıyordu</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

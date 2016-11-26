@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="geliş">
+
+
+<roleset id="geliş.01" name="İlerlemek, olgunlaşmak, genişlemek">
+<roles>
+<role descr="gelişen kişi/şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

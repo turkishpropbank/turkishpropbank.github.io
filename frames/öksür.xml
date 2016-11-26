@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öksür">
+
+
+<roleset id="öksür.01" name="Öksürmek">
+<roles>
+<role descr="öksüren" f="" n="0" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kuru kuru öksürdü.</text>
+<note/>
+<arg f="mnr" n="m" suffix="">Kuru kuru</arg>
+<rel f="">öksürdü</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

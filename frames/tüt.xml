@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tüt">
+
+
+<roleset id="tüt.01" name="Duman veya buhar çıkarmak">
+<roles>
+<role descr="tüten" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ekmeğin dumanı tütüyor.</text>
+<note/>
+<arg f="" n="1" suffix="">Ekmeğin dumanı</arg>
+<rel f="">tütüyor</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

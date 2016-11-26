@@ -1,0 +1,58 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kar">
+
+
+<roleset id="kar.01" name="Karıştırmak">
+<roles>
+<role descr="karıştıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="karıştırılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Malzemeleri güzelce karın.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Malzemeleri</arg>
+<arg f="mnr" n="m" suffix="">güzelce</arg>
+<rel f="">karın</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

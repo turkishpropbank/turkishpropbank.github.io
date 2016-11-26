@@ -1,0 +1,65 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="esne">
+
+
+<roleset id="esne.01" name="Ağzı genişçe açarak soluk alıp vermek">
+<roles>
+<role descr="esneyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birden çenelerim gerildi, uzun uzun esnedim.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">uzun uzun</arg>
+<rel f="">esnedim</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="esne.02" name="Biçim değiştirmek">
+<roles>
+<role descr="esneyen cisim" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kumaşı çok esnemiş.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kumaşı</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">esnemiş</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

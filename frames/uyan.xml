@@ -1,0 +1,85 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uyan">
+
+
+<roleset id="uyan.01" name="Uyku durumundan çıkmak">
+<roles>
+<role descr="uyanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="uyandıran şey / nasıl uyandığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+<role descr="uyandıran şey" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Heyecanla uyandı.</text>
+
+
+
+<arg f="mnr" n="m" suffix="">Heyecanla</arg>
+<rel f="">uyandı</rel>
+<note/>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ali bir iki kez onun sesine uyandı.</text>
+
+
+
+<arg f="" n="0" suffix="">Ali</arg>
+<arg f="tmp" n="m" suffix="">bir iki kez</arg>
+<arg f="" n="2" suffix="">onun sesine</arg>
+<rel f="">uyandı</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="uyan.02" name="Belirmek, ortaya çıkmak">
+<roles>
+<role descr="ortaya çıkan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="ortaya çıktığı yer" f="" n="2" suffix="LOC"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözüm daldı, hayalimde yine binbir zevk uyandı</text>
+
+
+
+<arg f="" n="2" suffix="">hayalimde</arg>
+<arg f="tmp" n="m" suffix="">yine</arg>
+<arg f="" n="1" suffix="">binbir zevk</arg>
+<rel f="">uyandı</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

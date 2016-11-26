@@ -1,0 +1,93 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="aldır">
+
+
+<roleset id="aldır.01" name="Önem vermek, değer vermek">
+<roles>
+<role descr="aldıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="aldırdığı şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aldırma sen hemen çalış</text>
+
+
+
+
+
+<arg f="" n="0" suffix="">sen</arg>
+
+
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="aldır.02" name="Çocuk aldırmak">
+<roles>
+<role descr="aldıran" f="" n="0" suffix="NOM"/>
+
+<role descr="aldırılan" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu seferkini de aldırmış.</text>
+
+
+
+
+<arg f="" n="1" suffix="">Bu seferkini (de)</arg>
+
+
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

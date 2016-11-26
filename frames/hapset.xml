@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hapset">
+
+
+<roleset id="hapset.01" name="Bir yere kapatmak">
+<roles>
+<role descr="hapseden" f="" n="0" suffix="NOM"/>
+
+<role descr="hapsedilen" f="" n="1" suffix="ACC"/>
+<role descr="nereye hapsedildiği" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kediyi odaya hapsetti.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kediyi</arg>
+<arg f="" n="2" suffix="">odaya</arg>
+<rel f="">hapsetti</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

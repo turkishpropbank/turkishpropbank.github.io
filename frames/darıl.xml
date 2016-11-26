@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="darıl">
+
+
+<roleset id="darıl.01" name="Gücenmek, küsmek">
+<roles>
+<role descr="darılan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kime darıldığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-RA16B1A-1583" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şimdi de bize darıldı.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Şimdi (de)</arg>
+<arg f="" n="4" suffix="">bize</arg>
+<rel f="">darıldı.</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

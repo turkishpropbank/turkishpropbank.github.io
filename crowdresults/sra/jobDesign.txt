@@ -1,0 +1,307 @@
+<div class="html-element-wrapper"></div>
+<p>
+  <strong>Cümle:</strong>
+  <font size="5">{{sent}}</font>
+</p>
+<p>
+  <strong>Eylem: </strong>
+  <font size="5">
+{% if pred_no != "1"%}
+ Cümledeki 
+{{pred_no}}. 
+{{pred}}
+{% else %}
+ {{pred}}
+{% endif %}  
+</font>
+</p>
+<p>
+{% if ex0 != "N.A"%} 
+(İşaretlenmiş Örnek 1)
+  <br />
+{{ex0}}
+{% endif %}
+</p>
+<p>
+{% if ex1 != "N.A"%} 
+(İşaretlenmiş Örnek 2) 
+  <br />
+{{ex1}}
+{% endif %}
+</p>
+<p>
+{% if ex2 != "N.A"%} 
+(İşaretlenmiş Örnek 3)
+<br />
+{{ex2}}
+{% endif %}
+</p>
+<p>
+Lütfen kelimenin eylemle ilişkisi için en uygun açıklamayı seçiniz:
+</p>
+<cml:radios label="... {{farg}} " validates="required" gold="true" name="farg_secim" aggregation="agg">
+  <br />
+  <cml:radio label="Eylemle ilişkili değil"></cml:radio>
+  <br />
+  Temel İlişkilerden biridir:
+  <br />
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}}"></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}}"></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}}"></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}}"></cml:radio>
+  {% endif %}
+  <br />
+  Yukarıdakilerden biri 
+  <b>değilse</b>: 
+  <br />
+  <cml:radio label="Ettirgen eylemlerdeki yaptıran, ettiren vb"></cml:radio>
+  <cml:radio label="Kiminle (Kardeşimle, NATOyla, onlarla)"></cml:radio>
+  <cml:radio label="Nerede (mahallede, konuşmasında, hayalinde)"></cml:radio>
+  <cml:radio label="İzlediği yol (patikadan)"></cml:radio>
+  <cml:radio label="Amacı, bitiş noktası (Eve, odaya vb.) ya da faydalanan (annem için, arkadaşıma vb)"></cml:radio>
+  <cml:radio label="Nasıl (hızlıca, güzel, yavaş, yapıp, koşup vb)"></cml:radio>
+  <cml:radio label="Miktarı (yüzde elli), (az, çok, biraz), (benden fazla) vb. "></cml:radio>
+  <cml:radio label="Yan cümlecik (.. olarak, ... olmak üzere vb...) "></cml:radio>
+  <cml:radio label="Nedeni ya da kaynağı (yüzünden, onun için, dağdan vb) "></cml:radio>
+  <cml:radio label="Cümle başındaki Bağlaç (Ayrıca, Fakat, Buna rağmen vb.) ya da Seslenme (Allahım, duy sesimi)"></cml:radio>
+  <cml:radio label="Olumsuzluk anlamı ekleyici (Hiçbir zaman, asla, değil, yok, hiç)"></cml:radio>
+  <cml:radio label="Yardımcı fiil elemanı (mezun olmak'taki mezun, hayal etmek'teki hayal vb... )"></cml:radio>
+  <cml:radio label="Ne Zaman (Eylül, Pazartesi), Ne Sıklıkla (her zaman, bazen), Kaçıncı (ilk, son) ya da Ne kadarlığına (bir aylığına)"></cml:radio>
+  <cml:radio label="Tüm cümleyi etkileyen, diğer tanımlara uymayan zarflar (Mutlaka, muhtemelen vb...)"></cml:radio>
+  <cml:radio label="Fiil ikilemesi (yapıp yapıp, bakıla bakıla, ister istemez, olursan ol, vb... )"></cml:radio>
+  <cml:radio label="Ne ile (uçakla, gözleriyle, çekiçle vb...)"></cml:radio>
+</cml:radios>
+<cml:textarea label="Cümlede var olduğuna inandığınız hatalar :" instructions="İsteğe bağlı" name="hata"></cml:textarea>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dolaş">
+
+
+<roleset id="dolaş.01" name="Gezmek, gezinmek">
+<roles>
+<role descr="gezen kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gezilen yerler" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Büsbütün gece kapanmadan şehri biraz dolaşmak istedik.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Büsbütün gece kapanmadan</arg>
+<arg f="" n="1" suffix="">şehri</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">dolaşmak</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

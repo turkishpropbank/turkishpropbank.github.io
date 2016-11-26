@@ -1,0 +1,17 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="mızıklan">
+<infSuffixes/>
+<note/>
+<roleset id="mızıklan.01" name="Çeşitli sebeplerle oyun bozmak">
+<roles>
+<role descr="oyun bozan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<note/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

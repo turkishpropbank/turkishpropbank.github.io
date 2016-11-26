@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hedefle">
+
+
+<roleset id="hedefle.01" name="Hedef yapmak">
+<roles>
+<role descr="hedefleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="hedeflenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ağaca çıkmak istiyorsan, yıldızları hedefle.</text>
+<note/>
+<arg f="cau" n="m" suffix="">Ağaca çıkmak istiyorsan</arg>
+<arg f="" n="1" suffix="">yıldızları</arg>
+<rel f="">hedefle</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

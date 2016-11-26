@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="incel">
+
+
+<roleset id="incel.01" name="İnce duruma gelmek">
+<roles>
+<role descr="incelen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Eşofman iyice incelmiş.</text>
+<note/>
+<arg f="" n="1" suffix="">Eşofman</arg>
+<arg f="ext" n="m" suffix="">iyice</arg>
+<rel f="">incelmiş</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

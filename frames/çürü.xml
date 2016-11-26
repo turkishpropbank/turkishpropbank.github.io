@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çürü">
+
+
+<roleset id="çürü.01" name="Sağlamlığını, dayanıklılığını yitirmek:" vncls="">
+<roles>	
+    <role descr="çürüyen kişi/şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>			
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Sen toprakta çürürsün canım kardeşim.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Sen</arg>
+<arg f="loc" n="m" suffix="">toprakta</arg>
+<arg f="dis" n="m" suffix="">canım kardeşim</arg>
+<rel f="">çürürsün</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

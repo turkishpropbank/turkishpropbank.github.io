@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kızar">
+
+
+<roleset id="kızar.01" name="Kırmızı veya ona yakın bir renk almak">
+<roles>
+<role descr="kızaran" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yüzü kızardı, utandı.</text>
+<note/>
+<arg f="" n="1" suffix="">Yüzü</arg>
+<rel f="">kızardı</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

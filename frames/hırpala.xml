@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hırpala">
+
+
+<roleset id="hırpala.01" name="Azarlamak veya yıpratmak">
+<roles>
+<role descr="hırpalayan şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="hırpalanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yalnız miralayın sağ bacağını bir gülle misketi fena halde hırpalamış.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Yalnız</arg>
+<arg f="" n="1" suffix="">miralayın sağ bacağını</arg>
+<arg f="" n="0" suffix="">bir gülle misketi</arg>
+<arg f="ext" n="m" suffix="">fena halde</arg>
+<rel f="">hırpalamış</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="hırpala.02" name="Dövmek, örselemek">
+<roles>
+<role descr="döven, zarar veren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dövülen, yıpratılan kişi/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-EA16B4A-1042" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ali Nebiye'yi fena hırpaladı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ali</arg>
+<arg f="" n="1" suffix="">Nebiye'yi</arg>
+<arg f="ext" n="m" suffix="">fena</arg>
+<rel f="">hırpaladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

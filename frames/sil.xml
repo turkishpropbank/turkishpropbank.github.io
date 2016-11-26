@@ -1,0 +1,102 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sil">
+
+
+<roleset id="sil.01" name="Bir şeyin ıslaklığını gidererek kuru duruma getirmek">
+<roles>
+<role descr="silen" f="" n="0" suffix="NOM"/>
+
+<role descr="silinen" f="" n="1" suffix="ACC"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Terlemiş gibi alnını elinin tersiyle sildi.</text>
+
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Terlemiş gibi</arg>
+<arg f="" n="1" suffix="">alnını</arg>
+<arg f="inst" n="m" suffix="">elinin tersiyle</arg>
+<rel f="">sildi</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sil.02" name="Üzerine genellikle bir bez sürterek tozlarını, kirlerini almak veya parlatmak">
+<roles>
+<role descr="silen" f="" n="0" suffix="NOM"/>
+
+<role descr="silinen" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türküler çağırarak tahta siliyorlar.</text>
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Türküler çağırarak</arg>
+<arg f="" n="1" suffix="">tahta</arg>
+<rel f="">siliyorlar</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sil.03" name="Üzerini çizerek atmak, yok etmek">
+<roles>
+<role descr="silen" f="" n="0" suffix="NOM"/>
+
+<role descr="silinen" f="" n="1" suffix="ACC"/>
+<role descr="nereden silindiği" f="" n="2" suffix="ABL"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Defterden adını silmişler.</text>
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Defterden</arg>
+<arg f="" n="1" suffix="">adını</arg>
+<rel f="">silmişler</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

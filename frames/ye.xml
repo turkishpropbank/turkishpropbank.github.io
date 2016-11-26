@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ye">
+
+
+<roleset id="ye.01" name="Ağızda çiğneyerek yutmak">
+<roles>
+<role descr="yiyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yenen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Adam o kadar çabuk yiyor ki hizmetçi ekmek yetiştiremiyor</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Adam</arg>
+<arg f="mnr" n="m" suffix="">o kadar çabuk</arg>
+<rel f="">yiyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

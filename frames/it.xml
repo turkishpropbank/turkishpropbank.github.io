@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="it">
+
+
+<roleset id="it.01" name="Güç uygulayarak ileri götürmek">
+<roles>
+<role descr="iten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="itilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Erzak yüklü arabayı arkadan iten iki uşak, sırtı tırmandılar.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Erzak yüklü arabayı</arg>
+<arg f="dir" n="m" suffix="">arkadan</arg>
+<arg f="" n="0" suffix="">iki uşak</arg>
+<rel f="">iten</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

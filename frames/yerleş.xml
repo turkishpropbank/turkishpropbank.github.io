@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yerleş">
+
+
+<roleset id="yerleş.01" name="Yerine iyice oturmak, yerinde sabit olmak">
+<roles>
+<role descr="yerleşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye yerleştiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,68 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="avut">
+
+
+<roleset id="avut.01" name="Teselli etmek." vncls="">
+<roles>	
+    <role descr="avutan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="stimulus"/>
+</role>	
+	<role descr="avutulan kişi/şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="experiencer"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Düşün, bir acın var ki ben avutamıyorum.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">ben</arg>
+<arg f="" n="1" suffix="">acın</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+<roleset id="avut.02" name="Oyalamak." vncls="">
+<roles>	
+    <role descr="avutan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="stimulus"/>
+</role>	
+	<role descr="avutulan kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="experiencer"/>
+</role>		
+	<role descr="ne ile avutulduğu" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="instrument"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Beni bebek gibi avutmak istiyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<arg f="mnr" n="m" suffix="">bebek gibi</arg>
+<rel f="">avutmak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

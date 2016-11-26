@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öğren">
+
+
+<roleset id="öğren.01" name="Bilgi edinmek">
+<roles>
+<role descr="öğrenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="öğrenilen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kimden öğrendiği" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yüzmeyi babamdan öğrendim.</text>
+<note/>
+<arg f="" n="1" suffix="">Yüzmeyi</arg>
+<arg f="" n="2" suffix="">babamdan</arg>
+<rel f="">öğrendim</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

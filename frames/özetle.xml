@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="özetle">
+
+
+<roleset id="özetle.01" name="Bir yazı, konu, söz veya filmin içeriğini daha az sözle anlatmak">
+<roles>
+<role descr="özetleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="özetlenen" f="" n="1" suffix="ACC"/>
+<role descr="yapılan özet (diye, şeklinde geliyor başına)" f="" n="2" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yergin, görüşlerini şöyle özetledi: "Bu başarılı sonuca ulaşmamızda birkaç yıldır hasar yönetimi konusundaki yatırımlarımızın ve çalışmalarımızın önemi oldukça fazladır.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Yergin</arg>
+<arg f="" n="1" suffix="">görüşlerini</arg>
+<arg f="mnr" n="m" suffix="">şöyle</arg>
+<rel f="">özetledi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

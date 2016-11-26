@@ -1,0 +1,1026 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="at">
+
+
+<roleset id="at.01" name="Bir cismi bir yöne doğru fırlatmak." vncls="">
+<roles>	
+    <role descr="atan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="atılan kişi/şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="nereye/kime atıladığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Taşı suya attı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Taşı</arg>
+<arg f="" n="4" suffix="">suya</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="at.02" name="Sille, tokat vurmak." vncls="">
+<roles>	
+    <role descr="atan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="atılan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Bana tokat attı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">tokat</arg>
+<arg f="gol" n="m" suffix="">Bana</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="at.03" name="Ertelemek" vncls="">
+<roles>	
+    <role descr="erteleyen" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="ertelenen" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+    <role descr="ne zamana ertelendiği" f="" n="2" suffix="DAT">
+		<vnrole vncls="" vntheta="time"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Bu konunun tartışılmasını gelecek haftaya attılar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu konunun tartışılmasını</arg>
+<arg f="" n="2" suffix="">gelecek haftaya</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="at.04" name="Kötü bir işi birine yüklemek" vncls="">
+<roles>	
+    <role descr="atan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="ne atıldığı" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+    <role descr="kime/neye atıldığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.02" src="" type="">
+<text>Suçu onun üzerine attılar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Suçu</arg>
+<rel f="">attılar</rel>
+<arg f="" n="4" suffix="">onun üzerine</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="at.05" name="İstenilmeyenden kurtulmak" vncls="">
+<roles>	
+    <role descr="atan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="atılan" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>
+    <role descr="nereden atıldığı" f="" n="3" suffix="ABL">
+		<vnrole vncls="" vntheta="source"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="boş" src="" type="">
+<text>Ahmet'i işten attılar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Ahmet'i</arg>
+<arg f="" n="3" suffix="">işten</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<roleset id="at.06" name="ses çıkarmak">
+<roles>
+<role descr="ses çıkaran (atan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="atılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>çığlık atmak, kahkaha atmak</text>
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">çığlık, kahkaha</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<predicate lemma="imza_at">
+
+
+<roleset id="at.07" name="Başarılı bir iş gerçekleştirmek">
+<roles>
+<role descr="imzalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="imzalanan" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nerede/hangi konuda imza attığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kevin Rudd, yeni kabinesinde ilklere imza attı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Kevin Rudd</arg>
+<arg f="" n="2" suffix="">yeni kabinesinde</arg>
+<arg f="" n="1" suffix="">ilklere</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="ortaya_at">
+
+
+<roleset id="at.08" name="Söylemek, ileri sürmek">
+<roles>
+<role descr="öne süren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="öne sürülen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Televizyon kanalları kurulması önerisini ortaya attı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Televizyon kanalları kurulması önerisini</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="göz_at">
+
+
+<roleset id="at.09" name="Bakıvermek">
+<roles>
+<role descr="bakan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="baktığı şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="can_at">
+
+
+<roleset id="at.10" name="Çok istemek">
+<roles>
+<role descr="isteyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="çok istediği şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onunla buluşmaya can atıyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Onunla buluşmaya</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note>2. rol için le de oluyor</note>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="adım_at">
+
+
+<roleset id="at.11" name="Adım atmak, yaklaşmak">
+<roles>
+<role descr="adım atan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ne kadar yaklaştığı" f="" n="3" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bana doğru bir adım atsa keşke...</text>
+
+<arg f="" n="3" suffix="">bir</arg>
+<arg f="gol" n="m" suffix="">Bana doğru</arg>
+<arg f="adv" n="m" suffix="">keşke</arg>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

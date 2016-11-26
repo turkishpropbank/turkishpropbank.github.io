@@ -1,0 +1,57 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tanı">
+
+
+<roleset id="tanı.01" name="Kim veya ne olduğunu hatırlamak">
+<roles>
+<role descr="tanıyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="tanınan" f="" n="1" suffix="">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tarık Bey, albümü görür görmez tanıdı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Tarık Bey</arg>
+<arg f="" n="1" suffix="">albümü</arg>
+<arg f="tmp" n="m" suffix="">görür görmez</arg>
+<rel f="">tanıdı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İngiltere 1783 Paris Antlaşmasıyla, kolonilerin bağımsızlığını resmen tanıdı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">İngiltere</arg>
+<arg f="mnr" n="m" suffix="">1783 Paris Antlaşmasıyla</arg>
+<arg f="" n="1" suffix="">kolonilerin bağımsızlığını</arg>
+<arg f="mnr" n="m" suffix="">resmen</arg>
+<rel f="">tanıdı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

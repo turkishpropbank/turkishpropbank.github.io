@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="karşıla">
+
+
+<roleset id="karşıla.01" name="Dışarıdan gelen bir kimseye karşılayıcı olarak çıkmak">
+<roles>
+<role descr="karşılayan" f="" n="0" suffix="NOM"/>
+
+<role descr="karşılanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni karşıladılar ve ağırladılar.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<rel f="">karşıladılar</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

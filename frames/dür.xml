@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dür">
+
+
+<roleset id="dür.01" name="Bir şeyi kıvırıp silindir biçiminde kendi üzerine sarmak">
+<roles>
+<role descr="düren" f="" n="0" suffix="NOM"/>
+
+<role descr="dürülen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kâğıdı dürmek. Halıyı dürmek.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kâğıdı, Halıyı</arg>
+<rel f="">dürmek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,85 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çak">
+ 
+
+<roleset id="çak.01" name="Vurarak sokup yerleştirmek" vncls="">
+<roles>	
+    <role descr="çakan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>							
+    <role descr="çakılan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+    <role descr="nereye çakıldığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>			
+	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Çiviyi oraya çakma bence.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Çiviyi</arg>
+<arg f="" n="4" suffix="">oraya</arg>
+<arg f="adv" n="m" suffix="">bence</arg>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çak.02" name="Anlamak" vncls="">
+<roles>	
+    <role descr="anlayan ya da başarısız olan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>							
+    <role descr="anladığı ya da başarısız olduğu konu" f="" n="1" suffix="ABL">
+		<vnrole vncls="" vntheta="topic"/>
+</role>				
+	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ay, bu kadın İngilizceden de çakıyor mu?</text>
+
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Ay</arg>
+<arg f="" n="0" suffix="">bu kadın</arg>
+<arg f="" n="1" suffix="">İngilizceden (de)</arg>
+<rel f="">çakıyor mu</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

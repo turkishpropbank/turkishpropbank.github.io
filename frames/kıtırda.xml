@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıtırda">
+
+
+<roleset id="kıtırda.01" name="&quot;Kıtır&quot; diye ses çıkmak">
+<roles>
+<role descr="kıtırdayan şey" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şoför doğruldu, gerindi, kemikleri kıtırdadı</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">kemikleri</arg>
+<rel f="">kıtırdadı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,49 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kok">
+
+
+<roleset id="kok.01" name="Koku çıkarmak">
+<roles>
+<role descr="kokan şey" f="" n="1" suffix="NOM"/>
+
+
+<role descr="nasıl/ne koktuğu" f="" n="2" suffix="NOM"/>
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Deniz de bahar kokuyor, dedi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Deniz (de)</arg>
+<arg f="" n="2" suffix="">bahar</arg>
+<rel f="">kokuyor</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türkler dışarı, Türkler sarımsak kokuyor.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Türkler</arg>
+<arg f="" n="2" suffix="">sarımsak</arg>
+<rel f="">kokuyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

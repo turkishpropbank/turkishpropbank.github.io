@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sırala">
+
+
+<roleset id="sırala.01" name="Birbiri ardı sıra veya yan yana koyarak sıra durumuna getirmek">
+<roles>
+<role descr="sıralayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sıralanan" f="" n="1" suffix="NOM-ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Rakıları sıraladık.</text>
+<note/>
+<arg f="" n="1" suffix="">Rakıları</arg>
+<rel f="">sıraladık</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

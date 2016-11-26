@@ -1,0 +1,67 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çel">
+
+
+<roleset id="çel.01" name="Topa gidiş yönünü değiştirecek biçimde vurmak." vncls="">
+<roles>	
+    <role descr="vuran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="vurulan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+    <role descr="nereye vurduğu" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tnc.LI31D1B-2338" src="" type="">
+<text>Vuruşu Rüştü kornere çeldi.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Rüştü</arg>
+<arg f="" n="1" suffix="">Vuruşu</arg>
+<arg f="" n="4" suffix="">kornere</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+<roleset id="çel.02" name="Sevgisini kazanmak" vncls="">
+<roles>	
+    <role descr="çelen" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="neyi çeldiği" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+<example name="tnc.OG13C3A-1800" src="" type="">
+<text>Behlül Dayım'ın da aklını çeldi, bizi Manisa'ya giden bir trene bindirdi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Behlül Dayım'ın (da) aklını</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

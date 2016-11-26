@@ -1,0 +1,305 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="getir">
+
+
+<roleset id="getir.01" name="İletmek, aktarmak, taşımak">
+<roles>
+<role descr="getiren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye getirildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<role descr="getirilen kişi/şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dün bir deri bir kemik halinde eve getirip bırakmışlar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Dün</arg>
+<arg f="mnr" n="m" suffix="">bir deri bir kemik halinde</arg>
+<arg f="" n="4" suffix="">eve</arg>
+<rel f="">getirip</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="getir.02" name="Erişmek, eriştiğini sanmak">
+<roles>
+<role descr="getiren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="getirilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Baharı getirdik.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Baharı</arg>
+<rel f="">getirdik</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="getir.03" name="Sağlamak">
+<roles>
+<role descr="sağlayan şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sağladığı şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Haftada bir cuma günleri işleyen küçük bir kahve ayda ne kadar gelir getirirse.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Haftada bir cuma günleri işleyen küçük bir kahve</arg>
+<arg f="tmp" n="m" suffix="">ayda</arg>
+<arg f="" n="1" suffix="">ne kadar gelir</arg>
+<rel f="">getirirse</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<predicate lemma="yerine_getir">
+
+
+<roleset id="getir.04" name="Bir isteği gerçekleştirmek">
+<roles>
+<role descr="gerçekleştiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gerçekleştirilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hakan titredi, saniyesinde yerine getirdi isteğini.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">saniyesinde</arg>
+<arg f="" n="1" suffix="">isteğini</arg>
+<rel f="">yerine getirdi</rel>
+<arg f="" n="0" suffix="">Hakan</arg>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="dile_getir">
+
+
+<roleset id="getir.05" name="Belirtmek, anlatmak">
+<roles>
+<role descr="belirten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="belirtilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

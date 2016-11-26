@@ -1,0 +1,49 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="danış">
+
+
+<roleset id="danış.01" name="Bir iş için bilgi veya yol sormak">
+<roles>
+<role descr="danışan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="danışılan konu" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime danıştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doktor, bugün size ben asıl başka mesele danışmak için geldim.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">bugün</arg>
+<arg f="" n="2" suffix="">size</arg>
+<arg f="" n="0" suffix="">ben</arg>
+<arg f="" n="1" suffix="">başka mesele</arg>
+<arg f="adv" n="m" suffix="">asıl</arg>
+<rel f="">danışmak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

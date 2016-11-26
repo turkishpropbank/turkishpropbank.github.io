@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yat">
+
+
+<roleset id="yat.01" name="Uyumak veya dinlenmek için yatağa girmek">
+<roles>
+<role descr="yatağa giren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yatılan yer" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu gece nerede yatacağız  ?</text>
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bu gece</arg>
+<arg f="" n="2" suffix="">nerede</arg>
+<rel f="">yatacağız</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

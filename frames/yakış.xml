@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yakış">
+
+
+<roleset id="yakış.01" name="iyi gitmek, yaraşmak, uygun gelmek">
+<roles>
+<role descr="yakışan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="kime/neye yakıştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Öyle şey küçüklerin ağzına yakışmaz.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Öyle şey</arg>
+<arg f="" n="2" suffix="">küçüklerin ağzına</arg>
+<rel f="">yakışmaz</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gereksin">
+
+
+<roleset id="gereksin.01" name="ihtiyaç duymak">
+<roles>
+<role descr="gereksinen" f="" n="0" suffix="NOM"/>
+
+<role descr="gereksinilen" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

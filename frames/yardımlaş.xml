@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yardımlaş">
+
+
+<roleset id="yardımlaş.01" name="karşılıklı yardımda bulunmak">
+<roles>
+<role descr="yardım eden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+
+<role descr="kiminle yardımlaştığı" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Denizciler aralarında, karadaki tarla sahiplerinden çok daha fazla, hem çok daha candan yardımlaşırlar.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Denizciler</arg>
+<arg f="ext" n="m" suffix="">karadaki tarla sahiplerinden çok daha fazla, hem çok daha candan</arg>
+<rel f="">yardımlaşırlar</rel>
+<arg f="loc" n="m" suffix="">aralarında</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tık">
+
+
+<roleset id="tık.01" name="İterek, zorla, aceleyle sokmak">
+<roles>
+<role descr="tıkan" f="" n="0" suffix="NOM"/>
+
+<role descr="tıkılan" f="" n="1" suffix="ACC"/>
+<role descr="nereye tıkıldığı" f="" n="2" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Her birinin ağzına avucundaki et parçasını tıktı.</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Her birinin ağzına</arg>
+<arg f="" n="1" suffix="">avucundaki et parçasını</arg>
+<rel f="">tıktı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

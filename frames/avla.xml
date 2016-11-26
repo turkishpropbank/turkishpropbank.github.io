@@ -1,0 +1,16 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="avla">
+<infSuffixes/>
+<note/>
+<roleset id="avla.01" name="Bir avı ele geçirmek">
+<roles>
+<role descr="avlayan" f="" n="0" suffix="NOM"/>
+<note/>
+<role descr="avlanan" f="" n="1" suffix="ACC"/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

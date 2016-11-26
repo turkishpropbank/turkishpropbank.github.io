@@ -1,0 +1,94 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eyle">
+
+
+<roleset id="eyle.01" name="Bir kişiden veya bir şeyden yoksun bırakmak">
+<roles>
+<role descr="yoksun bırakan şey/kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yoksun bırakılan kişi/şey" f="" n="4" suffix="ACC">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+<role descr="neyden yoksun bırakıldığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yurdumdan yuvamdan eyledi beni.</text>
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Yurdumdan yuvamdan</arg>
+<arg f="" n="4" suffix="">beni</arg>
+<rel f="">eyledi</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="eyle.02" name="Etmek, yapmak anlamında Yardımcı fiil">
+<roles>
+<role descr="eden, yapan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yapılan edilen iş/şey" f="lvb" n="m" suffix="NOM"/>
+
+
+
+
+<note/>
+<role descr="edilen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

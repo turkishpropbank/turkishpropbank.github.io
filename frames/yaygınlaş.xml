@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yaygınlaş">
+
+
+<roleset id="yaygınlaş.01" name="Yaygın duruma gelmek, yayılmak">
+<roles>
+<role descr="yayılan şey" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Anlayana sivrisinek saz düşüncesine dayanan ve tebdil gezen bir şiir yaygınlaştı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Anlayana sivrisinek saz düşüncesine dayanan ve tebdil gezen bir şiir</arg>
+<rel f="">yaygınlaştı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

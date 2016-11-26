@@ -1,0 +1,97 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sar">
+
+
+<roleset id="sar.01" name="Çevresini çevirmek">
+<roles>
+<role descr="saran" f="" n="0" suffix="NOM"/>
+
+<role descr="nereyi sardığı" f="" n="1" suffix="ACC"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kültür düşüklüğündeki çöküş, yaygın bir hastalık gibi sarar toplumu.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Kültür düşüklüğündeki çöküş</arg>
+<arg f="mnr" n="m" suffix="">yaygın bir hastalık gibi</arg>
+<arg f="" n="1" suffix="">toplumu</arg>
+<rel f="">sarar</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir gaflet perdesiydi gözlerimizi saran</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bir gaflet perdesiydi</arg>
+<arg f="" n="1" suffix="">gözlerimizi</arg>
+<rel f="">saran</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sardığı sigarayı tabakasına yerleştiriyor.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">sigarayı</arg>
+<rel f="">Sardığı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sar.02" name="Bir şeyi başka bir şeyin içine koyup onunla kaplamak">
+<roles>
+<role descr="kaplayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kaplanan" f="" n="1" suffix="ACC"/>
+<role descr="kaplandığı yer" f="" n="2" suffix="DAT"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kitabı kâğıda sarmak</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kitabı</arg>
+<arg f="" n="2" suffix="">kâğıda</arg>
+<rel f="">sarmak</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="onar">
+
+
+<roleset id="onar.01" name="Bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak">
+<roles>
+<role descr="onaran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="onardığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bozuk bir saati onardı</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bozuk bir saati</arg>
+<rel f="">onardı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

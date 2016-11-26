@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="incele">
+
+
+<roleset id="incele.01" name="öğrenmeye çalışmak">
+<roles>
+<role descr="inceleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="incelenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu formülü incelemek gerek.</text>
+<note/>
+<arg f="" n="1" suffix="">Bu formülü</arg>
+<rel f="">incelemek</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

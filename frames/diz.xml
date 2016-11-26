@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="diz">
+
+
+<roleset id="diz.01" name="Bazı nesneleri iplik, tel vb.ne geçirmek">
+<roles>
+<role descr="dizen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dizilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye dizildiği(iplik, tel...)" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc_FA16B3A-1234" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sonra bütün tabakları masalın üzerine dizdiler.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Sonra</arg>
+<arg f="" n="1" suffix="">bütün tabakları</arg>
+<arg f="" n="4" suffix="">masalın üzerine</arg>
+<rel f="">dizdiler</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="zıpla">
+
+
+<roleset id="zıpla.01" name="Yükselmek">
+<roles>
+<role descr="zıplayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden zıpladığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="nereye zıpladığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hayal kurma sınırı yoktu, oradan oraya zıplıyordu.</text>
+<note/>
+<arg f="" n="3" suffix="">oradan</arg>
+<arg f="" n="4" suffix="">oraya</arg>
+<rel f="">zıplıyordu</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

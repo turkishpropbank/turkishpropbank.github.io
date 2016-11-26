@@ -1,0 +1,146 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kır">
+
+
+<roleset id="kır.01" name="Sert şeyleri vurarak veya ezerek parçalamak">
+<roles>
+<role descr="parçalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="parçalanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="ne ile parçaladığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bardağı kırdı.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bardağı</arg>
+<rel f="">kırdı</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kır.02" name="Bir şeyin fiyatını azaltmak, indirmek">
+<roles>
+<role descr="indiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="indirilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="indirme miktarı" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Altının fiyatı yüzde on kırıldı.</text>
+<note/>
+<arg f="" n="1" suffix="">Altının fiyatı</arg>
+<arg f="" n="2" suffix="">yüzde on</arg>
+<rel f="">kırıldı</rel>
+</example>
+</roleset>
+<roleset id="kır.03" name="Taşıtın yönünü değiştirmek">
+<roles>
+<role descr="yön değiştiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yönü değiştirilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="yeni gidiş yönü" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ne tarafa doğru meyil varsa gidonu o tarafa doğru kıracaksınız ki bisiklet doğrulsun.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">gidonu</arg>
+<arg f="" n="4" suffix="">o tarafa doğru</arg>
+<rel f="">kıracaksınız</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

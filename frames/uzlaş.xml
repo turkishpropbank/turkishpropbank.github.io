@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uzlaş">
+
+
+<roleset id="uzlaş.01" name="Karşılıklı anlaşmak ve mutabık kalmak">
+<roles>
+<role descr="uzlaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle uzalştığı" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="hangi konuda uzlaşıldığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gürcistan'a operasyonları durdurduğunu açıklayan Rus Devlet Başkanı Medvedev, Sarkozy ile barış için altı ilke üzerinde uzlaştı.</text>
+
+
+
+<note>tnc</note>
+<arg f="" n="0" suffix="">Gürcistan'a operasyonları durdurduğunu açıklayan Rus Devlet Başkanı Medvedev</arg>
+<arg f="" n="1" suffix="">Sarkozy ile</arg>
+<arg f="gol" n="m" suffix="">barış için</arg>
+<arg f="" n="2" suffix="">altı ilke üzerinde</arg>
+<rel f="">uzlaştı</rel>
+</example>
+
+
+<note>İşteş</note>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

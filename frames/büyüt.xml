@@ -1,0 +1,57 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="büyüt">
+
+
+<roleset id="büyüt.01" name="Yetiştirmek, bakmak">
+<roles>
+<role descr="büyüten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="büyütülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni doğuran, emziren, büyüten anacığımı bunlara değiştim</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<arg f="" n="0" suffix="">anacığımı</arg>
+<rel f="">büyüten</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="büyüt.02" name="Abartmak, mübalağa etmek">
+<roles>
+<role descr="abartan" f="" n="0" suffix="NOM"/>
+
+<role descr="abartılan" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üşü">
+
+
+<roleset id="üşü.01" name="Soğuğun etkisini duymak">
+<roles>
+<role descr="üşüyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="üşüten / üşüme sebebi" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

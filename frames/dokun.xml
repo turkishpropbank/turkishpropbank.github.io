@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dokun">
+
+
+<roleset id="dokun.01" name="Temas etmek">
+<roles>
+<role descr="dokunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye dokunduğu" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir elektrik zilinin düğmesine dokunduk.</text>
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Bir elektrik zilinin düğmesine</arg>
+<rel f="">dokunduk</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

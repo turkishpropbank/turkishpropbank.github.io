@@ -1,0 +1,118 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıçra">
+
+
+<roleset id="sıçra.01" name="Hızla yukarıya veya ileriye atılmak">
+<roles>
+<role descr="sıçrayan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereye sıçradığı" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk taştan taşa sıçrayarak gitti.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Çocuk</arg>
+<arg f="" n="1" suffix="">taştan taşa</arg>
+<rel f="">sıçrayarak</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="sıçra.02" name="Bir yerden başka bir yere geçmek, yayılmak (hastalık gibi)">
+<roles>
+<role descr="sıçrayan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="yayıldığı yer" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hatta az önce Birgi'ye de sıçramıştı satışlar.</text>
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Hatta</arg>
+<arg f="tmp" n="m" suffix="">az önce</arg>
+<arg f="" n="2" suffix="">Birgi'ye de</arg>
+<arg f="" n="1" suffix="">satışlar</arg>
+<rel f="">sıçramıştı</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="sıçra.03" name="Ürkerek birdenbire olduğu yerde doğrulur gibi sarsılmak">
+<roles>
+<role descr="sıçrayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="nereden sıçradığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="sıçrama sebebi" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kızcağız korkudan yerinden sıçradı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Kızcağız</arg>
+<arg f="" n="2" suffix="">korkudan</arg>
+<arg f="" n="1" suffix="">yerinden</arg>
+<rel f="">sıçradı</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="sıçra.04" name="Yerinden koparak hızla, parçalar durumunda savrulmak">
+<roles>
+<role descr="savrulan şey (çamur, kan)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereye savrulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tarlalardan kalkan çamur parçaları etrafa, bazen de üstüme sıçrıyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Tarlalardan kalkan çamur parçaları</arg>
+<arg f="" n="2" suffix="">etrafa, bazen de üstüme</arg>
+<rel f="">sıçrıyordu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

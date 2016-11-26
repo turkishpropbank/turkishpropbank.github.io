@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="duyumsa">
+
+
+<roleset id="duyumsa.01" name="Algılamak">
+<roles>
+<role descr="algılayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="algılanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kullan">
+
+
+<roleset id="kullan.01" name="Bir şeyden belli bir amaçla yararlanmak">
+<roles>
+<role descr="kullanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kullanılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="ne amaçla/nerede kullanıldığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Parmaklarının arasındaki mendili eskiyinceye kadar kullandığın hiç oldu mu?</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Parmaklarının arasındaki mendili</arg>
+<arg f="ext" n="m" suffix="">eskiyinceye kadar</arg>
+<rel f="">kullandığın</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

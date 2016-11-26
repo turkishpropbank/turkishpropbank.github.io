@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çakış">
+
+
+<roleset id="çakış.01" name="Denk gelmek">
+<roles>
+<role descr="çakışan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+<role descr="ne ile çakıştığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Safdaşlarından emekli itfaiyeci Hasan Efendi ile çakıştı bakışları.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">bakışları</arg>
+<arg f="" n="2" suffix="">Safdaşlarından emekli itfaiyeci Hasan Efendi ile</arg>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki sınıfın dersleri çakıştı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">İki sınıfın dersleri</arg>
+</example>
+
+<note>İŞTEŞ</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

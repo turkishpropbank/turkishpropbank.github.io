@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gecele">
+
+
+<roleset id="gecele.01" name="Geceyi bir yerde geçirmek">
+<roles>
+<role descr="geceleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="nerede gecelendiği" f="" n="1" suffix="LOC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

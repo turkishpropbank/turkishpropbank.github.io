@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yut">
+
+
+<roleset id="yut.01" name="Ağızda bulunan bir şeyi yutağa geçirme">
+<roles>
+<role descr="yutan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yutulan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kuruyemişleri birer birer yuttu</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kuruyemişleri</arg>
+<arg f="mnr" n="m" suffix="">birer birer</arg>
+<rel f="">yuttu</rel>
+</example>
+
+<note>Gerçek anlamından çok mecazi anlamı var</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

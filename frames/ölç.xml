@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ölç">
+
+
+<roleset id="ölç.01" name="Bir alet yardımıyla miktarını belirlemek">
+<roles>
+<role descr="ölçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ölçülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="ne ile ölçüldüğü" f="" n="4" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+<role descr="ölçüm sonucu (ne kadar olarak ölçüldüğü)" f="" n="3" suffix="NOM">
+<vnrole vncls="" vntheta="extent"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Boyunu ölçtünüz mü ?</text>
+<note/>
+<arg f="" n="1" suffix="">Boyunu</arg>
+<rel f="">ölçtünüz</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

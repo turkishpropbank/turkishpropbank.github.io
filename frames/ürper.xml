@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ürper">
+
+
+<roleset id="ürper.01" name="ani titreme">
+<roles>
+<role descr="titreyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fısıltılar duyarım, ürperirim.</text>
+
+
+<note/>
+<rel f="">ürperirim</rel>
+<arg f="cau" n="m" suffix="">Fısıltılar duyarım</arg>
+</example>
+
+<note>tremble</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

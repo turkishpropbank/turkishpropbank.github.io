@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çakıl">
+
+
+<roleset id="çakıl.01" name="Hızla düşüp saplanmak">
+<roles>
+<role descr="çakılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="nereye çakıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Uçak dağa çakıldı.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Uçak</arg>
+<arg f="" n="2" suffix="">dağa</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

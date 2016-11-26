@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sataş">
+
+
+<roleset id="sataş.01" name="Bir kimseyi rahatsız edecek davranışta bulunmak, musallat olmak">
+<roles>
+<role descr="sataşan" f="" n="0" suffix="NOM"/>
+
+<role descr="sataşılan" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Satışma kardeşine.</text>
+<note/>
+<arg f="" n="1" suffix="">kardeşine</arg>
+<rel f="">Satışma</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

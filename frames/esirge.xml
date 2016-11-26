@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="esirge">
+
+
+<roleset id="esirge.01" name="Korumak">
+<roles>
+<role descr="koruyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="korunan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="neyden korunduğu" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Senin genç, temiz ve fedakâr ruhunu bu felaketten esirgemek isterim.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Senin genç, temiz ve fedakâr ruhunu</arg>
+<arg f="" n="2" suffix="">bu felaketten</arg>
+<rel f="">esirgemek</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

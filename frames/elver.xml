@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="elver">
+
+
+<roleset id="elver.01" name="yetmek">
+<roles>
+<role descr="elveren" f="" n="1" suffix="NOM"/>
+
+<role descr="neye elverdiği" f="" n="2" suffix="DAT"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

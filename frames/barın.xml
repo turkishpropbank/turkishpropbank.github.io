@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="barın">
+
+
+<roleset id="barın.01" name="Oturmak, yaşamak, tutunmak">
+<roles>
+<role descr="barınan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="barınılan yer" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Seni burada barındırmazlar.</text>
+<note/>
+<arg f="" n="2" suffix="">burada</arg>
+<arg f="" n="0" suffix="">Seni</arg>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

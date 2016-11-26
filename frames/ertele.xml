@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ertele">
+
+
+<roleset id="ertele.01" name="Sonraya bırakmak">
+<roles>
+<role descr="erteleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ertelenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Biraz da Mine'nin etkisiyle bu soruyu yanıtlamayı erteledim</text>
+
+
+<note/>
+<arg f="cau" n="m" suffix="">Biraz da Mine'nin etkisiyle</arg>
+<arg f="" n="1" suffix="">bu soruyu yanıtlamayı</arg>
+<rel f="">erteledim</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

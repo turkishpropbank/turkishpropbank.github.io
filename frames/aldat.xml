@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="aldat">
+
+
+<roleset id="aldat.01" name="Beklenmedik bir davranışla yanıltmak">
+<roles>
+<role descr="aldatan" f="" n="0" suffix="NOM"/>
+
+<role descr="aldatılan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Karısını sekreteriyle aldatmış.</text>
+<note/>
+<arg f="" n="1" suffix="">Karısını</arg>
+<arg f="com" n="m" suffix="">sekreteriyle</arg>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

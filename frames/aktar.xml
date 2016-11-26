@@ -1,0 +1,63 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aktar">
+
+
+<roleset id="aktar.01" name="Bir şeyi bir yerden, başka bir yere geçirmek." vncls="">
+<roles>
+  <role descr="aktaran" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="aktarılan" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>	
+  <role descr="nereye/kime aktarıldığı" f="" n="4" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Derdini size aktarıp arınmış, sizi zehirleyip bırakmıştır.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Derdini</arg>
+<arg f="" n="4" suffix="">size</arg>
+<rel f="">aktarıp</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

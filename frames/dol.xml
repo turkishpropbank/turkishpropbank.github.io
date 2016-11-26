@@ -1,0 +1,100 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dol">
+
+
+<roleset id="dol.01" name="Dolu duruma gelmek">
+<roles>
+<role descr="dolu duruma gelen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<role descr="nasıl, ne ile dolduğu" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="dol.02" name="Bitmek, sona ermek">
+<roles>
+<role descr="biten şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="time"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Süresi doldu, emekliye ayrıldı.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Süresi</arg>
+<rel f="">doldu</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

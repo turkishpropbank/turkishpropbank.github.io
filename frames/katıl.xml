@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="katıl">
+
+
+<roleset id="katıl.01" name="Bir topluluğa girmek, iştirak etmek, iltihak etmek">
+<roles>
+<role descr="katılan" f="" n="0" suffix="NOM"/>
+
+<role descr="neye katıldığı" f="" n="1" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Üç dört ev ötedeki boş arsada çocukların oyunlarına katıldım</text>
+
+
+
+<arg f="loc" n="m" suffix="">Üç dört ev ötedeki boş arsada</arg>
+<arg f="" n="1" suffix="">çocukların oyunlarına</arg>
+<rel f="">katıldım</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

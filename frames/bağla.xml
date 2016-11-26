@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bağla">
+
+
+<roleset id="bağla.01" name="Bir şeyi bir yere veya bir şeye tutturmak">
+<roles>
+<role descr="bağlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="bağlanan" f="" n="1" suffix="ACC"/>
+<role descr="bağlandığı yer" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu konuyu nasıl buraya bağladığını bir türlü anlamıyorum.</text>
+<note/>
+<arg f="" n="1" suffix="">Bu konuyu</arg>
+<arg f="" n="2" suffix="">buraya</arg>
+<arg f="mnr" n="m" suffix="">nasıl</arg>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

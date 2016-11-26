@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="heyecanlan">
+
+
+<roleset id="heyecanlan.01" name="Heyecana gelmek, coşmak">
+<roles>
+<role descr="heyecanı hisseden kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-QA16B1A-0674" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Davut Usta önce heyecanlandı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Davut Usta</arg>
+<arg f="tmp" n="m" suffix="">önce</arg>
+<rel f="">heyecanlandı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

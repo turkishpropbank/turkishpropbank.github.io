@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bürü">
+ 
+
+<roleset id="bürü" name="Sarmak, kaplamak" vncls="">
+<roles>	
+    <role descr="bürüyen" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>			
+    <role descr="neyi/nereyi bürüdüğü" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Tarlayı otlar bürümüştü.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Tarlayı</arg>
+<arg f="" n="0" suffix="">otlar</arg>
+<rel f="">bürümüştü</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kız">
+
+
+<roleset id="kız.01" name="Öfkelenmek, sinirlenmek">
+<roles>
+<role descr="kızan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+
+
+
+<note/>
+<role descr="neye kızdığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+</roles>
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona çok kızıyorum.</text>
+
+<arg f="gol" n="m" suffix="">Ona</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">kızıyorum</rel>
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

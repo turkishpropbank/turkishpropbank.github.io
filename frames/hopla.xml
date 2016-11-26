@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hopla">
+
+
+<roleset id="hopla.01" name="Havaya doğru fırlamak">
+<roles>
+<role descr="fırlayan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-OA16B1A-0509" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birden yüreği hopladı, işte oradaydı.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Birden</arg>
+<arg f="" n="0" suffix="">yüreği</arg>
+<rel f="">hopladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

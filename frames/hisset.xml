@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hisset">
+
+
+<roleset id="hisset.01" name="Fiziksel bir uyarıyı duymak">
+<roles>
+<role descr="hisseden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="hissedilen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hançer saplanmış gibi keskin bir sızı hissetmişti kasıklarında.</text>
+
+
+
+<arg f="" n="1" suffix="">Hançer saplanmış gibi keskin bir sızı</arg>
+<arg f="loc" n="m" suffix="">kasıklarında</arg>
+<rel f="">hissetmişti</rel>
+
+<note/>
+</example>
+
+
+
+<note>Aslında yardımcı fiille yapılmış</note>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

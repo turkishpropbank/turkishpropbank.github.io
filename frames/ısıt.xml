@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ısıt">
+
+
+<roleset id="ısıt.01" name="Sıcak duruma getirmek">
+<roles>
+<role descr="ısıtan" f="" n="0" suffix="NOM"/>
+
+<role descr="ısıtılan" f="" n="1" suffix="NOM-ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Her gün birkaç ev kadını orada çalı çırpıyla su ısıtıp çamaşırını yıkıyor.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Her gün</arg>
+<arg f="" n="0" suffix="">birkaç ev kadını</arg>
+<arg f="loc" n="m" suffix="">orada</arg>
+<arg f="mnr" n="m" suffix="">çalı çırpıyla</arg>
+<rel f="">ısıtıp</rel>
+<arg f="" n="1" suffix="">su</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

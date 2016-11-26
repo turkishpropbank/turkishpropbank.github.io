@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soruştur">
+
+
+<roleset id="soruştur.01" name="Öğrenilmek istenilen şeyi birçok kişiye inceden inceye sormak, araştırmak">
+<roles>
+<role descr="soruşturan" f="" n="0" suffix="NOM"/>
+
+<role descr="araştırılan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu işi bir soruşturalım.</text>
+<note/>
+<arg f="" n="1" suffix="">Bu işi</arg>
+<arg f="adv" n="m" suffix="">bir</arg>
+<rel f="">soruşturalım</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

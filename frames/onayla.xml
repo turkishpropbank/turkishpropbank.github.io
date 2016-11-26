@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="onayla">
+
+
+<roleset id="onayla.01" name="Yapılan bir işi doğru ve yerinde bularak kabul etmek, tasdik etmek">
+<roles>
+<role descr="onaylayan" f="" n="0" suffix="NOM"/>
+
+<role descr="onaylanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Babam damat adayını onayladı.</text>
+<note/>
+<arg f="" n="0" suffix="">Babam</arg>
+<arg f="" n="1" suffix="">damat adayını</arg>
+<rel f="">onayladı</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,202 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yap">
+
+
+<roleset id="yap.01" name="Gerçekleştirmek">
+<roles>
+<role descr="yapan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yapılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-PG24D1B-2306" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O gün son resmi sayılabilecek son otoportresini yaptı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">O gün</arg>
+<arg f="" n="1" suffix="">son resmi sayılabilecek son otoportresini</arg>
+<rel f="">yaptı</rel>
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="yap.02" name="Bir işle uğraşmak">
+<roles>
+<role descr="yapan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yapılan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc_PI36C2A-0609" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hemşirelik yapmak.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Hemşirelik</arg>
+<rel f="">yapmak</rel>
+
+
+
+
+<note/>
+</example>
+<example name="tnc-UA16B2A-0482" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elimden tutup bana adeta rehberlik yaptı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="mnr" n="m" suffix="">Elimden tutup</arg>
+<arg f="gol" n="m" suffix="">bana</arg>
+<arg f="adv" n="m" suffix="">adeta</arg>
+<arg f="" n="1" suffix="">rehberlik</arg>
+<rel f="">yaptı</rel>
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

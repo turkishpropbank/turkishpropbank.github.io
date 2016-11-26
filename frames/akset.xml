@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="akset">
+
+
+<roleset id="akset.01" name="Ulaşmak">
+<roles>
+<role descr="akseden" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<role descr="nereye aksettiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Olaylar yukarı makamlara aksetti.</text>
+<note/>
+<arg f="" n="1" suffix="">Olaylar</arg>
+<arg f="" n="2" suffix="">yukarı makamlara</arg>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

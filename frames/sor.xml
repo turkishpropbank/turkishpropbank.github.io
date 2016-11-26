@@ -1,0 +1,85 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sor">
+
+
+<roleset id="sor.01" name="Birine soru yönelterek herhangi bir konuda bilgi istemek">
+<roles>
+<role descr="soran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sorulan konu" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime sorulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hastanenin nöbetçi doktoru yok mu? diye soruyorum</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Hastanenin nöbetçi doktoru yok mu? diye</arg>
+<rel f="">soruyorum</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sor.02" name="Çok iyi bilmek">
+<roles>
+<role descr="sorumlu bulan (soran)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sorumlu olunan konu (neyi sorduğu)" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="sorumlu olan kişi (kimden sorulduğu)" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu işi benden sorarlar</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu işi</arg>
+<arg f="" n="2" suffix="">benden</arg>
+<rel f="">sorarlar</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

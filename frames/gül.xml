@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gül">
+
+
+<roleset id="gül.01" name="Sesli bir biçimde duygusunu açığa vurmak">
+<roles>
+<role descr="gülen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gül.02" name="Biriyle alay etmek.">
+<roles>
+<role descr="alay eden kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="alay edilen kişi/şey" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elbisesine hiç uymayan ayakkabılarına çok güldüm.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Elbisesine hiç uymayan ayakkabılarına</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">güldüm</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

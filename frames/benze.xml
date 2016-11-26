@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="benze">
+
+
+<roleset id="benze.01" name="Andırmak">
+<roles>
+<role descr="benzeyen" f="" n="0" suffix="NOM"/>
+
+<role descr="benzediği şey" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona göre işlemeyen bir saat hastalanmış bir insana benzerdi.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">işlemeyen bir saat</arg>
+<arg f="" n="1" suffix="">hastalanmış bir insana</arg>
+<arg f="dis" n="m" suffix="">Ona göre</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

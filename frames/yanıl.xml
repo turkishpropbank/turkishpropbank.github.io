@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yanıl">
+
+
+<roleset id="yanıl.01" name="Aldanmak">
+<roles>
+<role descr="yanılan" f="" n="0" suffix="NOM"/>
+
+<role descr="hangi konuda yanıldığı" f="" n="1" suffix="LOC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu konuda yanılmışım.</text>
+<note/>
+<arg f="" n="1" suffix="">Bu konuda</arg>
+<rel f="">yanılmışım</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

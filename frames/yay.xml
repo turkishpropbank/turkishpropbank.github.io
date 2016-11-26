@@ -1,0 +1,121 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yay">
+
+
+<roleset id="yay.01" name="Bir şeyi açarak, düzelterek bir alanı örtecek biçimde sermek">
+<roles>
+<role descr="yayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yayılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye yayıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kardeşleri çardağın içine, dışına yatakları yayıyorlardı.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Kardeşleri</arg>
+<arg f="" n="2" suffix="">çardağın içine, dışına</arg>
+<arg f="" n="1" suffix="">yatakları</arg>
+<rel f="">yayıyorlardı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="yay.02" name="Birçok kimseye duyurmak">
+<roles>
+<role descr="duyuran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="duyurulan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime / neye duyurulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kıran Bey, çetesinin şöhretini her tarafa yaydı.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Kıran Bey</arg>
+<arg f="" n="1" suffix="">çetesinin şöhretini</arg>
+<arg f="" n="2" suffix="">her tarafa</arg>
+<rel f="">yaydı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="yay.03" name="Çevreye dağılmasına sebep olmak">
+<roles>
+<role descr="yayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yayılan şey" f="" n="1" suffix="ACC"/>
+<role descr="nereye yayıldığı" f="" n="2" suffix="DAT"/>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="yay.04" name="Işık kaynağı, ışığı kendinden dışarıya doğru çeşitli yönlere göndermek. Saçmak">
+<roles>
+<role descr="yayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yayılan" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

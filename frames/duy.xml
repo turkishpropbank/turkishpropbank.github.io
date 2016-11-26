@@ -1,0 +1,195 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="duy">
+
+
+<roleset id="duy.01" name="öğrenmek">
+<roles>
+<role descr="öğrenen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="öğrendiği şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereden öğrendiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir köylüden burada avlandığınızı duydum.</text>
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="3" suffix="">Bir köylüden</arg>
+<arg f="" n="1" suffix="">burada avlandığınızı</arg>
+<rel f="">duydum</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="duy.02" name="İşitmek">
+<roles>
+<role descr="işiten kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<role descr="işitilen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çamaşırcı Fatma kadın annemin duymayan kulaklarına yalvarıyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">kulaklarına</arg>
+<rel f="">duymayan</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="duy.03" name="hissetmek">
+<roles>
+<role descr="hisseden kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="hissettiği şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+<role descr="neye/ne için hissettiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hakiki bedbahtlar, sefaletlerini birdenbire açığa vurmaktan utanç duyarlar.</text>
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Hakiki bedbahtlar</arg>
+<arg f="cau" n="m" suffix="">sefaletlerini birdenbire açığa vurmaktan</arg>
+<arg f="" n="1" suffix="">utanç</arg>
+<rel f=""/>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

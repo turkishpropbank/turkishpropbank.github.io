@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="utan">
+
+
+<roleset id="utan.01" name="Sıkılmak, çekinmek, üzüntü duymak">
+<roles>
+<role descr="utanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neden utandığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doktordan utanmana gerek yok.</text>
+<note/>
+<arg f="" n="1" suffix="">Doktordan</arg>
+<rel f="">utanmana</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

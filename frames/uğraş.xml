@@ -1,0 +1,63 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uğraş">
+
+
+<roleset id="uğraş.01" name="Bir iş üzerinde sürekli çalışmak">
+<roles>
+<role descr="uğraşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="uğraşılan iş" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ekmek dağıtmakla uğraşan yaşlıca bir adama seslendi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Ekmek dağıtmakla</arg>
+<arg f="" n="0" suffix="">yaşlıca bir adama</arg>
+<rel f="">uğraşan</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="uğraş.02" name="Bir işi başarmaya çalışmak, iş edinmek">
+<roles>
+<role descr="uğraşan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye uğraştığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir çekirgeye sigara içirmeye uğraşıyordu</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bir çekirgeye sigara içirmeye</arg>
+<rel f="">uğraşıyordu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

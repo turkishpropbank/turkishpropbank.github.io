@@ -1,0 +1,144 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çağır">
+ 
+
+<roleset id="çağır.01" name="Davet etmek" vncls="">
+<roles>	
+    <role descr="çağıran kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>							
+    <role descr="çağrılan kimse" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+    <role descr="nereye çağırıldığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>			
+	
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>O akşam Orhan'ı yemeğe çağırdı.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">O akşam</arg>
+<arg f="" n="1" suffix="">Orhan'ı</arg>
+<arg f="" n="4" suffix="">yemeğe</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çağır.02" name="Binmek için bir araç istemek" vncls="">
+<roles>	
+    <role descr="isteyen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>							
+    <role descr="istenen araç" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>				
+	
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bir taksi çağırdım.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bir taksi</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<roleset id="çağır.03" name="Birine seslenmek">
+<roles>
+<role descr="seslenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="seslenilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annem seni çağırdı.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Annem</arg>
+<arg f="" n="1" suffix="">seni</arg>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

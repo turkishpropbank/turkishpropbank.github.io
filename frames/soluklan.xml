@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soluklan">
+
+
+<roleset id="soluklan.01" name="Dinlenmek">
+<roles>
+<role descr="dinlenen" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Durup soluklanmadan aslanlı kapısıyla övünmeye başladı.</text>
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Durup</arg>
+<rel f="">soluklanmadan</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

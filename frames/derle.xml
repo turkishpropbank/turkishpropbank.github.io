@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="derle">
+
+
+<roleset id="derle.01" name="Bir araya getirmek">
+<roles>
+<role descr="toplayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="toplanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hakkında yazılanları yeni sayımızda derledik.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Hakkında yazılanları</arg>
+<arg f="loc" n="m" suffix="">yeni sayımızda</arg>
+<rel f="">derledik</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

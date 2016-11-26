@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="şükret">
+
+
+<roleset id="şükret.01" name="Minnet duymak">
+<roles>
+<role descr="minnet duyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="minnet duyulan" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="minnet duyma sebebi" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note>aslında yardımcı fiille oluşturulmuş</note>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sana verdikleri için şükretmelisin Tanrı'ya.</text>
+<note/>
+<arg f="" n="2" suffix="">Sana verdikleri için</arg>
+<arg f="" n="1" suffix="">Tanrı'ya</arg>
+<rel f="">şükretmelisin</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

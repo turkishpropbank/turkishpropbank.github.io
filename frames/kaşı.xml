@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaşı">
+
+
+<roleset id="kaşı.01" name="Deriyi hafifçe ovmak">
+<roles>
+<role descr="kaşıyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kaşıdığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Baktı ki doktor sakalını kaşıyarak susuyor.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">doktor</arg>
+<arg f="" n="1" suffix="">sakalını</arg>
+<rel f="">kaşıyarak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

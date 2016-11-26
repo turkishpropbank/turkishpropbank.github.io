@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="indirge">
+
+
+<roleset id="indirge.01" name="Daha kolay ve yalın duruma getirmek">
+<roles>
+<role descr="indirgeyen" f="" n="0" suffix="NOM"/>
+
+<role descr="indirgenen" f="" n="1" suffix="ACC"/>
+<role descr="neye indirgendiği" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bilim dünyayı kemiyetlere indirgedi.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bilim</arg>
+<arg f="" n="1" suffix="">dünyayı</arg>
+<arg f="" n="2" suffix="">kemiyetlere</arg>
+<rel f="">indirgedi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

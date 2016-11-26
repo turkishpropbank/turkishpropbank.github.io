@@ -1,0 +1,251 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sür">
+
+
+<roleset id="sür.01" name="Sevk etmek">
+<roles>
+<role descr="süren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sürülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="nereye sürüldüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doğuya sürülmek</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Doğuya</arg>
+<rel f="">sürülmek</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="sür.02" name="Devam etmek">
+<roles>
+<role descr="süren" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="ne zamana kadar sürdüğü" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="time"/>
+</role>
+
+
+
+
+
+
+<note>2. rol de -e kadar kullanılıyor</note>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yenilenmesine karar verilen Meclisin yetkileri, yeni Meclisin seçilmesine kadar sürer.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Yenilenmesine karar verilen Meclisin yetkileri</arg>
+<arg f="" n="2" suffix="">yeni Meclisin seçilmesine kadar</arg>
+<rel f="">sürer</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="sür.03" name="Dokundurmak, değdirmek">
+<roles>
+<role descr="dokunduran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dokundurulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="dokundurulduğu yer/şey" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yüzümü saçlarına sürmek için başımı eğdim.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Yüzümü</arg>
+<arg f="" n="2" suffix="">saçlarına</arg>
+<rel f="">sürmek</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="sür.04" name="Zaman almak">
+<roles>
+<role descr="zaman alan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="ne kadar zaman aldığı" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="time"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Her odanın ziyareti bir saat sürmüştü.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Her odanın ziyareti</arg>
+<arg f="" n="2" suffix="">bir saat</arg>
+<rel f="">sürmüştü</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="sür.05" name="Düşünce, tasarı önermek">
+<roles>
+<role descr="öneren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="önerilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="öne, ileri vb... (nereye sürdüğü)" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türkiye'nin yeni pürüzlerle karşı karşıya kaldığını öne sürdü.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Türkiye'nin yeni pürüzlerle karşı karşıya kaldığını</arg>
+<arg f="" n="2" suffix="">öne</arg>
+<rel f="">sürdü</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="sür.06" name="bir araç kullanmak">
+<roles>
+<role descr="sürücü" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sürülen taşıt" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Araba sürmeyi sonunda öğrendim.</text>
+<note/>
+<arg f="" n="1" suffix="">Araba</arg>
+<rel f="">sürmeyi</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sev">
+
+
+<roleset id="sev.01" name="Sevgi ve bağlılık duymak">
+<roles>
+<role descr="seven" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="sevilen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çok az lakırtı söylediği için sevdiği arkadaşları bile kendisini iyice anlayamamışlardı.</text>
+
+
+
+
+
+<note/>
+<arg f="cau" n="m" suffix="">Çok az lakırtı söylediği için</arg>
+<arg f="" n="1" suffix="">arkadaşları</arg>
+<rel f="">sevdiği</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

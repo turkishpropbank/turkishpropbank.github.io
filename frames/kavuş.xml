@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kavuş">
+
+
+<roleset id="kavuş.01" name="Sevilen bir kimseyle bir araya gelmek">
+<roles>
+<role descr="kavuşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="neye kavuştuğu" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Biz 1923'te bir Mustafa Kemal'e kavuşmasaydık, gelecek zamanlara doğru yollarımızı tıkayan aşılmaz setleri yıkamazdık.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Biz</arg>
+<arg f="tmp" n="m" suffix="">1923'te</arg>
+<arg f="" n="1" suffix="">bir Mustafa Kemal'e</arg>
+<rel f="">kavuşmasaydık</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

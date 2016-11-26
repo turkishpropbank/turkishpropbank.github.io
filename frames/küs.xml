@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="küs">
+
+
+<roleset id="küs.01" name="Darılmak">
+<roles>
+<role descr="darılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="kime/neye darıldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kocası öldükten sonra hayata küstü.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Kocası öldükten sonra</arg>
+<arg f="" n="1" suffix="">hayata</arg>
+<rel f="">küstü</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="haşla">
+
+
+<roleset id="haşla.01" name="Bir şeyi kaynar suya daldırmak">
+<roles>
+<role descr="haşlayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="haşlanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben makarnaları haşlarken o da evdeki kısıtlı malzemeyle kekikli domatesli bir sos hazırlamaya koyuldu.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="1" suffix="">makarnaları</arg>
+<rel f="">haşlarken</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="haşla.02" name="Sertçe paylamak, azarlamak">
+<roles>
+<role descr="azarlayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="azarlanan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Recep'i kenara çekip fena hâlde haşladılar.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Recep'i</arg>
+<arg f="mnr" n="m" suffix="">kenara çekip</arg>
+<arg f="ext" n="m" suffix="">fena hâlde</arg>
+<rel f="">haşladılar.</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ört">
+
+
+<roleset id="ört.01" name="Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak">
+<roles>
+<role descr="örten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="örtülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="ne ile örtüldüğü / örtü" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Uyurken üstümü battaniye ile örtmüş.</text>
+<note/>
+<arg f="tmp" n="m" suffix="">Uyurken</arg>
+<arg f="" n="1" suffix="">üstümü</arg>
+<arg f="" n="2" suffix="">battaniye ile</arg>
+<rel f="">örtmüş</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çemkir">
+
+
+<roleset id="çemkir" name="Birine karşı gelmek, sert cevap vermek." vncls="">
+<roles>	
+    <role descr="çemkiren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="kime/neye çemkirdiği" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Büsbüyük babasına çemkiriyor.</text>
+
+
+<note/>
+<arg f="" n="4" suffix="">Büsbüyük babasına</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

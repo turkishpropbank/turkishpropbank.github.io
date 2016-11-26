@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="iğren">
+
+
+<roleset id="iğren.01" name="Hoşlanmamak, nefret etmek">
+<roles>
+<role descr="iğrenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neyden iğrendiği" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-NE09C2A-0324" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gördüğüm an iğrendim adamdan.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Gördüğüm an</arg>
+<arg f="" n="1" suffix="">adamdan</arg>
+<rel f="">iğrendim</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

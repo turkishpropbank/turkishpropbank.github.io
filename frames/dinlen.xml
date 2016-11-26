@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dinlen">
+
+
+<roleset id="dinlen.01" name="Güç kazanmak için çalışmaya ara vermek">
+<roles>
+<role descr="dinlenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Pervin biraz dinlendikten sonra ayağa kalktı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Pervin</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">dinlendikten</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

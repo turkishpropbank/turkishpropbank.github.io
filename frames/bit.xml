@@ -1,0 +1,101 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bit">
+
+
+<roleset id="bit.01" name="Tükenmek, son bulmak" vncls="">
+<roles>	
+    <role descr="biten şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Dün akşam param bitmişti.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Dün akşam</arg>
+<arg f="" n="1" suffix="">param</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bit.02" name="Çok sevmek" vncls="">
+<roles>	
+    <role descr="seven kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>		
+	<role descr="çok sevilen şey" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ben böyle sese biterim.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="1" suffix="">böyle sese</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

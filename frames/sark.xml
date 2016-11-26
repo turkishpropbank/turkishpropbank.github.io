@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sark">
+
+
+<roleset id="sark.01" name="Aşağı/ileri uza(n)mak">
+<roles>
+<role descr="sarkan" f="" n="1" suffix="NOM"/>
+
+<role descr="nereye sarktığı" f="" n="2" suffix="DAT"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Küpeleri sarkıyor.</text>
+<note/>
+<arg f="" n="1" suffix="">Küpeleri</arg>
+<rel f="">sarkıyor</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

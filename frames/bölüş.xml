@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bölüş">
+
+
+<roleset id="bölüş.01" name="paylaşmak">
+<roles>
+<role descr="bölüşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="bölüşülen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

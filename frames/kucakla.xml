@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kucakla">
+
+
+<roleset id="kucakla.01" name="Kollarla sarıp göğüs üzerine bastırmak">
+<roles>
+<role descr="kucaklayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kucaklanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuğunu şefketle kucakladı.</text>
+<note/>
+<arg f="" n="1" suffix="">Çocuğunu</arg>
+<arg f="mnr" n="m" suffix="">şefketle</arg>
+<rel f="">kucakladı</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

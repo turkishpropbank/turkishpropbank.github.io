@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uyar">
+
+
+<roleset id="uyar.01" name="ikaz etmek">
+<roles>
+<role descr="uyaran kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="uyarılan kişi/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+<role descr="ne hakkında uyarıldığı (için/hakkında)" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="ne ile/nasıl uyarıldığı" f="" n="3" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Mustafa Kemal Paşa gittikten sonra gelen mebuslar beni uyarıyorlardı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Mustafa Kemal Paşa gittikten sonra gelen mebuslar</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<rel f="">uyarıyorlardı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hatta bazı dostlarımız, ondan çok etkilendiğimiz ve onun kuş olduğunu unuttuğumuz konusunda bizi uyardılar.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Hatta</arg>
+<arg f="" n="0" suffix="">bazı dostlarımız</arg>
+<arg f="" n="2" suffix="">ondan çok etkilendiğimiz ve onun kuş olduğunu unuttuğumuz konusunda</arg>
+<rel f="">uyardılar</rel>
+<arg f="" n="1" suffix="">bizi</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

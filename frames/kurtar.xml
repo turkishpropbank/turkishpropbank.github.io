@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kurtar">
+
+
+<roleset id="kurtar.01" name="Bir canlıyı bir felaketten, tehlikeden veya zor durumdan uzaklaştırmak">
+<roles>
+<role descr="kurtarıcı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kurtarılan" f="" n="1" suffix="ACC"/>
+<role descr="neyden/nereden kurtarıldığı" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İşte böyle bir eser onları bu külfetten kurtarmış olur.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">İşte</arg>
+<arg f="" n="0" suffix="">böyle bir eser</arg>
+<arg f="" n="1" suffix="">onları</arg>
+<rel f="">kurtarmış</rel>
+<arg f="" n="2" suffix="">bu külfetten</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

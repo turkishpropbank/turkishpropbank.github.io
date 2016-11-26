@@ -1,0 +1,90 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="iç">
+
+
+<roleset id="iç.01" name="Bir sıvıyı ağza alıp yutmak">
+<roles>
+<role descr="içen kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="içilen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk2" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Toprak suyu içer.</text>
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Toprak</arg>
+<arg f="" n="1" suffix="">suyu</arg>
+<rel f="">içer.</rel>
+</example>
+<example name="tnc-JH13C4A-1319" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çeşme suyunu  içti.</text>
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Çeşme suyunu</arg>
+<rel f="">içti</rel>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

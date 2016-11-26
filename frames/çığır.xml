@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çığır">
+
+
+<roleset id="çığır" name="Çağırmak, seslenmek." vncls="">
+<roles>	
+    <role descr="çığıran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çığırdığı kişi/şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tnc.RI22E1B-2911" src="" type="">
+<text>Gazi Rahman gene türküler çığıracaktır, eski türküleri çığıracaktır.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Gazi Rahman</arg>
+<arg f="tmp" n="m" suffix="">gene</arg>
+<arg f="" n="1" suffix="">türküler</arg>
+<rel f="">çığıracaktır</rel>
+<rel f="">çığıracaktır</rel>
+<arg f="" n="1" suffix="">eski türküleri</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,51 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="toparla">
+
+
+<roleset id="toparla.01" name="Bir araya getirmek, çekidüzen vermek">
+<roles>
+<role descr="toparlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="toparlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir gün okulda işgal eylemi olmuş, bütün öğrencileri toparlamışlar</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">bütün öğrencileri</arg>
+<rel f="">toparlamışlar</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bildiği bütün Fransızcayı toparlayarak vitrindeki kravatın değerini sordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bildiği bütün Fransızcayı</arg>
+<rel f="">toparlayarak</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Odayı toparladı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Odayı</arg>
+<rel f="">toparladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

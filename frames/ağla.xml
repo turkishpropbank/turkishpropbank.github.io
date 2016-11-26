@@ -1,0 +1,111 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ağla">
+
+
+
+
+<roleset id="ağla.01" name="Üzüntü, acı, sevinç etkisiyle gözyaşı dökmek" vncls="">
+<roles>
+  <role descr="ağlayan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="ağlama nedeni" f="" n="3" suffix="ABL">
+	<vnrole vncls="" vntheta="cause"/>
+</role>	
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tcd.TI22E1B-2913" src="" type="">
+<text>Ziyaret sırasında kabri eliyle düzeltti, üzüntüsünden ağladı.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">üzüntüsünden</arg>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="ağla.02" name="Sızlanmak, yakınmak" vncls="">
+<roles>
+  <role descr="ağlayan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="ağladığı konu" f="" n="1" suffix="DAT">
+	<vnrole vncls="" vntheta="topic"/>
+</role>	
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tcd.KA16B4A-0462" src="" type="">
+<text>Çaresizliğine ve yalnızlığına ağladı.</text>
+
+
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

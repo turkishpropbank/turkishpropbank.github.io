@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ele">
+
+
+<roleset id="ele.01" name="Seçmek">
+<roles>
+<role descr="ayıran/seçen kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ayrılan/seçilen kişi/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-SI22E1B-2912" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kurt, ununu elemiş eleğini asmış birine benziyormuş.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Kurt</arg>
+<arg f="" n="1" suffix="">ununu</arg>
+<rel f="">elemiş</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="postala">
+
+
+<roleset id="postala.01" name="Postaya vermek">
+<roles>
+<role descr="postalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="postalanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye postalandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>"Halk, kendisine ne yapılacağından haberdar olmalı" diye düşündü ve belgeleri Guardian'a postaladı.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ve</arg>
+<arg f="" n="1" suffix="">belgeleri</arg>
+<arg f="" n="2" suffix="">Guardian'a</arg>
+<rel f="">postaladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="postala.02" name="Herhangi bir sebeple birini yanından uzaklaştırmak">
+<roles>
+<role descr="uzaklaştıran" f="" n="0" suffix="NOM"/>
+
+<role descr="uzaklaştırılan" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çok geçmeden biri koluma girdi ve "Özür dileriz şimdi kadınların alışveriş saati, erkekler için akşam açığız" deyip beni kibarca postaladı.</text>
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">"Özür dileriz şimdi kadınların alışveriş saati, erkekler için akşam açığız" deyip</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="mnr" n="m" suffix="">kibarca</arg>
+<rel f="">postaladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

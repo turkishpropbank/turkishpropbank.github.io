@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yeral">
+
+
+<roleset id="yeral.01" name="Arasında bulunmak">
+<roles>
+<role descr="yer alan şey" f="" n="1" suffix="NOM"/>
+
+
+<role descr="nerede yer aldığı" f="" n="2" suffix="LOC"/>
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

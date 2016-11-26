@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dişle">
+
+
+<roleset id="dişle.01" name="Bir şeyin bir parçasını koparmak">
+<roles>
+<role descr="dişleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<role descr="dişlenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu elmayı kim dişledi?</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu elmayı</arg>
+<arg f="" n="0" suffix="">kim</arg>
+<rel f="">dişledi</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

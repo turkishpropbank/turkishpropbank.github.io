@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="keşfet">
+
+
+<roleset id="keşfet.01" name="Var olduğu bilinmeyen bir şeyi bulmak">
+<roles>
+<role descr="bulan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="bulunan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Medya birdenbire Türkeş'in değerini keşfetti.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Medya</arg>
+<arg f="mnr" n="m" suffix="">birdenbire</arg>
+<arg f="" n="1" suffix="">Türkeş'in değerini</arg>
+<rel f="">keşfetti</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

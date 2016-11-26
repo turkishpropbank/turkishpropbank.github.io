@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="suçla">
+
+
+<roleset id="suçla.01" name="İtham etmek">
+<roles>
+<role descr="suçalayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="suçlanan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="ne ile/niçin suçlandığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dikkatle yüzüne bakıyorum ama beni suçladığına ilişkin hiçbir belirti göremiyorum.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ama</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<rel f="">suçladığına</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

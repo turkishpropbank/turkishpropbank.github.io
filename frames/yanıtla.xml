@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yanıtla">
+
+
+<roleset id="yanıtla.01" name="Cevaplamak">
+<roles>
+<role descr="yanıtlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yanıtlanan şey" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Azmi benim yerime yanıtladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Azmi</arg>
+<arg f="adv" n="m" suffix="">benim yerime</arg>
+<rel f="">yanıtladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

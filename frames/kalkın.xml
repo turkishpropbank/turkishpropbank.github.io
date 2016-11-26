@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kalkın">
+
+
+<roleset id="kalkın.01" name="Zenginleşmek">
+<roles>
+<role descr="zenginleşen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu firma batmak üzereyken yeni müdürün çabasıyla kalkındı.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bu firma batmak üzereyken</arg>
+<arg f="mnr" n="m" suffix="">yeni müdürün çabasıyla</arg>
+<rel f="">kalkındı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

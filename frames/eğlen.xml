@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eğlen">
+
+
+<roleset id="eğlen.01" name="Neşeli, hoşça vakit geçirmek">
+<roles>
+<role descr="eğlenen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+<roleset id="eğlen.02" name="Alay etmek">
+<roles>
+<role descr="alay eden" f="" n="0" suffix="NOM"/>
+
+<role descr="alay edilen" f="" n="1" suffix="WITH"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yalnız bunları sordu ve inan ki benimle eğlendi.</text>
+
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

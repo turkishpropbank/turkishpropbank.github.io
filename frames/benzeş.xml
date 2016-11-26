@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="benzeş">
+
+
+<roleset id="benzeş.01" name="Birbirine benzemek">
+<roles>
+<role descr="benzeşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+
+
+<role descr="kiminle/neyle benzeştiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Huylarımız birbiriyle benzeşiyor.</text>
+<note/>
+<arg f="" n="0" suffix="">Huylarımız</arg>
+<arg f="" n="1" suffix="">birbiriyle</arg>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

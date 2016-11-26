@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sık">
+
+
+<roleset id="sık.01" name="Basınç altına almak">
+<roles>
+<role descr="sıkan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sıkılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yalnız kalan kadın titriyor, hıçkırarak kucağındaki yavrusunu sıkıyor</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Yalnız kalan kadın</arg>
+<arg f="mnr" n="m" suffix="">hıçkırarak</arg>
+<rel f="">sıkıyor</rel>
+<arg f="" n="1" suffix="">kucağındaki yavrusunu</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

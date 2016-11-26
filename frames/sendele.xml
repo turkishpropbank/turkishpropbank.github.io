@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sendele">
+
+
+<roleset id="sendele.01" name="Dengesi bozularak düşecek gibi olmak, adımlarını şaşırmak">
+<roles>
+<role descr="sendeleyen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İkimiz de birbirine sarılmış sarhoşlar gibi bir sağa bir sola sendeliyorduk.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">İkimiz (de)</arg>
+<arg f="mnr" n="m" suffix="">birbirine sarılmış sarhoşlar gibi</arg>
+<arg f="gol" n="m" suffix="">bir sağa bir sola</arg>
+<rel f="">sendeliyorduk</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="iyileş">
+
+
+<roleset id="iyileş.01" name="İyi duruma gelmek">
+<roles>
+<role descr="iyileşen şey / kimse" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hava iyileşti.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Hava</arg>
+<rel f="">iyileşti</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İyileşmek için en küçük bir gayret göstermiyorsun.</text>
+
+
+<note/>
+<rel f="">İyileşmek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

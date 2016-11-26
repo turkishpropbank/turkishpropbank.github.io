@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tat">
+
+
+<roleset id="tat.01" name="Dil yardımıyla bir şeyin tadının nasıl olduğunu anlamak">
+<roles>
+<role descr="tadan" f="" n="0" suffix="NOM"/>
+
+<role descr="tadına bakılan" f="" n="1" suffix="ACC"/>
+<role descr="tadına bakılan" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fasulyeden de tat biraz.</text>
+<note/>
+<arg f="" n="1" suffix="">Fasulyeden (de)</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">tat</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

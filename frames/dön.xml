@@ -1,0 +1,327 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dön">
+
+
+<roleset id="dön.01" name="Kendi ekseni üzerinde hareket etmek">
+<roles>
+<role descr="dönen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<role descr="nerede döndüğü" f="" n="2" suffix="LOC"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dişliler dönüyor hava kirliliğine katkıda bulunuyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Dişliler</arg>
+<rel f="">dönüyor</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dön.02" name="Geri gelmek, geri gitmek">
+<roles>
+<role descr="geri gelen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden geri geldiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="trajectory"/>
+</role>
+<role descr="nereye doğru gittiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ertesi gün aynı yoldan Bodrum'a döndük.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Ertesi gün</arg>
+<arg f="" n="3" suffix="">aynı yoldan</arg>
+<arg f="" n="4" suffix="">Bodrum'a</arg>
+<rel f="">döndük</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dön.03" name="Sapmak">
+<roles>
+<role descr="dönen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dönülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gülümseyerek bir köşeyi döndü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Gülümseyerek</arg>
+<arg f="" n="1" suffix="">bir köşeyi</arg>
+<rel f="">döndü</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dön.04" name="Benzemek">
+<roles>
+<role descr="benzeyen kişi/şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="neye benzediği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dikmen yolları, mabede adak için gidenlerin yollarına dönmüştü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Dikmen yolları</arg>
+<arg f="" n="4" suffix="">mabede adak için gidenlerin yollarına</arg>
+<rel f="">dönmüştü</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

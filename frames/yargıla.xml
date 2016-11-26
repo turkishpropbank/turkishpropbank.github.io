@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yargıla">
+
+
+<roleset id="yargıla.01" name="Yargıç, bir karara varmak için davalı ile davacıyı dinleyerek sonuca varmak">
+<roles>
+<role descr="yargılayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yargılanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Akın arkadaşımız kadınları yargılıyor.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Akın arkadaşımız</arg>
+<arg f="" n="1" suffix="">kadınları</arg>
+<rel f="">yargılıyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="katlan">
+
+
+<roleset id="katlan.01" name="Hoş olmayan bir duruma, güç şartlara dayanmak, tahammül etmek">
+<roles>
+<role descr="katlanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye katlanıldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Böyle bir yolculuğa katlanabilecek hâlde değildir.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Böyle bir yolculuğa</arg>
+<rel f="">katlanabilecek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

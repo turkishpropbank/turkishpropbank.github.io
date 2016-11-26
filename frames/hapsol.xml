@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hapsol">
+
+
+<roleset id="hapsol.01" name="Bulunduğu yerden dışarı çıkamamak">
+<roles>
+<role descr="hapsolan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereye hapsolduğu" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>1960'lar yükselişine fren koyan 12 Mart sonrasında, sol giderek savunma mevzilerine hapsoldu.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">1960'lar yükselişine fren koyan 12 Mart sonrasında</arg>
+<arg f="" n="0" suffix="">sol</arg>
+<arg f="mnr" n="m" suffix="">giderek</arg>
+<arg f="" n="1" suffix="">savunma mevzilerine</arg>
+<rel f="">hapsoldu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yara">
+
+
+<roleset id="yara.01" name="Bir şey yararlı olmak, yarar sağlamak">
+<roles>
+<role descr="yarar sağlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="ne için(neye, kime) yarar sağladığı" f="" n="1" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sertleşmeyi bilmeyen bir iyilik, iyilik olmakta ısrar eden bir iyilik neye yarar?</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Sertleşmeyi bilmeyen bir iyilik, iyilik olmakta ısrar eden bir iyilik</arg>
+<arg f="" n="1" suffix="">neye</arg>
+<rel f="">yarar</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

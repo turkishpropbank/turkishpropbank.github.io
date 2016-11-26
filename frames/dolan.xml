@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dolan">
+
+
+<roleset id="dolan.01" name="Gelişigüzel gezmek">
+<roles>
+<role descr="gezen" f="" n="0" suffix="NOM"/>
+
+<role descr="nerede gezdiği" f="" n="2" suffix="LOC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kızlarının, gelinlerinin evleri arasında dolanıyor, hep evini, komşularını arıyordu.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Kızlarının, gelinlerinin evleri arasında</arg>
+<rel f="">dolanıyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

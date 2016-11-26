@@ -1,0 +1,382 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="geçir">
+
+
+<roleset id="geçir.01" name="Geçme işini yaptırmak, geçmesini sağlamak">
+<roles>
+<role descr="geçiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<role descr="geçirilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye geçirildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+<role descr="nereden geçirildiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="geçir.02" name="Zaman harcamak">
+<roles>
+<role descr="zaman harcayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ne kadar zaman harcadığı" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="time"/>
+</role>
+<role descr="zamanı nasıl harcadığı" f="" n="2" suffix=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="geçir.03" name="Başına gelmek, yaşamak">
+<roles>
+<role descr="yaşayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yaşanan olay" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Operasyon geçirmek, ameliyat geçirmek</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Operasyon</arg>
+<rel f="">geçirmek</rel>
+<arg f="" n="1" suffix="">ameliyat</arg>
+<rel f="">geçirmek</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+<predicate lemma="gözden_geçir">
+
+
+<roleset id="geçir.04" name="Hızlıca bakmak, okumak">
+<roles>
+<role descr="gözden geçiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gözden geçirilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+<predicate lemma="ele_geçir">
+
+
+<roleset id="geçir.05" name="Yakalamak">
+<roles>
+<role descr="yakalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yakalanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="geçir.06" name="Sahibi olmak">
+<roles>
+<role descr="sahibi olan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sahibi olunan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türkler İstanbul'u ele geçirdi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

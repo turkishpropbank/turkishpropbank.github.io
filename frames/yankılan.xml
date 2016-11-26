@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yankılan">
+
+
+<roleset id="yankılan.01" name="Yankı durumunda geri dönmek, aksetmek">
+<roles>
+<role descr="yankılanan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tapınaklar gibi yüksek tavanlı olan bu binanın duvarlarında belli belirsiz bir ilahi yankılanıyordu.</text>
+
+
+<note/>
+<arg f="loc" n="m" suffix="">Tapınaklar gibi yüksek tavanlı olan bu binanın duvarlarında</arg>
+<arg f="" n="1" suffix="">belli belirsiz bir ilahi</arg>
+<rel f="">yankılanıyordu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="doğra">
+
+
+<roleset id="doğra.01" name="Keserek parçalamak">
+<roles>
+<role descr="kesen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kesilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ekmeği, bir sütçü dükkânının köpürmüş inek sütüyle dolu kâsesine doğrayacağım.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Ekmeği</arg>
+<arg f="gol" n="m" suffix="">bir sütçü dükkânının köpürmüş inek sütüyle dolu kâsesine</arg>
+<rel f="">doğrayacağım</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

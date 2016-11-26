@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tekrarla">
+
+
+<roleset id="tekrarla.01" name="Bir işi bir kez daha yapmak, yinelemek, tekrar etmek">
+<roles>
+<role descr="tekrarlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="tekrarlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aynı şeyleri tekrarlamaktan vazgeçmiyorsun.</text>
+<note/>
+<arg f="" n="1" suffix="">Aynı şeyleri</arg>
+<rel f="">tekrarlamaktan</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aksa">
+
+
+<roleset id="aksa.01" name="Hafifçe topallamak." vncls="">
+<roles>
+  <role descr="aksayan şey" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kızımın sol ayağı aksıyor.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kızımın sol ayağı</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<roleset id="aksa.02" name="Bir iş gereği gibi yürümemek, geri kalmak.">
+<roles>
+<role descr="aksayan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İşler yine aksadı.</text>
+<note/>
+<arg f="" n="1" suffix="">İşler</arg>
+<arg f="tmp" n="m" suffix="">yine</arg>
+<rel f="">aksadı</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yavaşla">
+
+
+<roleset id="yavaşla.01" name="Hızını azaltmak">
+<roles>
+<role descr="yavaşlayan" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Öfke ve siniri dalga gibi dinerek sesi yavaşladı.</text>
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Öfke ve siniri dalga gibi dinerek</arg>
+<arg f="" n="0" suffix="">sesi</arg>
+<rel f="">yavaşladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

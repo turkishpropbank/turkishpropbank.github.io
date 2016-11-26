@@ -1,0 +1,91 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kap">
+
+
+<roleset id="kap.01" name="Çekerek almak, Koparmak, kıstırmak">
+<roles>
+<role descr="çekerek alan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="aldğı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Evvela tabibin elinden defteri kaparak fırlattım.</text>
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Evvela</arg>
+<arg f="dir" n="m" suffix="">tabibin elinden</arg>
+<arg f="" n="1" suffix="">defteri</arg>
+<rel f="">kaparak</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kap.02" name="Bulaşmış olmak, geçmek">
+<roles>
+<role descr="kapan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kaptığı şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu hastalığı nerden kaptın ?</text>
+<note/>
+<arg f="" n="1" suffix="">Bu hastalığı</arg>
+<arg f="dir" n="m" suffix="">nerden</arg>
+<rel f="">kaptın</rel>
+</example>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

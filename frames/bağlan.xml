@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bağlan">
+
+
+<roleset id="bağlan.01" name="Sevmek, içten bağlı olmak">
+<roles>
+<role descr="bağlanan" f="" n="0" suffix="NOM"/>
+
+<role descr="bağlanılan" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona bağlandığım kadar, hiçbirine bağlanmadım.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Ona</arg>
+<rel f="">bağlandığım</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

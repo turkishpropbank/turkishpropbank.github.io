@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ısla">
+
+
+<roleset id="ısla.01" name="Islatmak">
+<roles>
+<role descr="ıslatan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ıslattığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Su kenarında davulcu mendilini ıslayarak tıraşlı kafasına yapıştırdı.</text>
+
+
+
+<note/>
+<arg f="loc" n="m" suffix="">Su kenarında</arg>
+<arg f="" n="0" suffix="">davulcu</arg>
+<arg f="" n="1" suffix="">mendilini</arg>
+<rel f="">ıslayarak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

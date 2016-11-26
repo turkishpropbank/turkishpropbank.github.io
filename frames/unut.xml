@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="unut">
+
+
+<roleset id="unut.01" name="Aklında kalmamak, hatırlamamak">
+<roles>
+<role descr="unutan" f="" n="0" suffix="NOM"/>
+
+<role descr="unutulan şey" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kaç kere aynı palavralarla kendimi avutmuş, öfkemi geçirmiş, sonradan hepsini unutmuştum.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">sonradan</arg>
+<arg f="" n="1" suffix="">hepsini</arg>
+<rel f="">unutmuştum</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

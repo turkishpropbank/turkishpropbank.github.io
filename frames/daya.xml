@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="daya">
+
+
+<roleset id="daya.01" name="Yaslamak">
+<roles>
+<role descr="dayayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dayanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye dayandığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sol kolunu yürürken hep kalçasına dayardı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Sol kolunu</arg>
+<arg f="tmp" n="m" suffix="">yürürken</arg>
+<arg f="tmp" n="m" suffix="">hep</arg>
+<rel f="">dayardı</rel>
+<arg f="" n="4" suffix="">kalçasına</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

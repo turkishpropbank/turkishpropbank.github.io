@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yakın">
+
+
+<roleset id="yakın.01" name="Sızlanmak, sızlanarak anlatmak, şikâyet etmek">
+<roles>
+<role descr="yakınan" f="" n="0" suffix="NOM"/>
+
+<role descr="neyden yakındığı" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kaç kez yakındım ona, yüzünü öyle bir yas kapladı ki yakındığıma da yakınacağıma da bin pişman oldum.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Kaç kez</arg>
+<arg f="" n="1" suffix="">ona</arg>
+<rel f="">yakındım</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

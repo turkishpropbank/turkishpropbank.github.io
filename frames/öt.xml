@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öt">
+
+
+<roleset id="öt.01" name="Ses çıkarmak">
+<roles>
+<role descr="öten" f="" n="0" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ötme bülbül.</text>
+<note/>
+<arg f="" n="0" suffix="">bülbül</arg>
+<rel f="">Ötme</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

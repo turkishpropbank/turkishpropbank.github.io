@@ -1,0 +1,57 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="meraklan">
+
+
+<roleset id="meraklan.01" name="Kaygılanmak, üzülmek, tasalanmak">
+<roles>
+<role descr="meraklanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni meraklandırdın.</text>
+<note/>
+<arg f="" n="0" suffix="">Beni</arg>
+<rel f="">meraklandırdın</rel>
+</example>
+</roleset>
+<roleset id="meraklan.02" name="Bir şeyin sebebini anlamak için çaba harcamak">
+<roles>
+<role descr="meraklanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="merak edilen" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yeşil gözlülerin dünyayı yeşil görüp görmediklerine meraklanıp gezindiği çocukluk günlerini anlattı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Yeşil gözlülerin dünyayı yeşil görüp görmediklerine</arg>
+<rel f="">meraklanıp</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

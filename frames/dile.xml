@@ -1,0 +1,58 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dile">
+
+
+<roleset id="dile.01" name="Arzu etmek">
+<roles>
+<role descr="rica eden kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dilediği şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<predicate lemma="özür_dile">
+
+
+<roleset id="dile.02" name="Bağışlanmak istemek">
+<roles>
+<role descr="bağışlanmak isteyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kimden istediği" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="sebebi" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="cause"/>
+</role>
+<note/>
+</roles>
+
+<note>2. rol için</note>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

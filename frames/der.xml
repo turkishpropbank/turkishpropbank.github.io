@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="der">
+
+
+<roleset id="der.01" name="Bir araya getirmek">
+<roles>
+<role descr="toplayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="toplanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir çiçek dermeden sevgi bağından...</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bir çiçek</arg>
+<arg f="dir" n="m" suffix="">sevgi bağından</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

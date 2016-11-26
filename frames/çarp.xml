@@ -1,0 +1,276 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çarp">
+
+
+<roleset id="çarp.01" name="Hızla değmek, vurmak." vncls="">
+<roles>	
+    <role descr="çarpan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="çarptığı şey" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ortada duran uzun bir masaya çarptım.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Ortada duran uzun bir masaya</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çarp.02" name="Etkisiyle birdenbire hasta etmek" vncls="">
+<roles>	
+    <role descr="hasta eden şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+	<role descr="hasta olan kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Güneş çarptı.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Güneş</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çarp.03" name="Dolandırmak" vncls="">
+<roles>	
+    <role descr="çalan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+	<role descr="çalınan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Köprüden denizi seyredenlerin cüzdanını hep çarparlar.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Köprüden denizi seyredenlerin cüzdanını</arg>
+<arg f="tmp" n="m" suffix="">hep</arg>
+<rel f="">çarparlar</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çarp.04" name="Kalp, hızlı hızlı vurmak." vncls="">
+<roles>	
+    <role descr="kalp genellikle" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Onu görünce kalbim hızlı hızlı çarpıyor.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Onu görünce</arg>
+<arg f="" n="1" suffix="">kalbim</arg>
+<arg f="mnr" n="m" suffix="">hızlı hızlı</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çarp.05" name="Matematik işlemi." vncls="">
+<roles>	
+    <role descr="çarpan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="çarpan sayı" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme1"/>
+</role>
+    <role descr="çarpılan sayı" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="theme2"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>İki ile ikiyi çarparsak, dört eder.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">İki ile</arg>
+<arg f="" n="1" suffix="">ikiyi</arg>
+<rel f="">çarparsak</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

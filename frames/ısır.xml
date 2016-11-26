@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ısır">
+
+
+<roleset id="ısır.01" name="Dişleri arasına alıp sıkmak">
+<roles>
+<role descr="ısıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ısırdığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dolu bir kadeh içti ve meze yerine alt dudağını ısırdı.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ve</arg>
+<arg f="adv" n="m" suffix="">meze yerine</arg>
+<rel f="">ısırdı</rel>
+<arg f="" n="1" suffix="">alt dudağını</arg>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="ısır.02" name="Dişleriyle koparmak">
+<roles>
+<role descr="koparan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kopardığı şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ekmekten bir lokma ısırırken hole bakıyorum.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bir lokma</arg>
+<rel f="">ısırırken</rel>
+<arg f="dir" n="m" suffix="">Ekmekten</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

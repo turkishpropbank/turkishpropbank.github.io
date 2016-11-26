@@ -1,0 +1,306 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="de">
+
+
+<roleset id="de.01" name="Söylemek">
+<roles>
+<role descr="söyleyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<role descr="söylenen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<role descr="kime söylendiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Eskilerin dediği gibi beşer, şaşar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Eskilerin</arg>
+<rel f="">dediği</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="de.02" name="Ad vermek">
+<roles>
+<role descr="adlandıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ne olarak adlandırıldığı" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="adlandırılan şey/kişi" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Muşmulaya döngel de derler.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="4" suffix="">Muşmulaya</arg>
+<arg f="" n="1" suffix="">döngel (de)</arg>
+<rel f="">derler</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="de.03" name="Bir dilde karşılığı olmak (anlamına gelmek)">
+<roles>
+<role descr="diğer dildeki karşılık" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kaynak dildeki karşılık" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu ayrılık demek.</text>
+
+<arg f="" n="0" suffix="">Bu</arg>
+<arg f="" n="1" suffix="">ayrılık</arg>
+<rel f="">demek</rel>
+
+
+
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="de.04" name="Herhangi bir kanıya, yargıya varmak">
+<roles>
+<role descr="kanıya varan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kanıya verilecek şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<role descr="varılan kanı" f="" n="2" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu işe herkes ne der?</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu işe</arg>
+<arg f="" n="0" suffix="">herkes</arg>
+<arg f="" n="2" suffix="">ne</arg>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

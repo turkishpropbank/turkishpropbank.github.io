@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaynaklan">
+
+
+<roleset id="kaynaklan.01" name="Kaynak durumunu almak">
+<roles>
+<role descr="kaynaklanan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereden kaynaklandığı" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şu anda yaşadığı problemler, doktorların onu tamamen yanlış anlamasından kaynaklanıyor.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Şu anda yaşadığı problemler</arg>
+<arg f="" n="1" suffix="">doktorların onu tamamen yanlış anlamasından</arg>
+<rel f="">kaynaklanıyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

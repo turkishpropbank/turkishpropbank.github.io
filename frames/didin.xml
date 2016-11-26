@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="didin">
+
+
+<roleset id="didin.01" name="Sürekli çalışmak">
+<roles>
+<role descr="çalışan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Size de tiyatronuza da biraz yararlı olabilmek için didiniyorum, parçalanıyorum.</text>
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Size de tiyatronuza da biraz yararlı olabilmek için</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

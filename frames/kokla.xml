@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kokla">
+
+
+<roleset id="kokla.01" name="koku almak">
+<roles>
+<role descr="koklayan" f="" n="0" suffix="NOM"/>
+
+<role descr="koklanan" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şu gülü bir koklasan...</text>
+<note/>
+<arg f="" n="1" suffix="">Şu gülü</arg>
+<arg f="adv" n="m" suffix="">bir</arg>
+<rel f="">koklasan</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

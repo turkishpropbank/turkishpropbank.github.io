@@ -1,0 +1,65 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="süz">
+
+
+<roleset id="süz.01" name="Bir sıvıyı bez veya delikli bir kaptan geçirmek">
+<roles>
+<role descr="süzen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="süzülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Zeytinyağını süzdük.</text>
+
+<arg f="" n="1" suffix="">Zeytinyağını</arg>
+<rel f="">süzdük</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+<roleset id="süz.02" name="Gözle inceleyerek dikkatle bakmak">
+<roles>
+<role descr="inceleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="incelenen" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Baştan aşağı süzdü beni.</text>
+
+<arg f="ext" n="m" suffix="">Baştan aşağı</arg>
+<rel f="">süzdü</rel>
+<arg f="" n="1" suffix="">beni</arg>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

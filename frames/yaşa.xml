@@ -1,0 +1,52 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yaşa">
+
+
+<roleset id="yaşa.01" name="Canlılığını, hayatını sürdürmek">
+<roles>
+<role descr="yaşayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yaşanan hayat / olay" f="" n="1" suffix="NOM-ACC"/>
+<role descr="nerede yaşandığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Zengin bir hayat yaşadı</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Zengin bir hayat</arg>
+<rel f="">yaşadı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Köyde bekar yaşıyor</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Köyde</arg>
+<arg f="" n="1" suffix="">bekar</arg>
+<rel f="">yaşıyor</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

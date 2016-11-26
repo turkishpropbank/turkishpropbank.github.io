@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bastır">
+
+
+<roleset id="bastır.01" name="öne çıkmaya çalışmak, kazanmak">
+<roles>
+<role descr="bastıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Haydi bastır Cimbom!</text>
+<note/>
+<arg f="" n="0" suffix="">Cimbom</arg>
+<arg f="dis" n="m" suffix="">Haydi</arg>
+</example>
+</roleset>
+
+
+
+<roleset id="bastır.02" name="gidermek">
+<roles>
+<role descr="gideren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="giderilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Açlığımı bastıracak birşeyler yemem lazım.</text>
+<note/>
+<arg f="" n="1" suffix="">Açlığımı</arg>
+<rel f="">bastıracak</rel>
+<arg f="" n="0" suffix="">birşeyler</arg>
+</example>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

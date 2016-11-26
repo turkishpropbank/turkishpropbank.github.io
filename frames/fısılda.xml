@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="fısılda">
+
+
+<roleset id="fısılda.01" name="Alçak sesle konuşmak">
+<roles>
+<role descr="fısıldayan" f="" n="0" suffix="NOM"/>
+
+<role descr="fısıldanan şey (bazen diye ile birlikte)" f="" n="1" suffix="NOM-ACC"/>
+<role descr="kime fısıldandığı" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

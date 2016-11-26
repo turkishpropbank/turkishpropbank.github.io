@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dilimle">
+
+
+<roleset id="dilimle.01" name="Dilim dilim kesmek">
+<roles>
+<role descr="dilimleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="dilimlenen" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ekmekleri benim için dilimler misin ?</text>
+<note/>
+<arg f="" n="1" suffix="">Ekmekleri</arg>
+<arg f="gol" n="m" suffix="">benim için</arg>
+<rel f="">dilimler misin</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

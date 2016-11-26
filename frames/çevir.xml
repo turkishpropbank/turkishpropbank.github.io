@@ -1,0 +1,407 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çevir">
+
+
+<roleset id="çevir.01" name="Bir şeyin yönünü değiştirmek." vncls="">
+<roles>	
+    <role descr="çeviren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çevirdiği şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+   <role descr="nereye çevirdiği" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tnc.RI22E1B-2911" src="" type="">
+<text>Sonra gözlerini gökyüzüne çevirdi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">gözlerini</arg>
+<arg f="" n="4" suffix="">gökyüzüne</arg>
+<arg f="tmp" n="m" suffix="">Sonra</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="çevir.02" name="Döndürerek hareket ettirmek." vncls="">
+<roles>	
+    <role descr="çeviren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çevirdiği şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Resimleri albüme yapıştırırken kocası da radyonun düğmesini çevirdi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Resimleri albüme yapıştırırken</arg>
+<arg f="" n="0" suffix="">kocası (da)</arg>
+<arg f="" n="1" suffix="">radyonun düğmesini</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çevir.03" name="Yolundan alıkoymak, yoldan döndürmek." vncls="">
+<roles>	
+    <role descr="çeviren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çevirdiği kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+
+
+<role descr="nereden çevirdiği" f="" n="2" suffix="ABL"/>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Arkadaşı bizi çevirip evine götürdü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Arkadaşı</arg>
+<arg f="" n="1" suffix="">bizi</arg>
+<rel f="">çevirip</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çevir.04" name="Çeviri yapmak." vncls="">
+<roles>	
+    <role descr="çeviri yapan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="hangi dilden çevirdiği" f="" n="3" suffix="ABL">
+		<vnrole vncls="" vntheta="source"/>
+</role>	
+    <role descr="hangi dile çevirdiği" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>			
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<role descr="çevrilen eser/şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+<example name="tdk" src="" type="">
+<text>Romanlar, hikâyeler yazar; yahut Fransızcadan çevirirmiş.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="3" suffix="">Fransızcadan</arg>
+<rel f="">çevirirmiş</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çevir.05" name="Bir yerin çevresini bir şeyle sarmak, kuşatmak." vncls="">
+<roles>	
+    <role descr="çeviren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çevrilen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+    <role descr="ne ile çevrelendiği" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="material"/>
+</role>			
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bağı duvarla çevirdiler.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bağı</arg>
+<arg f="" n="2" suffix="">duvarla</arg>
+<rel f="">çevirdiler</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çevir.06" name="Dönüştürmek." vncls="">
+<roles>	
+    <role descr="dönüştüren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="dönüştürülen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+    <role descr="neye dönüştürüldüğü" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="goal"/>
+</role>			
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Evlerini otele çevirdiler.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Evlerini</arg>
+<arg f="" n="4" suffix="">otele</arg>
+<rel f="">çevirdiler</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kay">
+
+
+<roleset id="kay.01" name="Kaygan bir yüzey üzerinde sürtünerek kolayca yer değiştirmek (mecazen Durum değiştirmek, anlam değiştirmek)">
+<roles>
+<role descr="kayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Buzda kaymak en büyük eğlencesiydi.</text>
+
+
+
+
+<note/>
+<arg f="loc" n="m" suffix="">Buzda</arg>
+<rel f="">kaymak</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

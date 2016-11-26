@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yolla">
+
+
+<roleset id="yolla.01" name="Göndermek">
+<roles>
+<role descr="yollayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yollanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye/kime yollandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hekim hademeleri aşağıya yolladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Hekim</arg>
+<arg f="" n="1" suffix="">hademeleri</arg>
+<arg f="" n="2" suffix="">aşağıya</arg>
+<rel f="">yolladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

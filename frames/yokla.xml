@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yokla">
+
+
+<roleset id="yokla.01" name="Kontrol etmek">
+<roles>
+<role descr="yoklayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yoklanan" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni bir yokladı.</text>
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<arg f="adv" n="m" suffix="">bir</arg>
+<rel f="">yokladı</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

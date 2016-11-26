@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="çalkala">
+<infSuffixes/>
+<note/>
+<roleset id="çalkala.01" name="Sarsarak karıştırmak">
+<roles>
+<role descr="çalkalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<note/>
+<role descr="çalkalanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

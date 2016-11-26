@@ -1,0 +1,105 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="iliş">
+
+
+<roleset id="iliş.01" name="Bir şeye hafifçe dokunmak">
+<roles>
+<role descr="ilişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ilişilen" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elim çiçeklere ilişti, vazo devrildi.</text>
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Elim</arg>
+<arg f="" n="1" suffix="">çiçeklere</arg>
+<rel f="">ilişti</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="iliş.02" name="Karışmak, burnunu sokmak">
+<roles>
+<role descr="ilişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ilişilen" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Derginin politikasıyla tam uyuşmasam da burada tek satırıma ilişmediler.</text>
+
+
+
+
+
+
+
+<arg f="adv" n="m" suffix="">Derginin politikasıyla tam uyuşmasam da</arg>
+<arg f="loc" n="m" suffix="">burada</arg>
+<arg f="" n="1" suffix="">tek satırıma</arg>
+<rel f="">ilişmediler</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

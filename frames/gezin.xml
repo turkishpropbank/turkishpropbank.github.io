@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gezin">
+
+
+<roleset id="gezin.01" name="Belirli bir çevre içinde gezip durmak, eğlenmek">
+<roles>
+<role descr="gezen" f="" n="0" suffix="NOM"/>
+
+<role descr="nerede gezdiği" f="" n="1" suffix="LOC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

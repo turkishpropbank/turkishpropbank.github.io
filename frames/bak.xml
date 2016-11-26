@@ -1,0 +1,307 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bak">
+
+
+<roleset id="bak.01" name="Bakışı bir şey üzerine çevirmek." vncls="">
+<roles>	
+    <role descr="bakan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bakılan şey" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Hangi resmime baksam ben değilim.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Hangi resmime</arg>
+<rel f="">baksam</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bak.02" name="Beslemek, geçindirmek." vncls="">
+<roles>	
+    <role descr="geçindiren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="geçindirilen kişi/ler" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Üç çocuklu bir aileye bakıyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Üç çocuklu bir aileye</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bak.03" name="Anlamak, farkına varmak." vncls="">
+<roles>	
+    <role descr="bakan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bazı akşamlar bakarım Halil savuşur, nereye gittiğini de kimseye söylemez.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bazı akşamlar</arg>
+<rel f="">bakarım</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+<roleset id="bak.04" name="Bir konuyu belli bir bakış açısıyla değerlendirme">
+<roles>
+<role descr="bakan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye baktığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="nasıl bakıldığı" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu evliliğe hiç sıcak bakmıyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu evliliğe</arg>
+<arg f="" n="2" suffix="">sıcak</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<roleset id="bak.05" name="hadi bakalım, bak, imperativ">
+<roles>
+<role descr="bakan kişi" f="" n="0" suffix="NOM"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

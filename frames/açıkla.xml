@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="açıkla">
+
+
+<roleset id="açıkla.01" name="İzah etmek">
+<roles>
+<role descr="açıklayıcı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+<vnrole vncls="" vntheta="cause"/>
+</role>
+
+<role descr="açıklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime açıklanıyor" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hasan Şaş, bir soru üzerine, Güney Kore'de futbol oynamayı düşünmediğini açıkladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Hasan Şaş</arg>
+<arg f="" n="1" suffix="">Güney Kore'de futbol oynamayı düşünmediğini</arg>
+<arg f="cau" n="m" suffix="">bir soru üzerine</arg>
+<rel f="">açıkladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,60 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bağır">
+
+
+
+<roleset id="bağır.01" name="Yüksek ve gür ses çıkarmak, Kızmak">
+<roles>
+<role descr="bağıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kime/neye bağırdığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+<role descr="nasıl bağırıldığı" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kapıda bekleşen hulamlarına bağırdı, küfretti.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kapıda bekleşen hulamlarına</arg>
+</example>
+
+
+
+
+
+<note>diye ile birlikte kullanılıyor</note>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

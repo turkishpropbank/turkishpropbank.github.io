@@ -1,0 +1,316 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aç">
+
+
+<roleset id="aç.01" name="Bir şeyi kapalı durumdan açık duruma getirmek" vncls="">
+<roles>
+  <role descr="açan kişi/şey" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="açılan şey/kişi" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Kapıyı açıp içeri giriyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Kapıyı</arg>
+<rel f="">açıp</rel>
+<note/>
+</example>
+<example name="tdk.02" src="" type="">
+<text>Kollarını açtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</example>
+<example name="tdk.03" src="" type="">
+<text>Bakan, tütün piyasasını açtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</example>
+<example name="tdk.04" src="" type="">
+<text>Bu boyayı biraz daha açmalı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</example>
+<example name="tdk.05" src="" type="">
+<text>Burası beni açmadı, başka yere gidelim.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="aç.02" name="Başlatmak" vncls="">
+<roles>
+  <role descr="açan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="açılan şey" f="" n="1" suffix="NOM-ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>	
+  <role descr="açılma gayesi" f="" n="3" suffix="DAT">
+	<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>İnternet üzerinden çeşitli servisleri hizmete açtık.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">çeşitli servisleri</arg>
+<arg f="" n="3" suffix="">hizmete</arg>
+<arg f="dir" n="m" suffix="">İnternet üzerinden</arg>
+<rel f="">açtık</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<predicate lemma="yol_aç">
+
+
+<roleset id="aç.03" name="Sebep olmak">
+<roles>
+<role descr="sebep olan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sebep olduğu şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sıcaklık ölümlere yol açtı</text>
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Sıcaklık</arg>
+<arg f="" n="1" suffix="">ölümlere</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

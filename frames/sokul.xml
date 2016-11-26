@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sokul">
+
+
+<roleset id="sokul.01" name="Yanaşmak, yaklaşmak">
+<roles>
+<role descr="yaklaşan kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye sokulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aydınlık yüzlü bir kadın, bir mısır pişiricisine sokuldu, taze mısırlardan birisini işaret etti.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Aydınlık yüzlü bir kadın</arg>
+<arg f="" n="2" suffix="">bir mısır pişiricisine</arg>
+<rel f="">sokuldu</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

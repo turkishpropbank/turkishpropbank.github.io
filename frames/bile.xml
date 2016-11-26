@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bile">
+
+
+<roleset id="bile" name="keskinleştirmek" vncls="">
+<roles>	
+    <role descr="bileyen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bilenen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Elmayı kesmeden önce bıçağını biledi.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Elmayı kesmeden önce</arg>
+<arg f="" n="1" suffix="">bıçağını</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

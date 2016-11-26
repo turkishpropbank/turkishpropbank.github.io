@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uzan">
+
+
+<roleset id="uzan.01" name="Erişmeye çalışmak">
+<roles>
+<role descr="uzanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye/neye eriştiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tuza uzanamıyorum.</text>
+<note/>
+<arg f="" n="2" suffix="">Tuza</arg>
+<rel f="">uzanamıyorum</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

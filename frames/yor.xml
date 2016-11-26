@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yor">
+
+
+<roleset id="yor.01" name="Yorgun duruma getirmek">
+<roles>
+<role descr="yoran" f="" n="0" suffix="NOM"/>
+
+<role descr="yorulan" f="" n="1" suffix="ACC"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Teknik teferruatla okurlarımı yormak istemiyorum.</text>
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Teknik teferruatla</arg>
+<arg f="" n="1" suffix="">okurlarımı</arg>
+<rel f="">yormak</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="yor.02" name="Bir anlam vermek, yorumlamak">
+<roles>
+<role descr="anlam veren" f="" n="0" suffix="NOM"/>
+
+<role descr="anlam verilen" f="" n="1" suffix="ACC"/>
+<role descr="nasıl yorumlandığı" f="" n="2" suffix="DAT"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hayvanlara insanca duygu ve düşünceler yormak ne derece doğrudur bunu da kestiremiyorum</text>
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Hayvanlara</arg>
+<arg f="" n="1" suffix="">insanca duygu ve düşünceler</arg>
+<rel f="">yormak</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çekin">
+
+
+<roleset id="çekin.01" name="Kaçınmak">
+<roles>
+<role descr="çekinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyden çekinildiği" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Göz göze gelmekten çekindiğini de hissettim.</text>
+
+
+
+<arg f="" n="1" suffix="">Göz göze gelmekten</arg>
+<rel f="">çekindiğini</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

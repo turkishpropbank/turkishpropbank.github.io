@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="irkil">
+
+
+<roleset id="irkil.01" name="Ürkerek geri çekilir gibi olmak">
+<roles>
+<role descr="irkilen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elimi omzuna koyuyorum. İrkiliyor, sertçe çeviriyor bakışını.</text>
+
+
+<note/>
+<rel f="">İrkiliyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

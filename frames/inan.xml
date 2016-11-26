@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="inan">
+
+
+<roleset id="inan.01" name="Bir şeyi doğru olarak benimsemek">
+<roles>
+<role descr="inanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye inandığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bizim şairlerimiz sanatın sanat için olduğuna inanırlar.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bizim şairlerimiz</arg>
+<arg f="" n="1" suffix="">sanatın sanat için olduğuna</arg>
+<rel f="">inanırlar</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="şarla">
+<infSuffixes/>
+<note/>
+<roleset id="şarla.01" name="Bağırıp çağırmak">
+<roles>
+<role descr="şarlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<note/>
+<role descr="nasıl şarladığı" f="" n="1" suffix="">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kime şarladığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

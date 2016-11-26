@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="del">
+
+
+<roleset id="del.01" name="Delik açmak">
+<roles>
+<role descr="delen" f="" n="0" suffix="NOM"/>
+
+<role descr="delinen" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kulağımı deldirdim.</text>
+<note/>
+<arg f="" n="1" suffix="">Kulağımı</arg>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

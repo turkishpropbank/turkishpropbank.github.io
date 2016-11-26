@@ -1,0 +1,312 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaldır">
+
+
+<roleset id="kaldır.01" name="Bulunduğu yerden almak">
+<roles>
+<role descr="kaldıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<role descr="kaldırılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<role descr="nereden kaldırıldığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Örtüyü masanın üzerinden kaldır.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Örtüyü</arg>
+<arg f="" n="2" suffix="">masanın üzerinden</arg>
+<rel f="">kaldır</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="kaldır.02" name="Çekmek, taşımak">
+<roles>
+<role descr="taşıyan şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taşınan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu araba bu yükü kaldırmaz.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Bu araba</arg>
+<arg f="" n="1" suffix="">bu yükü</arg>
+<rel f="">kaldırmaz</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaldır.03" name="Hastayı hastaneye götürmek">
+<roles>
+<role descr="hastayı götüren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="hastayı kişi" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="götürüldüğü yer" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fransız Hastanesi'ne kaldırdılar.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="4" suffix="">Fransız Hastanesi'ne</arg>
+<rel f="">kaldırdılar</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaldır.04" name="Uyandırmak">
+<roles>
+<role descr="uyandıran kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="uyandırılan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Saat altıda kaldırın beni.</text>
+
+<arg f="tmp" n="m" suffix="">Saat altıda</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<rel f="">kaldırın</rel>
+
+
+
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="kaldır.05" name="Katlanmak, tahammül etmek">
+<roles>
+<role descr="katlanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="katlananılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yüreğim kaldırmıyor, acıyorum.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Yüreğim</arg>
+<rel f="">kaldırmıyor</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

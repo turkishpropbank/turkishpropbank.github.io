@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çıkar">
+
+
+<roleset id="çıkar.01" name="Birinin veya bir şeyin çıkmasını sağlamak">
+<roles>
+<role descr="çıkaran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="çıkarılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereden çıkarıldığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O uzun kınalı saçlarını tülbendinin altından çıkardı.</text>
+
+
+
+
+
+<arg f="" n="1" suffix="">O uzun kınalı saçlarını</arg>
+<arg f="" n="2" suffix="">tülbendinin altından</arg>
+<rel f="">çıkardı</rel>
+<note/>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

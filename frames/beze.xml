@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="beze">
+
+
+<roleset id="beze.01" name="Süslemek" vncls="">
+<roles>	
+    <role descr="bezeyen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bezenen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+	<role descr="ne ile bezediği" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="instrument"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Gördüğü iyiliğe karşılık ikram fazlasından masamızı mezelerin çeşitlisiyle bezedi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">masamızı</arg>
+<arg f="" n="2" suffix="">mezelerin çeşitlisiyle</arg>
+<arg f="cau" n="m" suffix="">Gördüğü iyiliğe karşılık</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

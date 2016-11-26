@@ -1,0 +1,99 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çat">
+
+
+<roleset id="çat.01" name="Yazıyla veya sözle sataşmak" vncls="">
+<roles>	
+    <role descr="sataşan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="kime/neye sataştığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Yemek  pek düzgün olmasa aşçıya çatar.</text>
+
+
+
+<arg f="cau" n="m" suffix="">Yemek  pek düzgün olmasa</arg>
+<arg f="" n="4" suffix="">aşçıya</arg>
+<rel f="">çatar</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çat.02" name="Rastlamak, karşılaşmak (mecazi anlam)" vncls="">
+<roles>	
+    <role descr="karşılaşan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="karşılaşılan kişi" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Nerden çattım böylesi bir güzele...</text>
+
+
+
+<arg f="" n="1" suffix="">böylesi bir güzele</arg>
+<arg f="adv" n="m" suffix="">Nerden</arg>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çat.03" name="Sırası gelmek, zamanı gelmek" vncls="">
+<roles>	
+    <role descr="zamanı gelen şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bir karara varma zamanı gelip çatmıştı.</text>
+
+
+
+<arg f="" n="1" suffix="">Bir karara varma zamanı</arg>
+<arg f="adv" n="m" suffix="">gelip</arg>
+<rel f="">çatmıştı.</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

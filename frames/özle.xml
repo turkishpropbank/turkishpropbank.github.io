@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="özle">
+
+
+<roleset id="özle.01" name="kavuşmayı istemek">
+<roles>
+<role descr="özleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="özlenilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben bütün hayatımda bu sadeliği özledim</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="tmp" n="m" suffix="">bütün hayatımda</arg>
+<arg f="" n="1" suffix="">bu sadeliği</arg>
+<rel f="">özledim</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

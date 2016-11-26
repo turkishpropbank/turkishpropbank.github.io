@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="titre">
+
+
+<roleset id="titre.01" name="Küçük ve hızlı salınım hareketleri yapmak">
+<roles>
+<role descr="titreyen kişi/şey" f="" n="0" suffix="NOM-ACC"/>
+
+<role descr="neden titrediği/ titreme sebebi" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Soğuktan mı titriyordum yoksa heyecandan, üzüntüden mi, bilmem.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Soğuktan mı</arg>
+<rel f="">titriyordum</rel>
+<arg f="" n="1" suffix="">yoksa heyecandan, üzüntüden mi</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

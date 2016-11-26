@@ -1,0 +1,67 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bil">
+
+
+<roleset id="bil.01" name="Bir şeyi anlamış veya öğrenmiş bulunma" vncls="">
+<roles>	
+    <role descr="bilen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bilinen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+<role descr="nereden bildiği" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bunu bilmek içimi kederle dolduruyordu.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bunu</arg>
+<rel f="">bilmek</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

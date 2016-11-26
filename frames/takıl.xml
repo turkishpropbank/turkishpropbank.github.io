@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="takıl">
+
+
+<roleset id="takıl.01" name="Bir yerde bir süre kalmak, oyalanmak">
+<roles>
+<role descr="takılan" f="" n="0" suffix="NOM"/>
+<role descr="kiminle/ne ile takıldığı" f="" n="1" suffix="WITH"/>
+<role descr="neye/kime takıldığı" f="" n="2" suffix="DAT"/>
+<role descr="nerede takıldığı" f="" n="3" suffix="LOC"/>
+</roles>
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Arkadaşlarla kafede takılıyoruz.</text>
+
+<arg f="" n="1" suffix="">Arkadaşlarla</arg>
+<arg f="" n="2" suffix="">kafede</arg>
+<rel f="">takılıyoruz</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

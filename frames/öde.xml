@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öde">
+
+
+<roleset id="öde.01" name="Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek">
+<roles>
+<role descr="ödeyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ödenen şey (miktar genelde)" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Borç varsa benimkidir, onu ödemek ve teşekkür etmek lazım</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">onu</arg>
+<rel f="">ödemek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

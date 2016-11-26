@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yet">
+
+
+<roleset id="yet.01" name="Bir gereksinimi karşılayacak, giderecek nicelikte olmak">
+<roles>
+<role descr="yeten" f="" n="0" suffix="NOM"/>
+
+<role descr="neye yettiği" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir sigara bir ormanı yakmaya yeter.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bir sigara</arg>
+<arg f="" n="1" suffix="">bir ormanı yakmaya</arg>
+<rel f="">yeter</rel>
+</example>
+
+<note>- suffice01</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yak">
+
+
+<roleset id="yak.01" name="Yanmasına yol açmak, tutuşturmak">
+<roles>
+<role descr="yakan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yakılan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kendi sigarası için yaktığı kibriti bana uzattı.</text>
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Kendi sigarası için</arg>
+<arg f="" n="1" suffix="">kibriti</arg>
+<rel f="">yaktığı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

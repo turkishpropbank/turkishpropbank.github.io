@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="böl">
+
+
+<roleset id="böl.01" name="Taksim etmek" vncls="">
+<roles>	
+    <role descr="bölen kimse/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bölünen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+	<role descr="böündüğü küçük üniteler, parça sayısı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+	<role descr="ne ile bölündüğü" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bir domates aldı, çakıyla dörde böldü.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bir domates</arg>
+<arg f="" n="2" suffix="">çakıyla</arg>
+<arg f="" n="4" suffix="">dörde</arg>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

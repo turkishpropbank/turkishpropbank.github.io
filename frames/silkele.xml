@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="silkele">
+
+
+<roleset id="silkele.01" name="Üstündeki şeyleri düşürme, silkme">
+<roles>
+<role descr="silkeleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="silkelenen" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Üstünü silkeledi ve yürümeye devam etti.</text>
+<note/>
+<arg f="" n="1" suffix="">Üstünü</arg>
+<rel f="">silkeledi</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

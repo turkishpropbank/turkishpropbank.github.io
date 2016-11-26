@@ -1,0 +1,68 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çök">
+
+
+<roleset id="çök.01" name="Yıkılmak" vncls="">
+<roles>	
+    <role descr="çöken şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Tavan çöktü.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Tavan</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çök.02" name="Çömelmek" vncls="">
+<roles>	
+    <role descr="çöken kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="nereye çöktüğü" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Suyun başına çöküp ellerini, yüzünü yıkamaya koyuldu.</text>
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Suyun başına</arg>
+<rel f="">çöküp</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kat">
+
+
+<roleset id="kat.01" name="Başka bir şey eklemek, karıştırmak">
+<roles>
+<role descr="katan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="katılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="neye katıldığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sirkeye su kattım.</text>
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Sirkeye</arg>
+<arg f="" n="1" suffix="">su</arg>
+<rel f="">kattım</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,131 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="götür">
+
+
+<roleset id="götür.01" name="Taşımak, ulaştırmak veya koymak">
+<roles>
+<role descr="taşıyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taşınan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<role descr="nereye götürdüğü" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yemeği götürmek için o an en uygun kişiydim.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Yemeği</arg>
+<rel f="">götürmek</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="götür.02" name="Öldürmek, zarar vermek">
+<roles>
+<role descr="öldüren şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="öldürdüğü kişi/şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hastalık çok insan götürdü.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Hastalık</arg>
+<arg f="" n="1" suffix="">çok insan</arg>
+<rel f="">götürdü</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="götür.03" name="Bir sonuca vardırmak">
+<roles>
+<role descr="götüren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="götürülen kişi/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+<role descr="nereye götürüldüğü" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni evime kadar götürdü.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<arg f="" n="4" suffix="">evime kadar</arg>
+<rel f="">götürdü</rel>
+</example>
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bitirmeden şunu da söyleyeyim, ahlaka, gerçek ahlaka götüren başlıca yollardan biri de aşktır.</text>
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">ahlaka, gerçek ahlaka</arg>
+<arg f="" n="0" suffix="">aşktır</arg>
+<rel f="">götüren</rel>
+<arg f="dis" n="m" suffix="">Bitirmeden şunu da söyleyeyim</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

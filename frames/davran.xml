@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="davran">
+
+
+<roleset id="davran.01" name="Bir kimseye karşı belli tavır takınmak">
+<roles>
+<role descr="tavır takınan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nasıl davrandığı" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+<role descr="neye/kime davrandığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Film ekibine oraya gezmeye giden bir turist kafilesiymiş gibi davranıyor</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Film ekibine</arg>
+<arg f="mnr" n="m" suffix="">oraya gezmeye giden bir turist kafilesiymiş gibi</arg>
+<rel f="">davranıyor</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="davran.02" name="Bir şeye el atmak, girişmek, kakışmak">
+<roles>
+<role descr="girişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye girişildiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Silahlarına davranıyor polisler.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Silahlarına</arg>
+<arg f="" n="0" suffix="">polisler</arg>
+<rel f="">davranıyor</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

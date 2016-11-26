@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="geğir">
+
+
+<roleset id="geğir.01" name="Gazı ağızdan sesli bir biçimde çıkarmak">
+<roles>
+<role descr="geğiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Geğirebilsem açılır mıyım acaba?</text>
+
+
+
+<note/>
+<rel f="">Geğirebilsem</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

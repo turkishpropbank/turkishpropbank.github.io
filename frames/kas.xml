@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kas">
+
+
+<roleset id="kas.01" name="Kasları germek, gerilmek">
+<roles>
+<role descr="kasan" f="" n="0" suffix="NOM"/>
+
+<role descr="kasılan" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

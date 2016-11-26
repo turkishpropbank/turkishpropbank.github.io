@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="koca">
+
+
+<roleset id="koca.01" name="Yaşlanmak">
+<roles>
+<role descr="yaşlanan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Anam iyice kocadı.</text>
+<note/>
+<arg f="" n="1" suffix="">Anam</arg>
+<arg f="ext" n="m" suffix="">iyice</arg>
+<rel f="">kocadı</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

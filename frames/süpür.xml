@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="süpür">
+
+
+<roleset id="süpür.01" name="Temizlemek">
+<roles>
+<role descr="süpüren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="süpürülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tabağını sildi süpürdü.</text>
+<note/>
+<arg f="" n="0" suffix="">Tabağını</arg>
+<rel f="">süpürdü</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

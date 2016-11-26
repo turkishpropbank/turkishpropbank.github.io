@@ -1,0 +1,76 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıs">
+
+
+<roleset id="kıs.01" name="Birşeyi alçaltmak, kapamak">
+<roles>
+<role descr="kısan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kısılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Televizyonun sesini kısar mısın ?</text>
+<note/>
+<arg f="" n="1" suffix="">Televizyonun sesini</arg>
+<rel f="">kısar mısın</rel>
+</example>
+</roleset>
+<roleset id="kıs.02" name="Masraf, harcama vb.ni azaltmak">
+<roles>
+<role descr="kısan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden kısıldığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yemekten kısılamaz.</text>
+<note/>
+<arg f="" n="3" suffix="">Yemekten</arg>
+<rel f="">kısılamaz</rel>
+</example>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

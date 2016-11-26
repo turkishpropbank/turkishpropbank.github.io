@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="düz">
+
+
+<roleset id="düz.01" name="Bir araya getirmek">
+<roles>
+<role descr="düzen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="topladığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Oğlum Sıtkı için son zamanlarda epeyce temiz ev eşyası düzdü diyorlar.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Oğlum Sıtkı</arg>
+<arg f="tmp" n="m" suffix="">son zamanlarda</arg>
+<arg f="ext" n="m" suffix="">epeyce</arg>
+<rel f="">düzdü</rel>
+<arg f="" n="1" suffix="">temiz ev eşyası</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

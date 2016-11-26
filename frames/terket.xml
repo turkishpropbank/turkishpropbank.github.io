@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="terket">
+
+
+<roleset id="terket.01" name="Bırakmak, ayrılmak">
+<roles>
+<role descr="bırakan" f="" n="0" suffix="NOM"/>
+
+<role descr="bırakılan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ya sev ya da terket.</text>
+<note/>
+<arg f="adv" n="m" suffix="">ya da</arg>
+<rel f="">terket</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

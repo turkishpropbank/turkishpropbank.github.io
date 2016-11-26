@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="donan">
+
+
+<roleset id="donan.01" name="Yayılıp kaplanmak">
+<roles>
+<role descr="donanan" f="" n="1" suffix="NOM"/>
+
+<role descr="ne ile donandığı" f="" n="2" suffix="WITH"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Baharda ağaçlar çiçeklerle donandı.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Baharda</arg>
+<arg f="" n="1" suffix="">ağaçlar</arg>
+<arg f="" n="2" suffix="">çiçeklerle</arg>
+<rel f="">donandı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kırk türlü kuru yemişle donanmış masanın ortasına dikilmiş bir ince, ufak mum vardı.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Kırk türlü kuru yemişle</arg>
+<arg f="" n="1" suffix="">masanın</arg>
+<rel f="">donanmış</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

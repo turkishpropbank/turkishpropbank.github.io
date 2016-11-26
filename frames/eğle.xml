@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eğle">
+
+
+<roleset id="eğle.01" name="Oyalamak">
+<roles>
+<role descr="oyalayan şey/kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="oyalanan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beni işler eğledi de vaktinde yetişemedim.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Beni</arg>
+<arg f="" n="0" suffix="">işler</arg>
+<rel f="">eğledi</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

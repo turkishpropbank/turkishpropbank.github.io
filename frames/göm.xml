@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="göm">
+
+
+<roleset id="göm.01" name="Yerin altına koyarak üstünü toprakla örtmek.">
+<roles>
+<role descr="gömen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gömülen kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye gömüldüğü" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onu kalenin yanındaki küçük mezarlığa, bir zeytin ağacının yanına gömdüler.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Onu</arg>
+<arg f="" n="4" suffix="">kalenin yanındaki küçük mezarlığa, bir zeytin ağacının yanına</arg>
+<rel f="">gömdüler</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

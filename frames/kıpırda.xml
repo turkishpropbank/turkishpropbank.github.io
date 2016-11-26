@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıpırda">
+
+
+<roleset id="kıpırda.01" name="Kımıldamak, sürekli ve hafifçe oynamak">
+<roles>
+<role descr="kıpırdayan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hasta kıpırdadı.</text>
+<note/>
+<arg f="" n="1" suffix="">Hasta</arg>
+<rel f="">kıpırdadı</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

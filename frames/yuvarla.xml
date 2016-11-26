@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yuvarla">
+
+
+<roleset id="yuvarla.01" name="İlerletmek, götürmek">
+<roles>
+<role descr="yuvarlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yuvarlanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye yuvarlandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>3,6'yı 4'e yuvarlaman yeterli.</text>
+<note/>
+<arg f="" n="1" suffix="">3,6'yı</arg>
+<arg f="" n="2" suffix="">4'e</arg>
+<rel f="">yuvarlaman</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

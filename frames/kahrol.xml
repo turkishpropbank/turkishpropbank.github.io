@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kahrol">
+
+
+<roleset id="kahrol.01" name="Çok üzülmek, içlenmek">
+<roles>
+<role descr="kahrolan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annesinin ölmesiyle kahroldu.</text>
+<note/>
+<arg f="cau" n="m" suffix="">Annesinin ölmesiyle</arg>
+<rel f="">kahroldu</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

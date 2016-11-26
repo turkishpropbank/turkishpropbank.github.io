@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sevin">
+
+
+<roleset id="sevin.01" name="mutlu olmak">
+<roles>
+<role descr="sevinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye sevindiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sınavı geçmene sevindim.</text>
+<note/>
+<arg f="" n="1" suffix="">Sınavı geçmene</arg>
+<rel f="">sevindim</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

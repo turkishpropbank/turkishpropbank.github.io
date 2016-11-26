@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="takın">
+
+
+<roleset id="takın.01" name="Bir nitelik veya durum almak">
+<roles>
+<role descr="takınan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="takındığı durum/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Takındığı bu sıfatı boynundaki kravattan fazla mühimsediği de yoktu</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bu sıfatı</arg>
+<rel f="">Takındığı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

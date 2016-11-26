@@ -1,0 +1,225 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ayır">
+
+
+<roleset id="ayır.01" name="Bölmek" vncls="">
+<roles>	
+    <role descr="ayıran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="ayrılan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>
+	<role descr="ayrılma miktarı" f="" n="2" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Elmayı dörde ayırdı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Elmayı</arg>
+<arg f="" n="2" suffix="">dörde</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="ayır.02" name="Saklamak, tahsis etmek" vncls="">
+<roles>	
+    <role descr="ayıran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="ayrılan şey" f="" n="3" suffix="ABL">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="kime/neye ayrıldığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="beneficiary"/>
+</role>		
+
+
+
+
+
+
+
+<role descr="ayrılan şey" f="" n="3" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Çocuklara pastadan biraz ayırdım.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Çocuklara</arg>
+<arg f="" n="3" suffix="">pastadan</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="ayır.03" name="Birbirinden uzaklaştırmak." vncls="">
+<roles>	
+    <role descr="ayıran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="ayrılan kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient1"/>
+</role>
+	<role descr="kimden/neyden ayrıldığı" f="" n="3" suffix="ABL">
+		<vnrole vncls="" vntheta="patient2"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Karıyı kocasından ayırdılar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Karıyı</arg>
+<arg f="" n="3" suffix="">kocasından</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

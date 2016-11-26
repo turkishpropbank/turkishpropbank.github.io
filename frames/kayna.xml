@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kayna">
+
+
+<roleset id="kayna.01" name="buhar durumuna geçmek">
+<roles>
+<role descr="kaynayan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Su 100 derecede kaynar.</text>
+
+
+
+<note/>
+<rel f="">kaynar</rel>
+<arg f="" n="1" suffix="">Su</arg>
+<arg f="tmp" n="m" suffix="">100 derecede</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

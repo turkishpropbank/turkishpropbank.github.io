@@ -1,0 +1,642 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gir">
+
+
+<roleset id="gir.01" name="Dışarıdan içeriye geçmek">
+<roles>
+<role descr="giren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye girildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birlikte kiliseden içeri giriyoruz, ben topallıyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="com" n="m" suffix="">Birlikte</arg>
+<arg f="" n="4" suffix="">kiliseden içeri</arg>
+<rel f="">giriyoruz</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gir.02" name="Sığmak">
+<roles>
+<role descr="sığan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereye sığdığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elim bu eldivene girmiyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Elim</arg>
+<arg f="" n="2" suffix="">bu eldivene</arg>
+<rel f="">girmiyor</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gir.03" name="Katılmak">
+<roles>
+<role descr="giren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye girdiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bugün edebiyat imtihanına girdim.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Bugün</arg>
+<arg f="" n="1" suffix="">edebiyat imtihanına</arg>
+<rel f="">girdim</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gir.04" name="Erişmek (yaş olarak)">
+<roles>
+
+<role descr="erişen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<role descr="neye eriştiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yirmisine girdi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Yirmisine</arg>
+<rel f="">girdi</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="gir.05" name="Karışmak, eklenmek">
+<roles>
+<role descr="giren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye girdiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Devreye girmek, araya girmek</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Devreye</arg>
+<rel f="">girmek</rel>
+<arg f="" n="1" suffix="">araya</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="gir.06" name="Bir duruma geçmek">
+<roles>
+<role descr="duruma geçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="hangi duruma geçildiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şoka girdim.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Şoka</arg>
+<rel f="">girdim</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<predicate lemma="bahse_gir">
+
+
+<roleset id="gir.07" name="Bahse girmek">
+<roles>
+<role descr="bahse giren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle bahse girildiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="neyine girdiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir kutu sigarasına bahse girdiler.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Bir kutu sigarasına</arg>
+<rel f="">bahse girdiler</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+<predicate lemma="yoluna_gir">
+
+
+<roleset id="gir.08" name="Gerekli olan biçimde gelişmeye başlamak">
+<roles>
+<role descr="yoluna giren şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

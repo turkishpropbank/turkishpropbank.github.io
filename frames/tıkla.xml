@@ -1,0 +1,64 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tıkla">
+
+
+<roleset id="tıkla.01" name="Bilgisayarda fare ile düğmeye dokunmak, kliklemek">
+<roles>
+<role descr="tıklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye tıklandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Devam etmek için bağlantıya tıklayınız.</text>
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Devam etmek için</arg>
+<arg f="" n="2" suffix="">bağlantıya</arg>
+<rel f="">tıklayınız</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="tıkla.02" name="Bir yere hafifçe vurarak &quot;tık&quot; sesi çıkarmak">
+<roles>
+<role descr="tıklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="tıklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Girmeden önce kapıyı tıkladı.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Girmeden önce</arg>
+<arg f="" n="1" suffix="">kapıyı</arg>
+<rel f="">tıkladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,62 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="şaş">
+
+
+<roleset id="şaş.01" name="Hayret etmek">
+<roles>
+<role descr="hayret eden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye hayret ettiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu kadar öfkesiz ve yumuşak oluşuna şaştı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu kadar öfkesiz ve yumuşak oluşuna</arg>
+<rel f="">şaştı</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="şaş.02" name="Yolundan sapmamak, gidişini değiştirmemek, veya yanılmamak">
+<roles>
+<role descr="şaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyden şaştığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yolundan şaşma.</text>
+
+
+<note/>
+<arg f="" n="3" suffix="">Yolundan</arg>
+<rel f="">şaşma</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

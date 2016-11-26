@@ -1,0 +1,26 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uyarla">
+
+
+<roleset id="uyarla.01" name="uyar duruma getirmek">
+<roles>
+<role descr="uyarlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="uyarlanan" f="" n="1" suffix="ACC"/>
+<role descr="neye uyarlandığı" f="" n="2" suffix="DAT"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text/>
+<note/>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

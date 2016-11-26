@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kork">
+
+
+<roleset id="kork.01" name="Korku duymak">
+<roles>
+<role descr="korkan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neyden korktuğu" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onlar hala bizden korkuyorlar</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Onlar</arg>
+<arg f="adv" n="m" suffix="">hala</arg>
+<arg f="" n="1" suffix="">bizden</arg>
+<rel f="">korkuyorlar</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yer">
+
+
+<roleset id="yer.01" name="Kötülüklerini söylemek, zemmetmek">
+<roles>
+<role descr="yeren" f="" n="0" suffix="NOM"/>
+
+
+<role descr="yerilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

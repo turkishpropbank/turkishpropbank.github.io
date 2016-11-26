@@ -1,0 +1,61 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="belle">
+
+
+<roleset id="belle.01" name="Öğrenip akılda tutmak">
+<roles>
+<role descr="belleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="bellenilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çarpım tablosunu iyice belledin mi ?</text>
+<note/>
+<arg f="" n="1" suffix="">Çarpım tablosunu</arg>
+<arg f="mnr" n="m" suffix="">iyice</arg>
+</example>
+</roleset>
+<roleset id="belle.02" name="Sanmak">
+<roles>
+<role descr="sanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sanılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="ne sandığı" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annesi Kadriye Hanım'ı uzun yıllar ablası belledi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Annesi Kadriye Hanım'ı</arg>
+<arg f="tmp" n="m" suffix="">uzun yıllar</arg>
+<arg f="" n="2" suffix="">ablası</arg>
+<rel f="">belledi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eğit">
+
+
+<roleset id="eğit.01" name="Eğitim vermek">
+<roles>
+<role descr="eğiten" f="" n="0" suffix="NOM"/>
+
+<role descr="eğitilen" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocukları eğitmek.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Çocukları</arg>
+<rel f="">eğitmek</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

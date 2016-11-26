@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="havalan">
+
+
+<roleset id="havalan.01" name="Temiz hava alması sağlanmak">
+<roles>
+<role descr="havalanan" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Oda biraz havalansın.</text>
+<note/>
+<arg f="" n="1" suffix="">Oda</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">havalansın</rel>
+</example>
+</roleset>
+<roleset id="havalan.02" name="Yerden ayrılıp göğe yükselmek">
+<roles>
+<role descr="yükselen obje" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Uçak havalandı, geç kaldınız.</text>
+<note/>
+<arg f="" n="1" suffix="">Uçak</arg>
+<rel f="">havalandı</rel>
+</example>
+</roleset>
+<roleset id="havalan.03" name="Kibirli, gururlu, çalımlı davranışlarda bulunmak">
+<roles>
+<role descr="kibirlenen" f="" n="0" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sen de araba aldın diye pek havalandın.</text>
+<note/>
+<arg f="" n="0" suffix="">Sen de</arg>
+<arg f="cau" n="m" suffix="">araba aldın diye</arg>
+<arg f="ext" n="m" suffix="">pek</arg>
+<rel f="">havalandın</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

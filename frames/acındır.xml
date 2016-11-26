@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="acındır">
+
+
+<roleset id="acındır" name="Birinin acımasına yol açmak, birini merhamete getirmek" vncls="">
+<roles>
+  <role descr="acındıran" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="stimulus"/>
+</role>
+   <role descr="acındırılan" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+   <role descr="kime/neye acındırdığı" f="" n="2" suffix="DAT">
+	<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Maksadı beni kendisine acındırıp tekrar benimle barışmaktı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="" n="2" suffix="">kendisine</arg>
+<rel f="">acındırıp</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

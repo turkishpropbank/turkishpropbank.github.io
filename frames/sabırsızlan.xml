@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sabırsızlan">
+
+
+<roleset id="sabırsızlan.01" name="Sabırlı davranmamak, sabır göstermemek">
+<roles>
+<role descr="sabırsızlanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="ne için sabırsızlandığı" f="" n="1" suffix="">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Devlet erkânı, rahipler, kumandanlar, yağcılar, mabeyinciler merdivenlere dizilmiş, halk aşağıda Tanrı'nın kızını görmek için sabırsızlanıyor</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">halk</arg>
+<arg f="" n="1" suffix="">aşağıda Tanrı'nın kızını görmek için</arg>
+<rel f="">sabırsızlanıyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

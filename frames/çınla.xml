@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çınla">
+
+
+<roleset id="çınla.01" name="Yankı vermek">
+<roles>
+<role descr="çınlayan şey / ses" f="" n="1" suffix="NOM"/>
+
+<role descr="nerede çınladığı" f="" n="2" suffix="LOC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kulaklarımda mahalle çocuklarının sesleri çınladı.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Kulaklarımda</arg>
+<arg f="" n="1" suffix="">mahalle çocuklarının sesleri</arg>
+<rel f="">çınladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,100 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yakala">
+
+
+<roleset id="yakala.01" name="Bir kimseyi veya bir şeyi tutmak">
+<roles>
+<role descr="yakalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yakalanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<role descr="ne ile yakalandığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O oltayla balık yakalanmaz.</text>
+<note/>
+<arg f="" n="2" suffix="">O oltayla</arg>
+<arg f="" n="1" suffix="">balık</arg>
+<rel f="">yakalanmaz</rel>
+</example>
+</roleset>
+<roleset id="yakala.02" name="Bir kimseyi hoşa gitmeyecek bir durumda bulmak, bir kimsenin suçu ortaya çıkmak">
+<roles>
+<role descr="yakalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yakalanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient1"/>
+</role>
+<role descr="kiminle/neyle yakalandığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="patient2"/>
+</role>
+<role descr="nerede yakalandığı" f="" n="3" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kocasını yatakta bir kadınla yakalamış</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kocasını</arg>
+<arg f="" n="3" suffix="">yatakta</arg>
+<arg f="" n="2" suffix="">bir kadınla</arg>
+<rel f="">yakalamış</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

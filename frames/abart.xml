@@ -1,0 +1,76 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="abart">
+
+
+<roleset id="abart" name="Bir şeyi olduğundan daha önemli, daha büyük  göstermek" vncls="">
+<roles>
+  <role descr="abartan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="abartılan şey/kimse" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdc" src="" type="">
+<text>Kusura bakmayın ama, dadınız bu temizlik işini pek bir abartıyor.</text>
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">dadınız</arg>
+<arg f="" n="1" suffix="">bu temizlik işini</arg>
+<arg f="mnr" n="m" suffix="">pek bir</arg>
+
+<arg f="dis" n="m" suffix="">ama</arg>
+<note/>
+<rel f="">abartıyor</rel>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+   
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

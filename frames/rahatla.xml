@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="rahatla">
+
+
+<roleset id="rahatla.01" name="tedirginlik veren bir durum ortadan kalkmak veya azalmak">
+<roles>
+<role descr="rahatlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O çirkin, kaba kunduralarla sıcak günde serin denize dalmışım gibi rahatladım.</text>
+
+
+<note/>
+<arg f="inst" n="m" suffix="">O çirkin, kaba kunduralarla</arg>
+<arg f="mnr" n="m" suffix="">sıcak günde serin denize dalmışım gibi</arg>
+<rel f="">rahatladım</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,121 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dök">
+
+
+<roleset id="dök.01" name="boşaltmak">
+<roles>
+<role descr="boşaltan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<role descr="boşaltılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<role descr="nereye boşaltıldığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sigara tablasını döktü.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Sigara tablasını</arg>
+<rel f="">döktü</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="dök.02" name="Saçmak, serpmek:">
+<roles>
+<role descr="saçan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saçtığı şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye saçtığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tavuklara yem döktü.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Tavuklara</arg>
+<arg f="" n="1" suffix="">yem</arg>
+<rel f="">döktü</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

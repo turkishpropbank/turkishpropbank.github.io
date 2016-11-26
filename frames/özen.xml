@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="özen">
+
+
+<roleset id="özen.01" name="Beğendiği şeye benzemeye çalışmak, yapmaya kalkışmak">
+<roles>
+<role descr="özenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="özenilen" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<role descr="nereden özendiği" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elbisene çok özendim.</text>
+<note/>
+<arg f="" n="1" suffix="">Elbisene</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">özendim</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kurtul">
+
+
+<roleset id="kurtul.01" name="İstenmeyen, sıkıntı veren, hoşlanılmayan bir kimseden, bir yerden, bir durumdan uzaklaşmak">
+<roles>
+<role descr="kurtulan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereden/neyden kurtulduğu" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kurtuldum o cehennemden.</text>
+<note/>
+<arg f="" n="2" suffix="">o cehennemden</arg>
+<rel f="">Kurtuldum</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,62 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="taş">
+
+
+<roleset id="taş.01" name="Hacmine sığmamak">
+<roles>
+<role descr="taşan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereden taştığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="nereye taştığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ne var ki birkaç yıl içinde kentin büyük bölümü bu surların dışına taştı ve İstanbul kimsenin kontrol edemediği bir polip halini aldı.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Ne var ki</arg>
+<arg f="tmp" n="m" suffix="">birkaç yıl içinde</arg>
+<arg f="" n="1" suffix="">kentin büyük bölümü</arg>
+<arg f="" n="4" suffix="">bu surların dışına</arg>
+<rel f="">taştı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çay fincandan taştı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Çay</arg>
+<arg f="" n="3" suffix="">fincandan</arg>
+<rel f="">taştı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sabrımız taştı</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Sabrımız</arg>
+<rel f="">taştı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

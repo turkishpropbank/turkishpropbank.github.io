@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="homurdan">
+
+
+<roleset id="homurdan.01" name="Öfke, kızgınlık, can sıkıntısıyla anlaşılmaz sesler çıkarmak">
+<roles>
+<role descr="homurdanan" f="" n="0" suffix="NOM"/>
+
+<role descr="homurtu - genelde diye ile birlikte" f="" n="1" suffix=""/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>"Otopsi raporunu mu istiyorsunuz?" diye homurdandı Orhan, televizyon izlemeyi sürdürerek.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">"Otopsi raporunu mu istiyorsunuz?" diye</arg>
+<arg f="" n="0" suffix="">Orhan</arg>
+<arg f="mnr" n="m" suffix="">televizyon izlemeyi sürdürerek</arg>
+<rel f="">homurdandı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,348 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kalk">
+
+
+<roleset id="kalk.01" name="Yerinden ayrılmak">
+<roles>
+<role descr="kalkan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+<role descr="nereden kalktığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Niye kalktınız, biraz daha otursaydınız.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="cau" n="m" suffix="">Niye</arg>
+<rel f="">kalktınız</rel>
+</example>
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Terazinin bir gözü inince öbürü kalkar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Terazinin bir gözü inince</arg>
+<arg f="" n="0" suffix="">öbürü</arg>
+<rel f="">kalkar</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="kalk.02" name="Yola çıkmak">
+<roles>
+<role descr="yola çıkan (kalkan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yola çıkma zamanı (ne zaman kalktığı)" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="time"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tren saat onda kalktı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Tren</arg>
+<arg f="tmp" n="m" suffix="">saat onda</arg>
+<rel f="">kalktı</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kalk.03" name="Varlığı, hayatı son bulmak">
+<roles>
+<role descr="kullanımı/varlığı sona eren şey (kalkan)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+<role descr="nereden kalktığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Halifelik kalktı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Halifelik</arg>
+<rel f="">kalktı</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="kalk.04" name="Girişmek, başlamak">
+<roles>
+<role descr="girişimci (kalkan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="giriştiği şey (neye kalktığı)" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sakın bana vurmaya kalkma.</text>
+<note/>
+<arg f="adv" n="m" suffix="">Sakın</arg>
+<arg f="" n="1" suffix="">bana vurmaya</arg>
+<rel f="">kalkma</rel>
+</example>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

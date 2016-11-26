@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="buda">
+
+
+<roleset id="buda" name="Dallarını kesmek" vncls="">
+<roles>	
+    <role descr="budayan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="budanan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Aylıkları budadık.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Aylıkları</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

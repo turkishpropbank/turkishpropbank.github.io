@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sergile">
+
+
+<roleset id="sergile.01" name="Bazı şeyleri göstermek, tanıtmak">
+<roles>
+<role descr="sergileyen" f="" n="0" suffix="NOM"/>
+
+<role descr="sergilenen" f="" n="1" suffix="ACC"/>
+<role descr="nerede sergilendiği" f="" n="2" suffix="LOC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kadınlar bütün mallarını, vitrin yerine kullandıkları pencerelerde sergiliyorlardı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Kadınlar</arg>
+<arg f="" n="1" suffix="">bütün mallarını</arg>
+<arg f="" n="2" suffix="">vitrin yerine kullandıkları pencerelerde</arg>
+<rel f="">sergiliyorlardı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

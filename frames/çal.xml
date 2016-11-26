@@ -1,0 +1,245 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çal">
+
+
+<roleset id="çal.01" name="Hırsızlık etmek, aşırmak." vncls="">
+<roles>	
+    <role descr="çalan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="çalınan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bizim atlarımızı çalıp İngilizlere satarlardı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bizim atlarımızı</arg>
+<rel f="">çalıp</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çal.02" name="Bir ses çıkaran aletin çalışması" vncls="">
+<roles>	
+    <role descr="çalan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+	<role descr="çalınan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Fevkalade zekidir; iyi dans eder, piyano çalar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">piyano</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="çal.03" name="Benzemek, andırmak. (mecazi anlam) (to resemble)" vncls="">
+<roles>	
+    <role descr="benzeyen şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="neye benzediği" f="" n="2" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Geniş alınlı, kırmızıya çalar, kahverengi saçlı, altın dişli tuhaf bir delikanlı gülümsedi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">kırmızıya</arg>
+<arg f="" n="1" suffix="">kahverengi saçlı</arg>
+<rel f="">çalar</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

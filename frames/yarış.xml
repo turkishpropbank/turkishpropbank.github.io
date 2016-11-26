@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yarış">
+
+
+<roleset id="yarış.01" name="Üstünlük kazanmak amacıyla bir yarışmaya katılmak">
+<roles>
+<role descr="yarışan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle yarışıldığı" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="ne için yarışıldığı - ödül" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Radyolar okunan şiirleri dinleyiciye ulaştırmakta birbiriyle yarıştı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Radyolar</arg>
+<arg f="" n="2" suffix="">okunan şiirleri dinleyiciye ulaştırmakta</arg>
+<arg f="" n="1" suffix="">birbiriyle</arg>
+<rel f="">yarıştı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

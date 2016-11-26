@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eski">
+
+
+<roleset id="eski.01" name="Yıpranmak, yaşlanmak">
+<roles>
+<role descr="eskiyen şey/kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yerde değerli ama artık eskimiş bir halı.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ama</arg>
+<arg f="" n="1" suffix="">bir halı</arg>
+<arg f="adv" n="m" suffix="">artık</arg>
+<rel f="">eskimiş</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

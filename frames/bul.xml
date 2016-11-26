@@ -1,0 +1,448 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bul">
+ 
+
+<roleset id="bul.01" name="Aranılan bir şeye sahip olmak" vncls="">
+<roles>	
+    <role descr="bulan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bulunan şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+
+<role descr="nerede bulunduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Anahtarlarımı cüzdanımda buldum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Anahtarlarımı</arg>
+<arg f="" n="2" suffix="">cüzdanımda</arg>
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bul.02" name="Keşfetmek , icat etmek" vncls="">
+<roles>	
+    <role descr="bulan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bulunan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Şu kuvvetin, cevherin sırrını bulmaya çalışıyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Şu kuvvetin, cevherin sırrını</arg>
+<rel f="">bulmaya</rel>
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+ 
+
+
+
+
+
+<roleset id="bul.03" name="Bir yargıya varmak">
+<roles>
+<role descr="bulan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyi bulduğu" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nasıl bulduğu (varılan yargı)" f="" n="2" suffix="NOM"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben de bunu akıllıca buldum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Ben (de)</arg>
+<arg f="" n="1" suffix="">bunu</arg>
+<arg f="" n="2" suffix="">akıllıca</arg>
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+<roleset id="bul.04" name="Erişmek">
+<roles>
+<role descr="bulan" f="" n="1" suffix="NOM"/>
+
+<role descr="neyi bulduğu" f="" n="2" suffix="NOM-ACC"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fiyatı 500 lirayı buluyor.</text>
+
+
+<arg f="" n="1" suffix="">Fiyatı</arg>
+<arg f="" n="2" suffix="">500 lirayı</arg>
+
+
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<predicate lemma="son_bul">
+
+
+<roleset id="bul.05" name="Bitmek">
+<roles>
+<role descr="biten şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+<predicate lemma="kafa_bul">
+
+
+<roleset id="bul.06" name="Dalga geçmek">
+<roles>
+<role descr="dalga geçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dalga geçilen" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<predicate lemma="yüz_bul">
+
+
+<roleset id="bul.07" name="şımarmak, cesaretlenmek">
+<roles>
+<role descr="şımaran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="şımarma sebebi" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

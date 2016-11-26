@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ayıkla">
+
+
+<roleset id="ayıkla.01" name="Temizlemek" vncls="">
+<roles>	
+    <role descr="ayıklayan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="ayıklanan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Döndüğümde karımın mezarını dolduran otları elimle ayıkladım.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Döndüğümde</arg>
+<arg f="" n="1" suffix="">karımın mezarını dolduran otları</arg>
+<arg f="inst" n="m" suffix="">elimle</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

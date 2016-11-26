@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="büyüle">
+
+
+<roleset id="büyüle.01" name="Büyü ile etki altına almak">
+<roles>
+<role descr="büyüleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="büyülenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kendisini büyüleyen şeyin ne olduğunu bulmaya uğraşıyor.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kendisini</arg>
+<arg f="" n="0" suffix="">şeyin</arg>
+<rel f="">büyüleyen</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sürün">
+
+
+<roleset id="sürün.01" name="Karnı üzerinde sürünerek gitmek">
+<roles>
+<role descr="sürünen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İçimize tekrar emniyet geldikten sonra, karnımız üstünde sürünerek Nil'e, sonra öteki sahile geçtik.</text>
+
+
+<note/>
+<arg f="loc" n="m" suffix="">karnımız üstünde</arg>
+<rel f="">sürünerek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

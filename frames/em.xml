@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="em">
+
+
+<roleset id="em.01" name="İçine çekmek">
+<roles>
+<role descr="içen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="içtiği şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çanağımdaki köpüklü sütü emer gibi içeceğim.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Çanağımdaki köpüklü sütü</arg>
+<rel f="">emer</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Toprak suyu emdi.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Toprak</arg>
+<arg f="" n="1" suffix="">suyu</arg>
+<rel f="">emdi</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

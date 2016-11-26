@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="um">
+
+
+<roleset id="um.01" name="Bir şeyin olmasını istemek, beklemek">
+<roles>
+<role descr="uman" f="" n="0" suffix="NOM"/>
+
+<role descr="umulan/ beklenen şey" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gelmesini umuyorum.</text>
+<note/>
+<arg f="" n="1" suffix="">Gelmesini</arg>
+<rel f="">umuyorum</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

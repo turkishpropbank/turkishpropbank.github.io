@@ -1,0 +1,92 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soy">
+
+
+<roleset id="soy.01" name="Bir şeyin üzerinden kabuk, deri, zar vb.ni çıkarmak">
+<roles>
+<role descr="soyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="soyulan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="ne ile soyduğu" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Takkesini geçirmiş, entarisini kuşanmış, elma soyuyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">elma</arg>
+<rel f="">soyuyordu</rel>
+</example>
+
+<note>skin.01</note>
+</roleset>
+<roleset id="soy.02" name="Birinin üstünde, yanında veya bir yerde bulunan şeyleri çalarak alıp götürmek">
+<roles>
+<role descr="soyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="soyulan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Novi Sad Kent Müzesi'ne giren 2 hırsız, güvenlik görevlilerini bağlayarak müzeyi soydu.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Novi Sad Kent Müzesi'ne giren 2 hırsız</arg>
+<arg f="mnr" n="m" suffix="">güvenlik görevlilerini bağlayarak</arg>
+<arg f="" n="1" suffix="">müzeyi</arg>
+<rel f="">soydu</rel>
+</example>
+
+<note>rob.01</note>
+</roleset>
+<roleset id="soy.03" name="Birinin giysilerini çıkarmak">
+<roles>
+<role descr="soyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="soyulan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note>undress.01</note>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuğu yıkamak için soydu annesi.</text>
+<note/>
+<arg f="" n="1" suffix="">Çocuğu</arg>
+<arg f="gol" n="m" suffix="">yıkamak için</arg>
+<arg f="" n="0" suffix="">annesi</arg>
+<rel f="">soydu</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

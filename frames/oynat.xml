@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="oynat">
+
+
+<roleset id="oynat.01" name="Aklını yitirmek">
+<roles>
+<role descr="oynatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sizinle iki gün daha çalışsam aklımı oynatabilirim.</text>
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Sizinle iki gün daha çalışsam</arg>
+<arg f="lvb" n="m" suffix="">aklımı</arg>
+<rel f="">oynatabilirim</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

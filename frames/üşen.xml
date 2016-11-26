@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üşen">
+
+
+<roleset id="üşen.01" name="Bir işi yapmaya isteği olmamak">
+<roles>
+<role descr="üşenen" f="" n="0" suffix="NOM"/>
+
+<role descr="neye üşendiği" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Üşenmiyor, her gün üç yüz metre yürüyüp çöpünü dökmeye buraya geliyor</text>
+
+
+<note/>
+<rel f="">Üşenmiyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

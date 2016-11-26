@@ -1,0 +1,21 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yatış">
+
+
+<roleset id="yatış.01" name="Sakinleşmek">
+<roles>
+<role descr="sakinleşen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

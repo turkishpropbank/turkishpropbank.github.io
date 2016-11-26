@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="oluş">
+
+
+<roleset id="oluş.01" name="Belli bir varlık kazanmak, ortaya çıkmak">
+<roles>
+<role descr="oluşan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gün batımına yakın İskenderun körfezini sis basıyor, sisten dağlar oluşuyor.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">sisten dağlar</arg>
+<rel f="">oluşuyor</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

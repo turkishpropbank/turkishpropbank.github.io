@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="görüş">
+
+
+<roleset id="görüş.01" name="Bir iş, bir konu üzerinde karşılıklı görüş ileri sürmek">
+<roles>
+<role descr="görüşen" f="" n="0" suffix="NOM">
+
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="üzerine görüşülen konu" f="" n="2" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kiminle görüştüğü" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-TH09C1A-0834" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki tarafta bir uğultu başladı ve benim teklifimi yeniden görüştüler.</text>
+
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ve</arg>
+<arg f="" n="2" suffix="">benim teklifimi</arg>
+<arg f="tmp" n="m" suffix="">yeniden</arg>
+<rel f="">görüştüler</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note>Görmek fiilinin işteş halinden biraz farklılaşmış kullanımı var</note>
+</frameset>

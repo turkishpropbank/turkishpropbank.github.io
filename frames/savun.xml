@@ -1,0 +1,120 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="savun">
+
+
+<roleset id="savun.01" name="Saldırıya karşı korumak, müdafaa etmek">
+<roles>
+<role descr="savunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="savunuluan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Reklam için oradaydım, diye kendisini savundu.</text>
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Reklam için oradaydım, diye</arg>
+<arg f="" n="1" suffix="">kendisini</arg>
+<rel f="">savundu</rel>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="savun.02" name="Hareket veya düşünceyi söz ve yazı ile doğru göstermeye çalışmak">
+<roles>
+<role descr="ileri süren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ileri sürülen fikir" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sunay Remzi, katilin kendisi olmadığını savundu.</text>
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Sunay Remzi</arg>
+<arg f="" n="1" suffix="">katilin kendisi olmadığını</arg>
+<rel f="">savundu</rel>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,187 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="başla">
+
+
+<roleset id="başla.01" name="Bir işe girişmek">
+<roles>
+<role descr="başlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye başladığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nasıl/ne ile başlanıldığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şairliğe on sekiz yaşında gazel ve rubailerle başlamıştı.</text>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Şairliğe</arg>
+<arg f="tmp" n="m" suffix="">on sekiz yaşında</arg>
+<arg f="" n="2" suffix="">gazel ve rubailerle</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="başla.02" name="Olmak, oluşmak, ortaya çıkmak, doğmak">
+<roles>
+<role descr="başlayan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nasıl başladığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şiirimiz milletimizin Anadolu'daki teşekkülü ile başlar.</text>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Şiirimiz</arg>
+<arg f="" n="2" suffix="">milletimizin Anadolu'daki teşekkülü ile</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="başla.03" name="Görünmek">
+<roles>
+<role descr="görünen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kasabanın kenar mahallelerinden sonra bir mezarlık başlardı.</text>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Kasabanın kenar mahallelerinden sonra</arg>
+<arg f="" n="1" suffix="">bir mezarlık</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

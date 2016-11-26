@@ -1,0 +1,99 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="izle">
+
+
+<roleset id="izle.01" name="Birinin veya bir şeyin arkasından gitmek, takip etmek">
+<roles>
+<role descr="izleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="izlenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Babam kaşları çatılmış, başını sallayarak izliyor bizi.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Babam</arg>
+<arg f="mnr" n="m" suffix="">kaşları çatılmış, başını sallayarak</arg>
+<arg f="" n="1" suffix="">bizi</arg>
+<rel f="">izliyor</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="izle.02" name="Eğlenmek, görmek, öğrenmek için bakmak, seyretmek (film/TV izlemek)">
+<roles>
+<role descr="izleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="izlenen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dün televizyonda Muhteşem Yüzyıl'ı izledim.</text>
+<note/>
+<arg f="tmp" n="m" suffix="">Dün</arg>
+<arg f="loc" n="m" suffix="">televizyonda</arg>
+<arg f="" n="1" suffix="">Muhteşem Yüzyıl'ı</arg>
+<rel f="">izledim</rel>
+</example>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,111 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ulaş">
+
+
+<roleset id="ulaş.01" name="Varmak, gelmek">
+<roles>
+<role descr="ulaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye vardığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doğudan batıya kadar ulaşmış bir zafer bestesi dinliyorum.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Doğudan batıya kadar</arg>
+<rel f="">ulaşmış</rel>
+<arg f="" n="0" suffix="">bir zafer bestesi</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ulaş.02" name="Erişmek, elde etmek">
+<roles>
+<role descr="ulaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye/kime ulaşıldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dökümanlara erişmek.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Dökümanlara</arg>
+<rel f="">erişmek</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

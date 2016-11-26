@@ -1,0 +1,107 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tırman">
+
+
+<roleset id="tırman.01" name="El ve ayaklarıyla tutunarak veya tırnaklarını iliştirerek dik bir yere çıkmak">
+<roles>
+<role descr="tırmanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye tırmandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Adam yüze yüze geldi ve bir maymun çevikliğiyle küpeşteye tırmanıp güverteye atıldı.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Adam</arg>
+<arg f="mnr" n="m" suffix="">bir maymun çevikliğiyle</arg>
+<arg f="" n="2" suffix="">küpeşteye</arg>
+<rel f="">tırmanıp</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="tırman.02" name="Yokuş, merdiven vb. çıkmak">
+<roles>
+<role descr="çıkan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="çıkılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yokuşu çıkmak zordur inmek kolay.</text>
+<note/>
+<arg f="" n="1" suffix="">Yokuşu</arg>
+<rel f="">çıkmak</rel>
+</example>
+</roleset>
+<roleset id="tırman.03" name="Belli bir durum, olay gittikçe güç kazanmak, giderek etkisini artırmak">
+<roles>
+<role descr="tırmanan şey" f="" n="1" suffix="NOM"/>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Olayların tırmanmasına izin vermemli.</text>
+<note/>
+<arg f="" n="1" suffix="">Olayların</arg>
+<rel f="">tırmanmasına</rel>
+</example>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

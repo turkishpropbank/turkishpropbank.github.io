@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tutukla">
+
+
+<roleset id="tutukla.01" name="Kanun yoluyla hürriyeti kısıtlayarak bir yere kapatmak, tevkif etmek">
+<roles>
+<role descr="tutuklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="tutuklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kayıtları araştırdığımı duyan yüzbaşı beni tutukladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Kayıtları araştırdığımı duyan yüzbaşı</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<rel f="">tutukladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

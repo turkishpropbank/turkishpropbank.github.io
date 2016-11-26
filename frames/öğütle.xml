@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öğütle">
+
+
+<roleset id="öğütle.01" name="nasihat etmek, tavsiye vermek">
+<roles>
+<role descr="öğütleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi öğütlediği" f="" n="1" suffix="ACC"/>
+<role descr="kime/neye öğüt verildiği" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Güzel olanın yıkılmasını kimse öğütlemez.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Güzel olanın yıkılmasını</arg>
+<arg f="" n="0" suffix="">kimse</arg>
+<rel f="">öğütlemez</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

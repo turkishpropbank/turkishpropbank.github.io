@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="atlat">
+
+
+<roleset id="atlat.01" name="Üstesinden gelmek">
+<roles>
+<role descr="atlatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="atlatılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şoku atlatamadım.</text>
+
+
+
+
+<arg f="" n="1" suffix="">Şoku</arg>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

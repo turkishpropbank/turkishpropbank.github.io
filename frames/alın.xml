@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="alın">
+
+
+<roleset id="alın.01" name="İncinmek, kırılmak">
+<roles>
+<role descr="incinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="incindiği şey/kişi/davranış" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<role descr="incindiği şey/kişi/davranış" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu sözlerime alınmış.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu sözlerime</arg>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu laflarından alınmış</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu laflarından</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

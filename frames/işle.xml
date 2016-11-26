@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="işle">
+
+
+<roleset id="işle.01" name="Bir şeye emek vererek onu daha elverişli bir duruma getirmek">
+<roles>
+<role descr="işleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="işlenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="işle.02" name="yapmak, etmek: suç işlemek, günah işlemek, hata işlemek, sevap işlemek vb...">
+<roles>
+<role descr="işleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="işlenen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note>deyimleşmiş fiiller</note>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Suç işlemiş sayılırım.</text>
+<note/>
+<arg f="" n="1" suffix="">Suç</arg>
+<rel f="">işlemiş</rel>
+</example>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

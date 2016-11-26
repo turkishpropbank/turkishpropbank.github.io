@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ovala">
+
+
+<roleset id="ovala.01" name="Ellerini bir şeye veya birbirine sürtmek">
+<roles>
+<role descr="ovalayan" f="" n="0" suffix="NOM"/>
+
+<role descr="ovalanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kocası okurken gözleriyle satırları takip ediyor, elleriyle boncuk çantasını ovalıyordu.</text>
+
+
+<note/>
+<arg f="inst" n="m" suffix="">elleriyle</arg>
+<arg f="" n="1" suffix="">boncuk çantasını</arg>
+<rel f="">ovalıyordu</rel>
+<arg f="tmp" n="m" suffix="">Kocası okurken</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

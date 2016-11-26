@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="destekle">
+
+
+<roleset id="destekle.01" name="Destek koymak">
+<roles>
+<role descr="destekleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="desteklenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kapıyı ardından destekleyip varını yoğunu amcasının şerrinden koruyacaktı</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kapıyı</arg>
+<arg f="mnr" n="m" suffix="">ardından</arg>
+<rel f="">destekleyip</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

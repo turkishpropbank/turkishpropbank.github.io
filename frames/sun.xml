@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sun">
+
+
+<roleset id="sun.01" name="Bir büyüğe veya nezaket gereğince bir kimseye bir şeyi vermek, arz etmek, yollamak">
+<roles>
+<role descr="sunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sunulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kime sunulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>yeni bir kartlı ödeme sistemini kullanıma sundu.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">yeni bir kartlı ödeme sistemini</arg>
+<arg f="" n="2" suffix="">kullanıma</arg>
+<rel f="">sundu</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="sun.02" name="Radyoda, televizyonda, bir eğlence yerinde programı takdim etmek">
+<roles>
+<role descr="sunucu" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sunulan program" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>89 yaşındaki aktöre Bacara&amp;Resort Spa'da düzenlenen gala gecesinde ödülünü aktris Gena Rowlands sundu.</text>
+
+
+
+<note/>
+<arg f="loc" n="m" suffix="">89 yaşındaki aktöre Bacara&amp;Resort Spa'da düzenlenen gala gecesinde</arg>
+<arg f="" n="1" suffix="">ödülünü</arg>
+<arg f="" n="0" suffix="">aktris Gena Rowlands</arg>
+<rel f="">sundu</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

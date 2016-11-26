@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="seslen">
+
+
+<roleset id="seslen.01" name="Bir şey söylemek için sesini çıkarmak, hitap etmek">
+<roles>
+<role descr="seslenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="söylenen şey (genelde diye ile birlikte)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime seslenildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Maalesef teknedeki alet edevatla beceremeyeceğiz bu işi diye seslendi mühendis.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Maalesef teknedeki alet edevatla beceremeyeceğiz bu işi diye</arg>
+<rel f="">seslendi</rel>
+<arg f="" n="0" suffix="">mühendis</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

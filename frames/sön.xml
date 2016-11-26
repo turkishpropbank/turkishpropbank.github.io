@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sön">
+
+
+<roleset id="sön.01" name="Yanmaz, aydınlatmaz, parlamaz olmak">
+<roles>
+<role descr="sönen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Son yıldız vadinin üstünde bir yanıp bir sönüyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Son yıldız</arg>
+<arg f="loc" n="m" suffix="">vadinin üstünde</arg>
+<rel f="">sönüyordu</rel>
+<arg f="tmp" n="m" suffix="">bir</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

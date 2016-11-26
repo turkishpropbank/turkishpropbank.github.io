@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="serp">
+
+
+<roleset id="serp.01" name="Geniş alana yaymak">
+<roles>
+<role descr="serpen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="serpilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Naneleri kuruması için çatıya serdik.</text>
+<note/>
+<arg f="" n="1" suffix="">Naneleri</arg>
+<arg f="gol" n="m" suffix="">kuruması için</arg>
+<arg f="loc" n="m" suffix="">çatıya</arg>
+<rel f="">serdik</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

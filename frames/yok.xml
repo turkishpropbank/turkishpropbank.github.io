@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yok">
+
+
+<roleset id="yok.01" name="Bulunmayan, mevcut olmayan var karşıtı">
+<roles>
+<role descr="sahip olunmayan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<role descr="sahip olmayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hiç işim yok.</text>
+
+
+
+
+
+
+
+<arg f="neg" n="m" suffix="">Hiç</arg>
+<rel f="">yok</rel>
+<arg f="" n="1" suffix="">işim</arg>
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note>- isim - fiilimsi</note>
+</roleset>
+
+
+
+
+
+
+</predicate>
+</frameset>

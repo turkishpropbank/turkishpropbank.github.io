@@ -1,0 +1,168 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ara">
+
+
+<roleset id="ara.01" name="Birini veya bir şeyi bulmaya çalışmak" vncls="">
+<roles>
+  <role descr="arayan kişi/şey" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="aranan kişi/şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk.02" src="" type="">
+<text>Dükkanın içinde gözleriyle bir şeyler aradı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">bir şeyler</arg>
+<arg f="loc" n="m" suffix="">Dükkanın içinde</arg>
+<arg f="inst" n="m" suffix="">gözleriyle</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+<roleset id="ara.02" name="Özlemek">
+<roles>
+<role descr="özleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="özlenen" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Seni çok arıyorum, Ziyacığım.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Seni</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ara.03" name="Telefon etmek">
+<roles>
+<role descr="telefon eden" f="" n="0" suffix="NOM"/>
+
+<role descr="telefon edilen" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dün akşam beni aramışsın.</text>
+
+
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,153 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="atla">
+
+
+<roleset id="atla.01" name="Sıçrayarak veya fırlayarak aşmak">
+<roles>
+<role descr="atlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereden atladığı" f="" n="1" suffix="ABL"/>
+
+<role descr="nereye atladığı" f="" n="2" suffix="DAT"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Duvardan atlamak. Hendekten atlamak.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Duvardan</arg>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="atla.02" name="Bazı bölümleri üstünkörü geçmek">
+<roles>
+<role descr="atlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="atlanılan kısım" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben bu kısmı atlamışım.</text>
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="1" suffix="">bu kısmı</arg>
+</example>
+</roleset>
+<roleset id="atla.03" name="Sınıfı okumadan geçmek">
+<roles>
+<role descr="sınıfı atlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="atladığı sınıf" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birinci sınıfı atladı.</text>
+<note/>
+<arg f="" n="1" suffix="">Birinci sınıfı</arg>
+</example>
+</roleset>
+<roleset id="atla.04" name="Bir işe sonucunu düşünmeden hemen girişmek">
+<roles>
+<role descr="atlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="atladığı iş" f="" n="1" suffix="DAT"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sazan gibi atladın hemen bu işe.</text>
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Sazan gibi</arg>
+<arg f="tmp" n="m" suffix="">hemen</arg>
+<arg f="" n="1" suffix="">bu işe</arg>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

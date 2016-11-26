@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="seğir">
+
+
+<roleset id="seğir.01" name="kaslar hafifçe oynamak">
+<roles>
+<role descr="seğiren" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözüm seğirdi.</text>
+<note/>
+<arg f="" n="1" suffix="">Gözüm</arg>
+<rel f="">seğirdi</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

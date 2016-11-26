@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="san">
+
+
+<roleset id="san.01" name="Zannetmek">
+<roles>
+<role descr="zanneden kişi (sanan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="zannedilen şey (sanılan)" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<role descr="ne sanıldığı" f="" n="2" suffix="NOM"/>
+
+<note/>
+</roles>
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sen beni aptal sandın herhalde.</text>
+
+<arg f="" n="0" suffix="">Sen</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="" n="2" suffix="">aptal</arg>
+<rel f="">sandın</rel>
+<arg f="adv" n="m" suffix="">herhalde</arg>
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bük">
+ 
+
+<roleset id="bük.01" name="Sertçe çevirmek" vncls="">
+<roles>	
+    <role descr="büken kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>			
+    <role descr="bükülen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Çelik halatı büktü.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Çelik halatı</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

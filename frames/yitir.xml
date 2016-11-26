@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yitir">
+
+
+<roleset id="yitir.01" name="kaybetmek">
+<roles>
+<role descr="kaybeden" f="" n="0" suffix="NOM"/>
+
+<role descr="kaybedilen" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

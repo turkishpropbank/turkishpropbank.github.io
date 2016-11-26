@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="araştır">
+
+
+<roleset id="araştır.01" name="Birini veya bir şeyi bulmak için bir yeri gözden geçirmek">
+<roles>
+<role descr="araştıran" f="" n="0" suffix="NOM"/>
+
+<role descr="araştırılan konu/şey" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu konu daha önce çokça araştırılmış.</text>
+
+<arg f="" n="1" suffix="">Bu konu</arg>
+<arg f="tmp" n="m" suffix="">daha önce</arg>
+<arg f="ext" n="m" suffix="">çokça</arg>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

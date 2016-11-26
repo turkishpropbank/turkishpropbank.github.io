@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="don">
+
+
+<roleset id="don.01" name="Buz tutmak">
+<roles>
+<role descr="donan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk5" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çimento ve alçı çabuk donar.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Çimento ve alçı</arg>
+<arg f="mnr" n="m" suffix="">çabuk</arg>
+<rel f="">donar</rel>
+</example>
+<example name="tdk7" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hepsi olduğu yerde dondu.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Hepsi</arg>
+<arg f="loc" n="m" suffix="">olduğu yerde</arg>
+<rel f="">dondu</rel>
+</example>
+<example name="tdk8" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bütün kafaların donmuş, taşlaşmış olmasını istiyorlar.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bütün kafaların</arg>
+<rel f="">donmuş</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<roleset id="don.02" name="Hareketsiz kalmak">
+<roles>
+<role descr="hareketsiz kalan" f="" n="1" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<roleset id="don.03" name="Çok üşümek">
+<roles>
+<role descr="üşüyen kişi" f="" n="1" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

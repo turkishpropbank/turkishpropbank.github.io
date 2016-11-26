@@ -1,0 +1,69 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="alçal">
+
+
+<roleset id="alçal.01" name="Yüksekten aşağı doğru inmek." vncls="">
+<roles>
+  <role descr="alçalan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Rüzgar gece beyaza boyanmış konduların üstüne doğru alçaldı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Rüzgar</arg>
+<arg f="gol" n="m" suffix="">gece beyaza boyanmış konduların üstüne doğru</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="alçal.02" name="İnsanın değeri azalmak." vncls="">
+<roles>
+  <role descr="alçalan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+  <role descr="alçalma miktarı" f="" n="2" suffix="NOM">
+	<vnrole vncls="" vntheta="extent"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Hemşiremden esirgediğiniz şeyi ben kabul edecek kadar alçalmadım.</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">kabul edecek kadar</arg>
+<arg f="" n="0" suffix="">ben</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

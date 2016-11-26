@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bin">
+
+
+<roleset id="bin.01" name="Bir taşıtta yer almak" vncls="">
+<roles>	
+    <role descr="binen kimse/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="binilen taşıt/şey" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Belki de atlara binerek dolaşırız.</text>
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">atlara</arg>
+<rel f="">binerek</rel>
+</example>
+<example name="tdk.02" src="" type="">
+<text>İş inada bindi.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">İş</arg>
+<arg f="" n="4" suffix="">inada</arg>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ilerle">
+
+
+<roleset id="ilerle.01" name="Bulunduğu yerden daha ileriye gitmek">
+<roles>
+<role descr="ilerleyen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereye doğru ilerlediği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Vapur durmadan düdük çalarak ilerliyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Vapur</arg>
+<arg f="mnr" n="m" suffix="">durmadan</arg>
+<rel f="">ilerliyordu</rel>
+<arg f="mnr" n="m" suffix="">düdük çalarak</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

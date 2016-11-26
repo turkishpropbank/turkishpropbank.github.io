@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="boşver">
+
+
+<roleset id="boşver.01" name="aldırmamak">
+<roles>
+<role descr="boşveren" f="" n="0" suffix="NOM"/>
+
+<role descr="boşverilen" f="" n="1" suffix="ACC"/>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

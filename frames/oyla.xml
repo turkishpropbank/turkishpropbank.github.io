@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="oyla">
+
+
+<roleset id="oyla.01" name="Oya koymak veya oya sunmak">
+<roles>
+<role descr="oy verenler" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="oylanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beyler, kararı oyluyoruz.</text>
+<note/>
+<arg f="dis" n="m" suffix="">Beyler</arg>
+<arg f="" n="1" suffix="">kararı</arg>
+<rel f="">oyluyoruz</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

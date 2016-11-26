@@ -1,0 +1,368 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bas">
+
+
+<roleset id="bas.01" name="Ayağı bir yere basmak" vncls="">
+<roles>	
+    <role descr="basan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="basılan şey/yer" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bastığın yerlerde güller açtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="4" suffix="">yerlerde</arg>
+<rel f="">Bastığın</rel>
+
+<note/>
+</example>
+<example name="tdk" src="" type="">
+<text>Motor çalıştıktan sonra debriyaja basarsınız.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Motor çalıştıktan sonra</arg>
+<arg f="" n="4" suffix="">debriyaja</arg>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bas.02" name="Bası işi yapmak, tabetmek" vncls="">
+<roles>	
+    <role descr="basan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="basılan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="product"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Fotoğraflarımızı basmışlar.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Fotoğraflarımızı</arg>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bas.03" name="Ani bir baskın yapmak" vncls="">
+<roles>	
+    <role descr="basan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="basılan yer/kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ölen kızın intikamını almak için köyü basıp yakmış.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="gol" n="m" suffix="">Ölen kızın intikamını almak için</arg>
+<arg f="" n="1" suffix="">köyü</arg>
+<arg f="mnr" n="m" suffix="">basıp</arg>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bas.04" name="Bir kimse bir yaşa girmek" vncls="">
+<roles>	
+    <role descr="yaşlanan kişi" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+	<role descr="bastığı yaş" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>On dokuz yaşına yeni basmış, ürkek ve utangaç bir kızdım.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="4" suffix="">On dokuz yaşına</arg>
+<arg f="tmp" n="m" suffix="">yeni</arg>
+<rel f="">basmış</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<predicate lemma="ağır_bas">
+
+
+<roleset id="bas.05" name="Daha etkili olmak">
+<roles>
+<role descr="etkili olan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kırmızı daha ağır basıyor.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Kırmızı</arg>
+<arg f="ext" n="m" suffix="">daha</arg>
+<rel f="">ağır basıyor</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

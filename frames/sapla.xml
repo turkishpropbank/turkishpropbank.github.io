@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sapla">
+
+
+<roleset id="sapla.01" name="Batırmak, koymak">
+<roles>
+<role descr="saplayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saplanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye saplandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bıçağı kapıya sapladılar.</text>
+<note/>
+<arg f="" n="1" suffix="">Bıçağı</arg>
+<arg f="" n="2" suffix="">kapıya</arg>
+<rel f="">sapladılar</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

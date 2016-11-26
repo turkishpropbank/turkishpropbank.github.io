@@ -1,0 +1,71 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ek">
+
+
+<roleset id="ek.01" name="Tohum atmak veya gömmek">
+<roles>
+<role descr="eken" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ekilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ek.02" name="Serpmek">
+<roles>
+<role descr="eken kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ekilen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye ekildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yemeğe biber ektik.</text>
+
+
+
+
+<arg f="" n="4" suffix="">Yemeğe</arg>
+<arg f="" n="1" suffix="">biber</arg>
+<rel f="">ektik</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

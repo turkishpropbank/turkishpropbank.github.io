@@ -1,0 +1,105 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dağıt">
+
+
+<roleset id="dağıt.01" name="Toplu durumda bulunanları birbirinden uzaklaştırmak veya ayırmak">
+<roles>
+<role descr="dağıtan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dağıttığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Düşman ordusunu çil yavrusu gibi dağıtırlardı.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Düşman ordusunu</arg>
+<arg f="mnr" n="m" suffix="">çil yavrusu gibi</arg>
+<rel f="">dağıtırlardı</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dağıt.02" name="Pay etmek, vermek">
+<roles>
+<role descr="dağıtan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dağıtılan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Muhacir kümeleri arasında ekmek dağıtmakla uğraşan yaşlıca bir adama seslendi.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">yaşlıca bir adama</arg>
+<arg f="loc" n="m" suffix="">Muhacir kümeleri arasında</arg>
+<arg f="" n="1" suffix="">ekmek</arg>
+<rel f="">dağıtmakla</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

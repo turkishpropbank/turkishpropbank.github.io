@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="giy">
+
+
+<roleset id="giy.01" name="Örtünmek">
+<roles>
+<role descr="giyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="giyilen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kapalı çarşı zevkine göre alafranga sayılabilecek bir entari giymişti.</text>
+
+
+
+
+<arg f="" n="1" suffix="">Kapalı çarşı zevkine göre alafranga sayılabilecek bir entari</arg>
+<rel f="">giymişti</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="arın">
+
+
+<roleset id="arın.01" name="Temizlenmek">
+<roles>
+<role descr="temizlenen şey / kişi" f="" n="0" suffix="NOM"/>
+
+<role descr="neyden temizlendiği" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hatalarından büyük ölçüde arındı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Hatalarından</arg>
+<arg f="ext" n="m" suffix="">büyük ölçüde</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

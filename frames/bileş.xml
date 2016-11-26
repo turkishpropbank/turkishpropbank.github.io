@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bileş">
+
+
+<roleset id="bileş.01" name="Bütün durumuna gelmek">
+<roles>
+<role descr="bileşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="patient1"/>
+</role>
+
+<role descr="ne ile bileştiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="patient2"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kuşat">
+
+
+<roleset id="kuşat.01" name="Çevresini sarmak">
+<roles>
+<role descr="kuşatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kuşatılan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Denize bakan yönü ile yan sınırlarını rüzgârı kesen sık kargılıklar kuşatıyordu.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">rüzgârı kesen sık kargılıklar</arg>
+<arg f="" n="1" suffix="">Denize bakan yönü ile yan sınırlarını</arg>
+<rel f="">kuşatıyordu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

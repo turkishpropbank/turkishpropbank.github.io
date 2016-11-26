@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="frenle">
+
+
+<roleset id="frenle.01" name="Yavaşlatmak veya durdurmak">
+<roles>
+<role descr="yavaşlatan" f="" n="0" suffix="NOM"/>
+
+<role descr="yavaşlatılan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Adam fena sinirlendi. Ama durdu, düşündü, kendini iyi frenledi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">kendini</arg>
+<arg f="mnr" n="m" suffix="">iyi</arg>
+<rel f="">frenledi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

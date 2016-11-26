@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yeğle">
+
+
+<roleset id="yeğle.01" name="Bir şeyi öbürüne  tercih etmek">
+<roles>
+<role descr="yeğleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi yeğlediği" f="" n="1" suffix="ACC"/>
+<role descr="neye yeğlediği (tercih edilmeyen şey)" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aslında susmayı yeğlerdi şu anda.</text>
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Aslında</arg>
+<arg f="" n="1" suffix="">susmayı</arg>
+<rel f="">yeğlerdi</rel>
+<arg f="tmp" n="m" suffix="">şu anda</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

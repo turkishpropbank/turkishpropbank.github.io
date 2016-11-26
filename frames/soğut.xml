@@ -1,0 +1,60 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soğut">
+
+
+<roleset id="soğut.01" name="Soğumasını sağlamak, soğumasına sebep olmak">
+<roles>
+<role descr="soğutan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="soğutulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Suyu soğuttum.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Suyu</arg>
+<rel f="">soğuttum</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="soğut.02" name="Bir şeye karşı duyulan sevgi ve ilginin yok olmasına yol açmak">
+<roles>
+<role descr="soğutan" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi/kimi soğuttuğu" f="" n="1" suffix="ACC"/>
+<role descr="neyden soğuttuğu" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bizden soğudular, bizi de kendilerinden soğuttular.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">bizi (de)</arg>
+<arg f="" n="2" suffix="">kendilerinden</arg>
+<rel f="">soğuttular</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

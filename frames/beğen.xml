@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="beğen">
+
+
+<roleset id="beğen.01" name="İyi veya güzel bulmak" vncls="">
+<roles>	
+    <role descr="beğenen kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+	<role descr="beğenilen kişi/şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Biz çocuklar evimizi çok beğendik.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Biz çocuklar</arg>
+<arg f="" n="1" suffix="">evimizi</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

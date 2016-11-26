@@ -1,0 +1,113 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="var">
+
+
+<roleset id="var.01" name="Sahiplik bildiren olumlu ad cümleleri kuran bir söz">
+<roles>
+<role descr="sahip olunan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<role descr="sahip olan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Rahatsız etmek istemem hem de işim var.</text>
+
+
+
+
+
+
+
+<arg f="adv" n="m" suffix="">hem de</arg>
+<rel f="">var</rel>
+<arg f="" n="1" suffix="">işim</arg>
+
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note>- isim - fiilimsi</note>
+</roleset>
+
+
+
+
+
+
+
+<roleset id="var.02" name="Ulaşmak, erişmek">
+<roles>
+<role descr="varan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereye vardığı" f="" n="2" suffix="DAT"/>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

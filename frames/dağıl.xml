@@ -1,0 +1,49 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dağıl">
+
+
+<roleset id="dağıl.01" name="Toplu durumdayken ayrılıp birbirinden uzaklaşmak">
+<roles>
+<role descr="dağılan şey/kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+<role descr="nereye dağıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Zaten arkadaşlarımın her biri bir yana dağılmıştı.</text>
+
+
+
+
+<arg f="dis" n="m" suffix="">Zaten</arg>
+<arg f="" n="1" suffix="">arkadaşlarımın her biri</arg>
+<arg f="gol" n="m" suffix="">bir yana</arg>
+<rel f="">dağılmıştı</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

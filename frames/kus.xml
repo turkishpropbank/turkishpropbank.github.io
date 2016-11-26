@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kus">
+
+
+<roleset id="kus.01" name="İçindekini dışarı çıkarmak">
+<roles>
+<role descr="kusan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kusulan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tüm gece kustu.</text>
+<note/>
+<arg f="tmp" n="m" suffix="">Tüm gece</arg>
+<rel f="">kustu</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

@@ -1,0 +1,64 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çıkış">
+
+
+<roleset id="çıkış.01" name="Sert sözler söylemek">
+<roles>
+<role descr="çıkışan" f="" n="0" suffix="NOM"/>
+
+<role descr="kime/neye çıkışıldığı" f="" n="1" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben de ona bile bile sert çıkıştım</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben (de)</arg>
+<arg f="" n="1" suffix="">ona</arg>
+<arg f="mnr" n="m" suffix="">bile bile</arg>
+<rel f=""/>
+<arg f="mnr" n="m" suffix="">sert</arg>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="çıkış.02" name="Yeter olmak, yetmek">
+<roles>
+<role descr="yeterli olan şey" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Param çıkışmadığı için arkadaşımdan borç aldım.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Param</arg>
+<rel f="">çıkışmadığı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

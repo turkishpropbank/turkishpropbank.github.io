@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="değiş">
+
+
+<roleset id="değiş.01" name="Başka bir duruma girmek">
+<roles>
+<role descr="değişen şey/kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Beş yılda her şey ne kadar çabuk değişmişti.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Beş yılda</arg>
+<arg f="" n="1" suffix="">her şey</arg>
+<arg f="mnr" n="m" suffix="">ne kadar çabuk</arg>
+<rel f="">değişmişti</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

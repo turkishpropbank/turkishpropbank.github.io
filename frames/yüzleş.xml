@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yüzleş">
+
+
+<roleset id="yüzleş.01" name="Yüz yüze gelmek">
+<roles>
+<role descr="yüzleşen" f="" n="0" suffix="NOM"/>
+
+<role descr="yüzleşilen" f="" n="1" suffix="WITH"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>40'ına gelesiye, çok ağır, yakıcı sorunlarla yüzleşti Mustafa.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">40'ına gelesiye</arg>
+<arg f="" n="1" suffix="">çok ağır, yakıcı sorunlarla</arg>
+<arg f="" n="0" suffix="">Mustafa</arg>
+<rel f="">yüzleşti</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

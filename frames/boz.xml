@@ -1,0 +1,145 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="boz">
+
+
+<roleset id="boz.01" name="Bir şeyi iş yapamayacak hale getirmek" vncls="">
+<roles>	
+    <role descr="bozan kimse/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bozulan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bu iki radyo istasyonu birbirini bozuyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu iki radyo istasyonu</arg>
+<arg f="" n="1" suffix="">birbirini</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="boz.02" name="Aklını yitirecek derecede bir şeye düşkün olmak (mecazi anlam)" vncls="">
+<roles>	
+    <role descr="bozan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="ne ile bozduğu" f="" n="2" suffix="WITH">
+		<vnrole vncls="" vntheta="instrument"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Adamcağız politika ile bozmuş.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Adamcağız</arg>
+<arg f="" n="2" suffix="">politika ile</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

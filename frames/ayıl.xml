@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ayıl">
+
+
+<roleset id="ayıl" name="Kendine gelmek" vncls="">
+<roles>	
+    <role descr="ayılan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ayıldı ve Avrupa haşmetinin tesirini silkeledi üzerinden.</text>
+
+
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

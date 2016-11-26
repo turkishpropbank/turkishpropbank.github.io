@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="seç">
+
+
+<roleset id="seç.01" name="Benzerleri arasında hoşa gideni seçip almak veya yararlanmak için ayırmak">
+<roles>
+<role descr="seçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="seçilen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereden seçiliyor" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="nereye seçiliyor" f="" n="3" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+<role descr="ne seçildiği (şampiyon, milletvekili vs...)" f="" n="4" suffix=""/>
+</roles>
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Güzeller içinden bir seni seçtim.</text>
+
+<arg f="" n="2" suffix="">Güzeller içinden</arg>
+<arg f="" n="1" suffix="">bir seni</arg>
+<rel f="">seçtim</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

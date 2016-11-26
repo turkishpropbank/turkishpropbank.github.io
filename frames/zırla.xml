@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="zırla">
+
+
+<roleset id="zırla.01" name="Zırıldamak">
+<roles>
+<role descr="zırlayan" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bebek zırlayıp duruyor.</text>
+<note/>
+<arg f="" n="0" suffix="">Bebek</arg>
+<rel f="">zırlayıp</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

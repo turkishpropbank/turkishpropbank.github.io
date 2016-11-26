@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sığ">
+
+
+<roleset id="sığ.01" name="Bir kaba, bir yere bütünüyle girebilmek veya içinden geçebilmek">
+<roles>
+<role descr="sığan şey" f="" n="1" suffix="NOM"/>
+
+<role descr="nereye sığdığı" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir tavla zarı kadar küçücük eve / Bir kadın iki çocuk nasıl sığar?</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Bir tavla zarı kadar küçücük eve</arg>
+<arg f="" n="1" suffix="">Bir kadın iki çocuk</arg>
+<arg f="mnr" n="m" suffix="">nasıl</arg>
+<rel f="">sığar</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

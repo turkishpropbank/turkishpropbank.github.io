@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üstele">
+
+
+<roleset id="üstele.01" name="Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek, tekit etmek">
+<roles>
+<role descr="üsteleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="üstelenen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note>2. rol hep "diye" ile birlikte kullanılıyor</note>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Almazlandım gerçi ama üsteleyip elime para bile sıkıştırdı</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ama</arg>
+<rel f="">üsteleyip</rel>
+<arg f="adv" n="m" suffix="">Almazlandım gerçi</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

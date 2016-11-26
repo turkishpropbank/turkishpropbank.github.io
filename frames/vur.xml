@@ -1,0 +1,50 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="vur">
+
+
+<roleset id="vur.01" name="Elini veya elinde tuttuğu bir şeyi bir yere hızla çarpmak">
+<roles>
+<role descr="vuran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye/kime vurduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+<note/>
+<role descr="vurduğu araç (neyi vurduğu / ne ile vurduğu)" f="" n="1" suffix="">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birinin başına vurdum.</text>
+
+
+
+
+<arg f="" n="1" suffix="">Birinin başına</arg>
+<rel f="">vurdum</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

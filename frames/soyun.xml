@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soyun">
+
+
+<roleset id="soyun.01" name="Üstündeki giysilerin bir bölümünü veya tümünü çıkarmak">
+<roles>
+<role descr="soyunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Soyundu mu karşında?</text>
+
+
+<note/>
+<arg f="loc" n="m" suffix="">karşında</arg>
+<rel f="">Soyundu mu</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="soyun.02" name="Kendini herhangi bir biçimde göstermeye, bir işi, bir mesleği yapmaya girişmek">
+<roles>
+<role descr="soyunan" f="" n="0" suffix="NOM"/>
+
+<role descr="girişilen iş (neye soyunduğu)" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gizli golcülüğe soyundu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Gizli golcülüğe</arg>
+<rel f="">soyundu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

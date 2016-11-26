@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çekiş">
+
+
+<roleset id="çekiş.01" name="kapışmak">
+<roles>
+<role descr="mücadeleci" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kime karşı mücadele ettiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="ne çekiştikleri" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birbirleriyle el-ense çekiştiler.</text>
+
+<note/>
+<arg f="" n="1" suffix="">Birbirleriyle</arg>
+<arg f="" n="2" suffix="">el-ense</arg>
+</example>
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

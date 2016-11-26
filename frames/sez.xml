@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sez">
+
+
+<roleset id="sez.01" name="hissetmek">
+<roles>
+<role descr="hisseden" f="" n="0" suffix="NOM"/>
+
+<role descr="hissedilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bunu kimseye sezdirme.</text>
+<note/>
+<arg f="" n="1" suffix="">Bunu</arg>
+<arg f="" n="0" suffix="">kimseye</arg>
+<rel f="">sezdirme</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

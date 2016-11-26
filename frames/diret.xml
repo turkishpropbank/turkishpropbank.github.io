@@ -1,0 +1,49 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="diret">
+
+
+<roleset id="diret.01" name="İnat etmek">
+<roles>
+<role descr="inat eden kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+<note/>
+<role descr="inat edilen konu" f="" n="1" suffix="LOC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annesi ile ablası adamın kaçırılacak bir kısmet olmadığını öne sürerek evlenmesi için diretiyorlardı.</text>
+
+
+
+
+<arg f="" n="0" suffix="">Annesi ile ablası</arg>
+<arg f="cau" n="m" suffix="">adamın kaçırılacak bir kısmet olmadığını öne sürerek</arg>
+<arg f="gol" n="m" suffix="">evlenmesi için</arg>
+<rel f="">diretiyorlardı</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

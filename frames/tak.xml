@@ -1,0 +1,61 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tak">
+
+
+<roleset id="tak.01" name="Bir şeyi başka bir yere uygun bir biçimde tutturmak,">
+<roles>
+<role descr="takan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="takılan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="takıldığı kişi/yer" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözlüğünü takıp masaya eğildi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Gözlüğünü</arg>
+<rel f="">takıp</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Geline pırlanta yüzük takmışlar.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Geline</arg>
+<arg f="" n="1" suffix="">pırlanta yüzük</arg>
+<rel f="">takmışlar</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona bu adı kim takmıştır, ne zaman takmıştır, bilemiyor.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Ona</arg>
+<arg f="" n="1" suffix="">bu adı</arg>
+<arg f="" n="0" suffix="">kim</arg>
+<rel f="">takmıştır</rel>
+<arg f="tmp" n="m" suffix="">ne zaman</arg>
+<rel f="">takmıştır</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

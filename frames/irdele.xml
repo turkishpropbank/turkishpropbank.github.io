@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="irdele">
+
+
+<roleset id="irdele.01" name="Bütün yönlerini birer birer incelemek, araştırmak">
+<roles>
+<role descr="inceleyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="incelenen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tanpınar sanki gördüğü, irdelediği konuları, sorunları bize bir an önce iletmek istiyor.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Tanpınar</arg>
+<arg f="" n="1" suffix="">konuları</arg>
+<rel f="">irdelediği</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

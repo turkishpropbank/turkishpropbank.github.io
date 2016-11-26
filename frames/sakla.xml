@@ -1,0 +1,154 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sakla">
+
+
+<roleset id="sakla.01" name="Kaybolmaması, görünmemesi için gizli bir yerde tutmak">
+<roles>
+<role descr="saklayıcı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saklanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="nereye/nerede saklandığı" f="" n="3" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Paralarını kasada saklıyor.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Paralarını</arg>
+<arg f="" n="3" suffix="">kasada</arg>
+<rel f="">saklıyor</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sakla.02" name="Gizli tutmak, duyurmamak">
+<roles>
+<role descr="saklayıcı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saklanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="nereden / kimden saklandığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Batı, o büyük kaynaktan sık sık faydalanır ama iktibaslarını titizce saklar.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Batı</arg>
+<arg f="dis" n="m" suffix="">ama</arg>
+<arg f="" n="1" suffix="">iktibaslarını</arg>
+<arg f="mnr" n="m" suffix="">titizce</arg>
+<rel f="">saklar</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="sakla.03" name="Birine vermek için ayırmak">
+<roles>
+<role descr="saklayıcı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="kimin için saklandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annem, ailemize ait nişan yüzüklerini bana saklamış.</text>
+<note/>
+<arg f="" n="0" suffix="">Annem</arg>
+<arg f="" n="1" suffix="">ailemize ait nişan yüzüklerini</arg>
+<arg f="" n="2" suffix="">bana</arg>
+<rel f="">saklamış</rel>
+</example>
+</roleset>
+<roleset id="sakla.04" name="Görünmemesi için gizli bir yere götürmek, koymak">
+<roles>
+<role descr="saklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="götürüldüğü/konulduğu yer" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Köy yolunun kıyısında bir yere sakladı.</text>
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Köy yolunun kıyısında bir yere</arg>
+<rel f="">sakladı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

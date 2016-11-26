@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="soyutla">
+
+
+<roleset id="soyutla.01" name="Bir kimseyi, durumu, düşünce vb.ni içinde bulunduğu toplum, durum veya düşünceden ayrı tutmak">
+<roles>
+<role descr="soyutlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="soyutlanan" f="" n="1" suffix="ACC"/>
+<role descr="nereden/neyden soyutlandığı" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kitap beni gerçek dünyadan soyutladı.</text>
+<note/>
+<arg f="" n="0" suffix="">Kitap</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="" n="2" suffix="">gerçek dünyadan</arg>
+<rel f="">soyutladı</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

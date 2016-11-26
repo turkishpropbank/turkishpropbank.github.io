@@ -1,0 +1,95 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="as">
+
+
+<roleset id="as.01" name="Bir şeyi sarkıtmak" vncls="">
+<roles>	
+    <role descr="asan kişi/şey" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="asılan kişi/şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+    <role descr="nereye asıldığı" f="" n="4" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Lambayı tam pencerenin karşısına astı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Lambayı</arg>
+<arg f="" n="4" suffix="">tam pencerenin karşısına</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<roleset id="as.02" name="İdam etmek">
+<roles>
+<role descr="idam edenler" f="" n="0" suffix="NOM"/>
+
+<role descr="idam edilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bugün Deniz Gezmiş'i astılar.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bugün</arg>
+<arg f="" n="1" suffix="">Deniz Gezmiş'i</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+<predicate lemma="kulak_as">
+
+
+<roleset id="as.03" name="Önem vermek, dinlemek">
+<roles>
+<role descr="dinleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dinlenen" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sen ona kulak asma...</text>
+<note/>
+<arg f="" n="0" suffix="">Sen</arg>
+<arg f="" n="1" suffix="">ona</arg>
+<rel f="">kulak asma</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

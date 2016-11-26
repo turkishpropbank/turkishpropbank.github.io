@@ -1,0 +1,21 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="düzel">
+
+
+<roleset id="düzel.01" name="Eski iyi durumuna dönmek">
+<roles>
+<role descr="düzelen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

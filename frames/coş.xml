@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="coş">
+ 
+
+<roleset id="coş" name="İçten içe kaynamak" vncls="">
+<roles>	
+    <role descr="coşan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>							
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Askerler sevgili efendilerinin yüzünü görür görmez coşuyorlar.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Askerler</arg>
+<arg f="tmp" n="m" suffix="">sevgili efendilerinin yüzünü görür görmez</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

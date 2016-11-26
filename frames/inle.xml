@@ -1,0 +1,64 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="inle">
+
+
+<roleset id="inle.01" name="Acı, üzüntü belirten kesik sesler çıkarmak">
+<roles>
+<role descr="inleyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O, inledikçe benim de yüreğim sızlıyor.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">O</arg>
+<rel f="">inledikçe</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="inle.02" name="Gür, uğultulu, yankılı ses çıkarmak">
+<roles>
+<role descr="inleyen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yer gök inlesin.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Yer gök</arg>
+<rel f="">inlesin</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

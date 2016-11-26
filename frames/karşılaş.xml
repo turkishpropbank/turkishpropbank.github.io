@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="karşılaş">
+
+
+<roleset id="karşılaş.01" name="Karşı karşıya gelmek, rastlaşmak">
+<roles>
+<role descr="karşılaşan" f="" n="0" suffix="NOM"/>
+
+<role descr="karşılaşılan" f="" n="1" suffix="WITH"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Terdit, yazıda beklenmedik bir sonuçla karşılaşmak demektir.</text>
+
+
+
+<note/>
+<arg f="loc" n="m" suffix="">yazıda</arg>
+<arg f="" n="1" suffix="">beklenmedik bir sonuçla</arg>
+<rel f="">karşılaşmak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

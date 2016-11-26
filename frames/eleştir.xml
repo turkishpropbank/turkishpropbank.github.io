@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eleştir">
+
+
+<roleset id="eleştir.01" name="Bir yargıyı inceleyerek doğruluk veya yanlışlığını ortaya çıkarmak">
+<roles>
+<role descr="eleştiren" f="" n="0" suffix="NOM"/>
+
+<role descr="eleştirilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Toplum ve aile içindeki sorunları çözümleyen veya eleştiren oyunlar daha çok çağdaş Fransız tiyatrosunun etkisiyle yazılmıştır.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">oyunlar</arg>
+<arg f="" n="1" suffix="">Toplum ve aile içindeki sorunları</arg>
+<rel f="">eleştiren</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

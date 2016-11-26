@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="belirt">
+<infSuffixes/>
+
+<roleset id="belirt.01" name="Açıklamak">
+<roles>
+<role descr="belirten" f="" n="0" suffix="NOM"/>
+
+<role descr="belirtilen" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

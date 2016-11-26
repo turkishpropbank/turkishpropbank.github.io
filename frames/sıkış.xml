@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıkış">
+
+
+<roleset id="sıkış.01" name="Dar, küçük bir alanda kalmak, sığmak">
+<roles>
+<role descr="sıkışan şey/kişi" f="" n="1" suffix="NOM"/>
+
+<role descr="nereye sıkıştığı" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sıkışmayın oraya gelin burada oturun.</text>
+<note/>
+<arg f="" n="2" suffix="">oraya</arg>
+<rel f="">Sıkışmayın</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

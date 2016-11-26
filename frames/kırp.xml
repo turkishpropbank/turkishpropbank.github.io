@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kırp">
+
+
+<roleset id="kırp.01" name="Parçalara ayırmak, kesmek, kırkmak">
+<roles>
+<role descr="kırpan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kırpılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kağıt parçalarını amaçsızca kırpıyorum.</text>
+<note/>
+<arg f="" n="1" suffix="">Kağıt parçalarını</arg>
+<arg f="mnr" n="m" suffix="">amaçsızca</arg>
+<rel f="">kırpıyorum</rel>
+</example>
+</roleset>
+<roleset id="kırp.02" name="Göz kırpmak">
+<roles>
+<role descr="kırpan" f="" n="0" suffix="NOM"/>
+
+<role descr="göz (genelde)" f="" n="1" suffix="NOM-ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bana baktı ve göz kırptı.</text>
+<note/>
+<arg f="gol" n="m" suffix="">Bana</arg>
+<arg f="dis" n="m" suffix="">ve</arg>
+<rel f="">kırptı</rel>
+<arg f="" n="1" suffix="">göz</arg>
+</example>
+</roleset>
+<roleset id="kırp.03" name="Kesinti yapmak">
+<roles>
+<role descr="kesinti yapan" f="" n="0" suffix="NOM"/>
+
+<role descr="kesinti kaynağı" f="" n="1" suffix="ABL"/>
+<role descr="ne için kesinti yapıldığı" f="" n="2" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Her hafta bu dergileri alabilmek için küçücük gündeliğimden bir parçasını, öğle yemeklerinden kırparak biriktiririm.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Her hafta bu dergileri alabilmek için</arg>
+<arg f="" n="1" suffix="">öğle yemeklerinden</arg>
+<rel f="">kırparak</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

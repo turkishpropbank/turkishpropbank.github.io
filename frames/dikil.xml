@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dikil">
+
+
+<roleset id="dikil.01" name="Ayakta durmak">
+<roles>
+<role descr="ayakta duran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="durulan yer" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bütün o ağrılı, uzun gecelerimde yatak odasının kapısında dikilir, bana bakardı.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bütün o ağrılı, uzun gecelerimde</arg>
+<arg f="" n="2" suffix="">yatak odasının kapısında</arg>
+<rel f="">dikilir</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note>Dikmek fiilinden anlamca farklılaşmış</note>
+</frameset>

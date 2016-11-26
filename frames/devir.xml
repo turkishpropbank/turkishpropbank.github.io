@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="devir">
+
+
+<roleset id="devir.01" name="Düşürmek">
+<roles>
+<role descr="düşüren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="düşürülen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ne ince boyunlu ilaç şişesini ne kırmızı kutuyu devirdiniz.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">ince boyunlu ilaç şişesini</arg>
+<arg f="" n="1" suffix="">kırmızı kutuyu</arg>
+<rel f="">devirdiniz</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

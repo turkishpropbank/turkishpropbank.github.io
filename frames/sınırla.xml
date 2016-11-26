@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sınırla">
+
+
+<roleset id="sınırla.01" name="Sınırını çizmek, sınırını belirtmek veya belirlemek">
+<roles>
+<role descr="sınırlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sınırlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Testi bu konularla sınırladık.</text>
+<note/>
+<arg f="" n="1" suffix="">Testi</arg>
+<arg f="mnr" n="m" suffix="">bu konularla</arg>
+<rel f="">sınırladık</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

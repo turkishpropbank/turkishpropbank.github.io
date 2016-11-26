@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="andır">
+
+
+<roleset id="andır" name="Benzer yanları bulunmak, çağrıştırmak" vncls="">
+<roles>
+  <role descr="andıran kişi/şey" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="andırdığı kişi/şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Şiirde gazete havadisini andıran bir mısra da bulunabilir.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">bir mısra</arg>
+<arg f="" n="1" suffix="">gazete havadisini</arg>
+<rel f="">andıran</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

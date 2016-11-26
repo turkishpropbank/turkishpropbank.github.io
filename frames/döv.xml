@@ -1,0 +1,68 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="döv">
+
+
+<roleset id="döv.01" name="canını acıtmak">
+<roles>
+<role descr="döven kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dövdüğü kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Harp Divanına vermeden önce, şurada kemiklerini kırıncaya kadar bir dövsem!</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Harp Divanına vermeden önce</arg>
+<arg f="loc" n="m" suffix="">şurada</arg>
+<arg f="ext" n="m" suffix="">kemiklerini kırıncaya kadar</arg>
+<rel f="">dövsem</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="döv.02" name="ezmek">
+<roles>
+<role descr="ezen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ezilen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nerede ezildiği" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Döveçte karabiber dövdü.</text>
+
+
+<note/>
+<rel f="">dövdü.</rel>
+<arg f="loc" n="m" suffix="">Döveçte</arg>
+<arg f="" n="1" suffix="">karabiber</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

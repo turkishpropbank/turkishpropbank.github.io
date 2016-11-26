@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="geber">
+
+
+<roleset id="geber.01" name="Sevilmeyen bir kişinin ölmesi">
+<roles>
+<role descr="geberen kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İkisi de geberdi.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">İkisi (de)</arg>
+<rel f="">geberdi</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

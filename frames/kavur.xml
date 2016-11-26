@@ -1,0 +1,83 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kavur">
+
+
+<roleset id="kavur.01" name="kızartarak pişirmek">
+<roles>
+<role descr="kavuran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kavrulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Madenden bir kap içine bunları koyup kavuracağız.</text>
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Madenden bir kap içine bunları koyup</arg>
+<arg f="" n="1" suffix="">bunları</arg>
+<rel f="">kavuracağız</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kavur.02" name="Çok üzmek, yakmak, mahvetmek">
+<roles>
+<role descr="üzüntüye sebep olan şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="neyi/kimi üzdüğü" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Özlem onu kavurdu.</text>
+<note/>
+<arg f="" n="0" suffix="">Özlem</arg>
+<arg f="" n="1" suffix="">onu</arg>
+<rel f="">kavurdu</rel>
+</example>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

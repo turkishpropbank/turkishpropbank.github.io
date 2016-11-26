@@ -1,0 +1,62 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çekil">
+
+
+<roleset id="çekil.01" name="Kendini geriye veya bir yana çekmek">
+<roles>
+<role descr="çekilen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye çekildiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yana çekil bakayım.</text>
+<note/>
+<arg f="" n="1" suffix="">Yana</arg>
+</example>
+</roleset>
+<roleset id="çekil.02" name="Katılmamak, vazgeçmek">
+<roles>
+<role descr="vazgeçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="vazgeçtiği şey" f="" n="1" suffix="ABL"/>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doping testi sonucu yarışmadan çekilmek zorunda kaldı.</text>
+<note/>
+<arg f="cau" n="m" suffix="">Doping testi sonucu</arg>
+<arg f="" n="1" suffix="">yarışmadan</arg>
+<rel f="">çekilmek</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

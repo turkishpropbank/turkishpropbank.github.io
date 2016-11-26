@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="paylaş">
+
+
+<roleset id="paylaş.01" name="Aralarında bölüşmek, pay etmek, üleşmek">
+<roles>
+<role descr="paylaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="paylaşılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kiminle paylaştığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gima Alternatif Kanallar Pazarlama Müdürü Cüneyt Yüzak da CRM ile elde ettikleri başarıları katılımcılarla paylaştı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Gima Alternatif Kanallar Pazarlama Müdürü Cüneyt Yüzak (da)</arg>
+<arg f="" n="1" suffix="">CRM ile elde ettikleri başarıları</arg>
+<arg f="" n="2" suffix="">katılımcılarla</arg>
+<rel f="">paylaştı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

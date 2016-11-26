@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıyasla">
+
+
+<roleset id="kıyasla.01" name="Karşılaştırmak, oranlamak, örneksemek, mukayese etmek">
+<roles>
+<role descr="kıyaslayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyi kıyasladığı" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+<role descr="ne ile kıyasladığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kendini sadece kendinle kıyasla.</text>
+<note/>
+<arg f="" n="1" suffix="">Kendini</arg>
+<arg f="adv" n="m" suffix="">sadece</arg>
+<arg f="" n="2" suffix="">kendinle</arg>
+<rel f="">kıyasla</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

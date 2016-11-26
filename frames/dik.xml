@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dik">
+
+
+<roleset id="dik.01" name="Bir cismi dik olarak durdurmak">
+<roles>
+<role descr="diken kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="dikilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="dikildiği yer" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir yere direk dikildi.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Bir yere</arg>
+<arg f="" n="1" suffix="">direk</arg>
+<rel f="">dikildi</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="dik.02" name="Dikiş dikmek">
+<roles>
+<role descr="diken" f="" n="0" suffix="NOM"/>
+
+<role descr="dikilen şey" f="" n="1" suffix="NOM"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annem bana yine elbise dikiyor.</text>
+
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

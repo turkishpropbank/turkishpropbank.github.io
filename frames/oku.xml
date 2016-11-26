@@ -1,0 +1,142 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="oku">
+
+
+<roleset id="oku.01" name="Yazılmış bir şeyi okumak">
+<roles>
+<role descr="okuyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="okunan şey" f="" n="1" suffix="ACC"/>
+<role descr="kime okunduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuklara kitaptan bir masal okudu.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Çocuklara</arg>
+<arg f="" n="1" suffix="">kitaptan bir masal</arg>
+<rel f="">okudu</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="oku.02" name="Meydan okumak">
+<roles>
+<role descr="kavgaya çağıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kavgaya çağırılan" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Topu yerde bir iki kere sektirdikten sonra, hepimize meydan okudu.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Topu yerde bir iki kere sektirdikten sonra</arg>
+<arg f="" n="1" suffix="">hepimize</arg>
+<arg f="lvb" n="m" suffix="">meydan</arg>
+<rel f="">okudu</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<roleset id="oku.03" name="Okul okumak">
+<roles>
+<role descr="okuyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="okunan" f="" n="1" suffix=""/>
+<role descr="nerede okunduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Üçüncü sınıfta okuyorum.</text>
+<note/>
+<arg f="" n="2" suffix="">Üçüncü sınıfta</arg>
+<rel f="">okuyorum</rel>
+</example>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

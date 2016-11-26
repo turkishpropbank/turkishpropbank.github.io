@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yönel">
+
+
+<roleset id="yönel.01" name="Belli bir yön tutmak, yönlenmek">
+<roles>
+<role descr="yönelen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye yöneldiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aslına yönelerek meseleyi kavramaya çalıştığımızda insan ve teknoloji arasındaki ilişki son çağların bir olayı değildir.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Aslına</arg>
+<rel f="">yönelerek</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şiire veda etti ve sanatın başka bir bölümüne yöneldi, hikâye ve romana.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ve</arg>
+<arg f="" n="1" suffix="">sanatın başka bir bölümüne</arg>
+<rel f="">yöneldi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

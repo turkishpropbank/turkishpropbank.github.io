@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="böbürlen">
+
+
+<roleset id="böbürlen.01" name="Övünerek kabarmak">
+<roles>
+<role descr="övünen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ne ile övündüğü" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

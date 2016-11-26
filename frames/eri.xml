@@ -1,0 +1,70 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eri">
+
+
+<roleset id="eri.01" name="Sıvı durumuna geçmek">
+<roles>
+<role descr="eriyen şey/kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şeker suda erir.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Şeker</arg>
+<arg f="loc" n="m" suffix="">suda</arg>
+<rel f="">erir</rel>
+</example>
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Günden güne eriyen Kerime'yi, o tek kardeşimi kurtarabilirim ümidiyle size koştum.</text>
+
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Günden güne</arg>
+<arg f="" n="1" suffix="">Kerime'yi</arg>
+<rel f="">eriyen</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="eri.02" name="Çok zayıflamak">
+<roles>
+<role descr="zayıflayan kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

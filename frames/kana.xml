@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kana">
+
+
+<roleset id="kana.01" name="Kan akmak">
+<roles>
+<role descr="kanayan yer (vücutta bir yer)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Burnun kanıyor.</text>
+<note/>
+<arg f="" n="1" suffix="">Burnun</arg>
+<rel f="">kanıyor</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

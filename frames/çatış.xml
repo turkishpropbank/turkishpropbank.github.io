@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çatış">
+
+
+<roleset id="çatış.01" name="Birbirine çatmak veya çatılmak">
+<roles>
+<role descr="çatışan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="çatışılan" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ulu denizin üstünü çatışan, şimşeklenen kara bulutlar sardı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">şimşeklenen kara bulutlar</arg>
+<rel f="">çatışan</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

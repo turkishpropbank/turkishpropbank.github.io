@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dizginle">
+
+
+<roleset id="dizginle.01" name="Birinin aşırı davranışlarını önlemek">
+<roles>
+<role descr="dizginleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="dizginlenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

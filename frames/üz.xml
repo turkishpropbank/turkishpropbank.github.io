@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üz">
+
+
+<roleset id="üz.01" name="Üzüntü vermek">
+<roles>
+<role descr="üzüntü veren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="üzülen kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onu biraz üzerim ama zekâsına da bayılırım.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Onu</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">üzerim</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,21 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıl">
+
+
+<roleset id="kıl.01" name="Yardımcı fiil - olmak, yapmak">
+<roles>
+<role descr="yardımcı fiil argümanı" f="lvb" n="m" suffix=""/>
+<role descr="kılınan" f="" n="1" suffix=""/>
+<role descr="kılan" f="" n="0" suffix=""/>
+
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

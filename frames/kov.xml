@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kov">
+
+
+<roleset id="kov.01" name="işten çıkarmak">
+<roles>
+<role descr="kovan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kovulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereden kovulduğu" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note>fire.02</note>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Maalesef bu işimden de kovuldum.</text>
+<note/>
+<arg f="adv" n="m" suffix="">Maalesef</arg>
+<arg f="" n="2" suffix="">bu işimden (de)</arg>
+<rel f="">kovuldum</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

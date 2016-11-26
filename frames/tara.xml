@@ -1,0 +1,143 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tara">
+
+
+<roleset id="tara.01" name="Bir şeyin tellerini birbirinden ayırıp karışıklığını gidermek">
+<roles>
+<role descr="tarayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taranan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Anası sabaha kadar saçlarını tarıyor, düşünüyor, ürküyordu.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Anası</arg>
+<arg f="tmp" n="m" suffix="">sabaha kadar</arg>
+<arg f="" n="1" suffix="">saçlarını</arg>
+<rel f="">tarıyor</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fotoğrafları taradın mı?</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Fotoğrafları</arg>
+<rel f="">taradın mı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="tara.02" name="Kafasından geçirmek">
+<roles>
+<role descr="kafasından geçiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taranan yer" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Belleğimde taradığım yazarların yarısına yakını hastalıklı idiler.</text>
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">Belleğimde</arg>
+<arg f="" n="0" suffix="">yazarların</arg>
+<rel f="">taradığım</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="tara.03" name="Bilgisayar ortamına aktarmak.">
+<roles>
+<role descr="tarayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taranan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Belgeleri taradım.</text>
+<note/>
+<arg f="" n="1" suffix="">Belgeleri</arg>
+<rel f="">taradım</rel>
+</example>
+</roleset>
+
+<roleset id="tara.04" name="Göz gezdirmek">
+<roles>
+<role descr="tarayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="taranan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ajans haberlerini taramak, kitapları taramak</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Ajans haberlerini</arg>
+<rel f="">taramak</rel>
+<arg f="" n="1" suffix="">kitapları</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

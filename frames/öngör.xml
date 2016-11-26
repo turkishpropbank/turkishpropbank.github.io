@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öngör">
+
+
+<roleset id="öngör.01" name="tahmin etmek, kestirmek">
+<roles>
+<role descr="öngören" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="öngörülen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>OECD, Euro Bölgesi'nin de durgunluğa gireceğini öngördü.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">OECD</arg>
+<arg f="" n="1" suffix="">Euro Bölgesi'nin de durgunluğa gireceğini</arg>
+<rel f="">öngördü</rel>
+</example>
+
+<note>predict</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

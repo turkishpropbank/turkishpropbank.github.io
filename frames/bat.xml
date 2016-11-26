@@ -1,0 +1,203 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bat">
+
+
+<roleset id="bat.01" name="Gömülmek, aşağı inmek" vncls="">
+<roles>	
+    <role descr="batan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Sonra hani bir gemimiz batmıştı.</text>
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bir gemimiz</arg>
+<arg f="dis" n="m" suffix="">Sonra hani</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="bat.02" name="Saplanmak" vncls="">
+<roles>	
+    <role descr="batan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="nereye battığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ayağına yolda diken batmıştı.</text>
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Ayağına</arg>
+<arg f="loc" n="m" suffix="">yolda</arg>
+<arg f="" n="1" suffix="">diken</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bat.03" name="Dokunmak, incitmek" vncls="">
+<roles>	
+    <role descr="batan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="stimulus"/>
+</role>
+	<role descr="nereye/kime battığı" f="" n="1" suffix="DAT">
+		<vnrole vncls="" vntheta="experiencer"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk.02" src="" type="">
+<text>Onun her sözü bana batar.</text>
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Onun her sözü</arg>
+<arg f="" n="1" suffix="">bana</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+<roleset id="bat.04" name="Kirlenmek">
+<roles>
+<role descr="kirlenen şey" f="" n="1" suffix="NOM"/>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Battı ortalık .</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">ortalık</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

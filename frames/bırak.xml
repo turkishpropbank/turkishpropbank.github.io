@@ -1,0 +1,419 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bırak">
+
+
+<roleset id="bırak.01" name="Elde bulunan bir şeyi tutmaz olmak, terketmek" vncls="">
+<roles>	
+    <role descr="bırakan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bırakılan şey / kişi" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+
+<role descr="nasıl bırakıldığı (yalnız, tek başına vb...)" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<role descr="nereye bıraktığı" f="" n="3" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kalemi masaya bıraktı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kalemi</arg>
+<arg f="" n="3" suffix="">masaya</arg>
+<rel f="">bıraktı.</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bırak.02" name="Belli bir fiyata vermeyi kabul etmek." vncls="">
+<roles>	
+    <role descr="bırakan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bırakıldığı kişi" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Başkalarına on ikiye veriyoruz ama sana onar kuruştan bırakayım.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">sana</arg>
+<arg f="ext" n="m" suffix="">onar kuruştan</arg>
+<rel f="">bırakayım</rel>
+<arg f="dis" n="m" suffix="">ama</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bırak.03" name="teslim etmek, göndermek" vncls="">
+<roles>	
+    <role descr="bırakan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bırakılan şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+	<role descr="kime/nereye bırakıldığı" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Eşyamı size bırakacağım.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Eşyamı</arg>
+<arg f="" n="4" suffix="">size</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="bırak.04" name="Meydana getirmek." vncls="">
+<roles>	
+	<role descr="bırakan şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bırakılan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bende iz bıraktı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="loc" n="m" suffix="">Bende</arg>
+<arg f="" n="1" suffix="">iz</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+<roleset id="bırak.05" name="Kalmak">
+<roles>
+<role descr="bırakılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nerede bırakıldığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aranmadık yer bırakmadım.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Aranmadık yer</arg>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

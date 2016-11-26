@@ -1,0 +1,74 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="barış">
+
+
+<roleset id="barış.01" name="Uzlaşmak." vncls="">
+<roles>	
+    <role descr="barışan kişiler" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="actor1"/>
+</role>	
+
+
+
+<note/>
+<role descr="kiminle barıştığı" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+</roles>
+<example name="tdk" src="" type="">
+<text>Fakat bir gün barışacaksınız ve onun da kurtulmasına yardım edeceksiniz.</text>
+
+
+
+<arg f="dis" n="m" suffix="">Fakat</arg>
+<arg f="tmp" n="m" suffix="">bir gün</arg>
+<rel f="">barışacaksınız</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="barış.02" name="Sevmek, zevk almak." vncls="">
+<roles>	
+    <role descr="seven kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="sevilen şey" f="" n="1" suffix="WITH">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Hiçbirini sevmedim, yalnız Enderuni Vasıf Divanı ile barışabildim.</text>
+
+
+
+<arg f="" n="1" suffix="">Enderuni Vasıf Divanı ile</arg>
+<arg f="adv" n="m" suffix="">yalnız</arg>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

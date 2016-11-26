@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="görün">
+
+
+<roleset id="görün.01" name="İzlenim uyandırmak, benzemek, gözükmek">
+<roles>
+<role descr="görünen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="nasıl göründüğü" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+<role descr="kime/neye göründüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu, biraz daha inandırıcı görünüyor.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu</arg>
+<arg f="" n="1" suffix="">biraz daha inandırıcı</arg>
+<rel f="">görünüyor</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note>Gör fiilinin pasif çatısından anlamca kaymış bir fiil</note>
+</frameset>

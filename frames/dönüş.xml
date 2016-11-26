@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dönüş">
+
+
+<roleset id="dönüş.01" name="Bir formdan başka bir forma geçmek">
+<roles>
+<role descr="dönüşen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="neye dönüştüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

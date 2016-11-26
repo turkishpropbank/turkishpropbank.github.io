@@ -1,0 +1,78 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="konuş">
+
+
+
+<roleset id="konuş.01" name="Bir konuda karşılıklı söz etmek, sohbet etmek">
+<roles>
+<role descr="konuşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle konuştuğu" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="konuşulan konu" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="konuşulan konu" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+
+
+
+
+<role descr="hangi dilde konuşulduğu" f="" n="3" suffix=""/>
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İşten sonra Nuruosmaniye'deki İkbal kahvesinde arkadaşlarla şiir ve edebiyat konuşuyoruz.</text>
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">İşten sonra</arg>
+<arg f="loc" n="m" suffix="">Nuruosmaniye'deki İkbal kahvesinde</arg>
+<arg f="" n="1" suffix="">arkadaşlarla</arg>
+<arg f="" n="2" suffix="">şiir ve edebiyat</arg>
+<rel f="">konuşuyoruz</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="evlen">
+
+
+<roleset id="evlen.01" name="Erkekle kadın, aile kurmak için yasaya uygun olarak birleşmek, izdivaç etmek">
+<roles>
+<role descr="evlenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="evlenilen" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Öyle olmasa Musa ile evlenmez, talipleri içinde en beğendiği İsa'nın İstanbul'dan dönmesini beklerdi.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Öyle olmasa</arg>
+<arg f="" n="1" suffix="">Musa ile</arg>
+<rel f="">evlenmez</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

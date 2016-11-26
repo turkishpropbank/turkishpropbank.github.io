@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="karşılaştır">
+
+
+<roleset id="karşılaştır.01" name="Karşılaştırma işini yaptırmak">
+<roles>
+<role descr="karşılaştıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyi karşılaştırdığı" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient1"/>
+</role>
+<role descr="ne ile karşılaştırıldığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="patient2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İlk önce ikisinin el yazısını elde edeceğiz, sonra bu mektupla karşılaştıracağız</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">ikisinin el yazısını</arg>
+<arg f="" n="2" suffix="">bu mektupla</arg>
+<arg f="tmp" n="m" suffix="">sonra</arg>
+<rel f="">karşılaştıracağız</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

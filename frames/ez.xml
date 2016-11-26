@@ -1,0 +1,135 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ez">
+
+
+<roleset id="ez.01" name="Yassılaştırmak, biçimini değiştirmek">
+<roles>
+<role descr="ezen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ezilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben aruzu bir bal mumu gibi ezer, oynar, istediğim şekle sokardım.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="1" suffix="">aruzu</arg>
+<arg f="mnr" n="m" suffix="">bir bal mumu gibi</arg>
+<rel f="">ezer</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ez.02" name="Ağır bir şey, başka bir şeyin üzerinden geçmek, çiğnemek">
+<roles>
+<role descr="çiğneyen şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="çiğnenen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Araba çocuğu ezdi.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Araba</arg>
+<arg f="" n="1" suffix="">çocuğu</arg>
+<rel f="">ezdi</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ez.03" name="Sıvı içinde bastırıp karıştırarak eritmek.">
+<roles>
+<role descr="karıştıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="karıştırılan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şerbet için şeker ezdi.</text>
+
+
+
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Şerbet için</arg>
+<arg f="" n="1" suffix="">şeker</arg>
+<rel f="">ezdi</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

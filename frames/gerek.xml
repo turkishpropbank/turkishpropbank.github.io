@@ -1,0 +1,50 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gerek">
+
+
+<roleset id="gerek.01" name="Lazım olmak">
+<roles>
+<role descr="gereken şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<role descr="neye/kime gerektiği" f="" n="0" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dünyaya bakmayı aşıp dünyayı görme noktasına ulaştığımızda neye talip olmamız gerektiğini de anlarız.</text>
+
+
+
+
+
+<note/>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

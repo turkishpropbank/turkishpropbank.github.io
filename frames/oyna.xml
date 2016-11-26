@@ -1,0 +1,109 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="oyna">
+
+
+<roleset id="oyna.01" name="Eğlenme, oyalanma">
+<roles>
+<role descr="oynayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="oynanan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kim ile oynandığı" f="" n="3" suffix="WITH"/>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Benimki senin küçük oğlanla saklambaç oynuyor.</text>
+
+<arg f="" n="0" suffix="">Benimki</arg>
+<arg f="" n="3" suffix="">senin küçük oğlanla</arg>
+<rel f="">oynuyor</rel>
+<arg f="" n="1" suffix="">saklambaç</arg>
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+
+<roleset id="oyna.02" name="Rol yapma">
+<roles>
+<role descr="oynayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kim ile oynadığı" f="" n="1" suffix="WITH"/>
+<role descr="nerede oynadığı (film/tiyatro)" f="" n="2" suffix="LOC"/>
+
+
+
+
+
+
+
+<role descr="hangi rolü oynadığı" f="" n="3" suffix=""/>
+<note/>
+</roles>
+
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Genco Erkal kiminle oynuyor bu sahnede ?</text>
+
+<arg f="" n="0" suffix="">Genco Erkal</arg>
+<arg f="" n="1" suffix="">kiminle</arg>
+<rel f="">oynuyor</rel>
+<arg f="" n="2" suffix="">bu sahnede</arg>
+
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

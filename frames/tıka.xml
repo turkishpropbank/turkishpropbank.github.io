@@ -1,0 +1,29 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tıka">
+
+
+<roleset id="tıka.01" name="Birşeyi itmek, tıkmak, kapamak">
+<roles>
+<role descr="tıkan kişi / şey" f="" n="0" suffix="NOM"/>
+
+<role descr="tıkılan kişi/şey" f="" n="1" suffix="NOM-ACC"/>
+<role descr="nereye tıkıldığı" f="" n="2" suffix="DAT"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Lafları ağzına tıkadık.</text>
+<note/>
+<arg f="" n="1" suffix="">Lafları</arg>
+<arg f="" n="2" suffix="">ağzına</arg>
+<rel f="">tıkadık</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

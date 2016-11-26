@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yalvar">
+
+
+<roleset id="yalvar.01" name="Birinden ısrarlı bir biçimde bir şey istemek">
+<roles>
+<role descr="yalvaran" f="" n="0" suffix="NOM"/>
+
+<role descr="yalvarış (genelde diye ile)" f="" n="1" suffix=""/>
+<role descr="kime/neye yalvarıldığı" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Mehmet Ali, Güngör'ün sekreterine adeta yalvardı: "Durum çok acil, eğer geç kalırsak olayı kaçıracağız, lütfen hemen bağlar mısınız?"</text>
+
+
+<note/>
+<rel f="">yalvardı</rel>
+<arg f="" n="0" suffix="">Mehmet Ali</arg>
+<arg f="" n="2" suffix="">Güngör'ün sekreterine</arg>
+<arg f="adv" n="m" suffix="">adeta</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

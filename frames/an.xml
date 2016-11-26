@@ -1,0 +1,67 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="an">
+
+
+<roleset id="an.01" name="Düşünmek,  hatırlamak" vncls="">
+<roles>
+  <role descr="anan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="andığı kişi/şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+   
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Onun bu fedakârlığını her yerde, her zaman minnetle anacağım.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Onun bu fedakârlığını</arg>
+<arg f="mnr" n="m" suffix="">minnetle</arg>
+<arg f="loc" n="m" suffix="">her yerde</arg>
+<arg f="tmp" n="m" suffix="">her zaman</arg>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

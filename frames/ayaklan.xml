@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ayaklan">
+
+
+<roleset id="ayaklan.01" name="Başkaldırmak">
+<roles>
+<role descr="ayaklananlar (çoğul ya da topluluk)" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

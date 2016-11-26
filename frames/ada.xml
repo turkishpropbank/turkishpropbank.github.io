@@ -1,0 +1,52 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ada">
+
+
+<roleset id="ada.01" name="Ayırmak, tahsis etmek" vncls="">
+<roles>
+  <role descr="adayan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="adanılan şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>	
+   <role descr="kime/neye adadığı" f="" n="2" suffix="DAT">
+	<vnrole vncls="" vntheta="recipient"/>
+</role>	
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Nasılsa altındaki arabayı edinmişti, bütün sevme gücünü de bu arabaya adamıştı.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bütün sevme gücünü</arg>
+<arg f="" n="2" suffix="">bu arabaya</arg>
+<rel f="">adamıştı</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

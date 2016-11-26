@@ -1,0 +1,67 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="art">
+
+
+<roleset id="art.01" name="Çoğalmak">
+<roles>
+<role descr="artan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O zaman bedava binme olasılığı artardı.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bedava binme olasılığı</arg>
+<arg f="dis" n="m" suffix="">O zaman</arg>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="art.02" name="Bir miktar geri kalmak">
+<roles>
+<role descr="arta kalan şey" f="" n="1" suffix="ABL"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dolmalardan arttı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Dolmalardan</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

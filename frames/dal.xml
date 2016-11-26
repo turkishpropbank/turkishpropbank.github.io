@@ -1,0 +1,87 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dal">
+
+
+<roleset id="dal.01" name="Suyun içine girmek">
+<roles>
+<role descr="dalan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye daldığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Serin denize dalmışım gibi rahatladım.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Serin denize</arg>
+<rel f="">dalmışım</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dal.02" name="Kendinden geçmek">
+<roles>
+<role descr="dalan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+
+<role descr="neye daldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk ateşi çıkınca daldı.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Çocuk</arg>
+<arg f="tmp" n="m" suffix="">ateşi çıkınca</arg>
+<rel f="">daldı</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

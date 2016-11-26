@@ -1,0 +1,51 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıskan">
+
+
+<roleset id="kıskan.01" name="bir başkasının ortaklığına, üstün durumda görünmesine dayanamamak">
+<roles>
+<role descr="kıskanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="kıskanılan kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<role descr="neyden/kimden kıskandığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Mühür gözlüm seni elden / Sakınırım, kıskanırım.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">seni</arg>
+<arg f="" n="2" suffix="">elden</arg>
+<rel f="">kıskanırım</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

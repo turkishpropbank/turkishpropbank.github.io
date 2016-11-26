@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gocun">
+
+
+<roleset id="gocun.01" name="Bir şeyden alınmak">
+<roles>
+<role descr="alınan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="alınma sebebi" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kendiliğinden oluşuveren rol dağılımı çiğnenmediği müddetçe kimse kimseye gocunmuyordu.</text>
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Kendiliğinden oluşuveren rol dağılımı çiğnenmediği müddetçe</arg>
+<arg f="" n="4" suffix="">kimse kimseye</arg>
+<rel f="">gocunmuyordu</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="gocun.02" name="Çekinmek, kaçınmak">
+<roles>
+<role descr="çekinen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyden çekindiği" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-KE39C2A-2613" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İşkence yapıldığını söylemekten neden gocunuyor?</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">İşkence yapıldığını söylemekten</arg>
+<arg f="cau" n="m" suffix="">neden</arg>
+<rel f="">gocunuyor</rel>
+</example>
+
+
+
+<note>mecazi mi acaba?</note>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

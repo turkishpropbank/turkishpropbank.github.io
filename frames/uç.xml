@@ -1,0 +1,92 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uç">
+
+
+<roleset id="uç.01" name="Havada yol almak">
+<roles>
+<role descr="uçan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden uçtuğu" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<role descr="nereye uçtuğu" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Paul Fort'un dizeleriyle avundu, Moskova'dan Paris'e uçtu...</text>
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">Moskova'dan</arg>
+<arg f="" n="4" suffix="">Paris'e</arg>
+<rel f="">uçtu</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="uç.02" name="yok olmak">
+<roles>
+<role descr="yok olan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Rengi birdenbire uçtu.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Rengi</arg>
+<arg f="mnr" n="m" suffix="">birdenbire</arg>
+<rel f="">uçtu</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

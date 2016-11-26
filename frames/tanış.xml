@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tanış">
+
+
+<roleset id="tanış.01" name="Daha önce birbirini tanımayan kimseler birbirini tanır duruma gelmek">
+<roles>
+<role descr="tanışan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle/ne ile tanışıldığı" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çağır hele arkadaşını, onunla da tanışalım, dedi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">onunla (da)</arg>
+<rel f="">tanışalım</rel>
+</example>
+
+<note>İŞTEŞ</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

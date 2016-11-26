@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çiğne">
+
+
+<roleset id="çiğne.01" name="Ezmek" vncls="">
+<roles>	
+    <role descr="çiğneyen kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+    <role descr="çiğnenen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tnc.RA16B1A-1213" src="" type="">
+<text>On iki milyonluk bir milleti çiğnemek sevdasına kapıldı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">On iki milyonluk bir milleti</arg>
+<rel f="">çiğnemek</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,21 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bula">
+
+
+<roleset id="bula.01" name="Kaplamak">
+<roles>
+<role descr="bulayan" f="" n="0" suffix="NOM"/>
+
+<role descr="bulanan" f="" n="1" suffix="ACC"/>
+<role descr="neye buladığı" f="" n="2" suffix="DAT"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

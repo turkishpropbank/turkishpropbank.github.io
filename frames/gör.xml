@@ -1,0 +1,744 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gör">
+
+
+<roleset id="gör.01" name="Bir şeyin varlığını algılamak">
+<roles>
+<role descr="gören kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gördüğü şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Merdivenin başındaki paravanın arkasında garip bir sahne gördüm.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="loc" n="m" suffix="">Merdivenin başındaki paravanın arkasında</arg>
+<arg f="" n="1" suffix="">garip bir sahne</arg>
+<rel f="">gördüm</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gör.02" name="Yapmak, etmek">
+<roles>
+<role descr="yapan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yaptığı iş" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu makina artık iş görmez.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Bu makina</arg>
+<arg f="adv" n="m" suffix="">artık</arg>
+<arg f="" n="1" suffix="">iş</arg>
+<rel f="">görmez</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gör.03" name="Birşeye erişmek">
+<roles>
+<role descr="erişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="eriştiği şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sonunda cebi para görmüştü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="dis" n="m" suffix="">Sonunda</arg>
+<arg f="" n="0" suffix="">cebi</arg>
+<rel f=""/>
+<arg f="" n="1" suffix="">para</arg>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gör.04" name="Çok değer vermek">
+<roles>
+<role descr="değer verilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<role descr="değer veren kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözü yalnız parayı görüyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Gözü</arg>
+<arg f="adv" n="m" suffix="">yalnız</arg>
+<arg f="" n="1" suffix="">parayı</arg>
+<rel f="">görüyor</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gör.05" name="Yüzü bir yöne doğru olmak">
+<roles>
+<role descr="gören" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="görülen" f="" n="4" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ev güneş görüyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Ev</arg>
+<arg f="" n="4" suffix="">güneş</arg>
+<rel f="">görüyor</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<roleset id="gör.06" name="Bir şey hakkında bir yargıya varmak">
+<roles>
+<role descr="yargıya varan (gören)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yargıya varılan (neyi gördüğü)" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="varılan yargı (nasıl gördüğü)" f="" n="2" suffix="NOM"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu işin sonunu iyi görmüyorum.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu işin sonunu</arg>
+<arg f="" n="2" suffix="">iyi</arg>
+<rel f="">görmüyorum</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="gör.07" name="Kendisine yapılmak, bir davranışla karşılaşmak">
+<roles>
+<role descr="davranılan kişi (gören)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="davranış (ne gördüğü)" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<role descr="davranan kişi (kimden/nereden gördüğü)" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yarar görmek, kötülük görmek</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Yarar</arg>
+<arg f="" n="2" suffix="">kötülük</arg>
+<rel f="">görmek</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="gör.08" name="Bir işleme uğramak">
+<roles>
+<role descr="gören" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="ne gördüğü" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Teftiş görmek, tedavi görmek</text>
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Teftiş</arg>
+<arg f="" n="2" suffix="">tedavi</arg>
+<rel f="">görmek</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<predicate lemma="kabul_gör">
+
+
+<roleset id="gör.09" name="Kabul edilmek, Onaylanmak">
+<roles>
+<role descr="onaylanan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nerede kabul gördüğü" f="" n="2" suffix="LOC"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Terzaghi'nin bu izahı geniş kabul gördü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Terzaghi'nin bu izahı</arg>
+<arg f="ext" n="m" suffix="">geniş</arg>
+<rel f="">kabul gördü</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

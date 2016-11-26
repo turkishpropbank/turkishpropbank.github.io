@@ -1,0 +1,63 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="aydınlat">
+
+
+<roleset id="aydınlat.01" name="Görünür duruma getirmek">
+<roles>
+<role descr="aydınlatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="aydınlatılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Işık yüzüne tam tepeden düşüyor ve onu iyice aydınlatıyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">onu</arg>
+<arg f="" n="0" suffix="">Işık</arg>
+<arg f="ext" n="m" suffix="">iyice</arg>
+</example>
+
+<note/>
+</roleset>
+
+<roleset id="aydınlat.02" name="Bilgi vermek">
+<roles>
+<role descr="aydınlatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="aydınlatılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="bilgi verilen konu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Okuduğum son kitap beni annelik konusunda aydınlattı.</text>
+<note/>
+<arg f="" n="0" suffix="">Okuduğum son kitap</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="" n="2" suffix="">annelik konusunda</arg>
+</example>
+</roleset>
+<note/>
+</predicate>
+
+<note/>
+</frameset>

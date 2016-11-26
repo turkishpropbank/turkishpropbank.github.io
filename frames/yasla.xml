@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yasla">
+
+
+<roleset id="yasla.01" name="Dayamak">
+<roles>
+<role descr="yaslayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyi/kimi yasladığı" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye yasladığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Başını omzuma yasla.</text>
+<note/>
+<arg f="" n="1" suffix="">Başını</arg>
+<arg f="" n="2" suffix="">omzuma</arg>
+<rel f="">yasla</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

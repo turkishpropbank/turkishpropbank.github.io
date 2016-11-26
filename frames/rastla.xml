@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="rastla">
+
+
+
+<roleset id="rastla.01" name="Herhangi bir şeyle karşı karşıya gelmek, tesadüf etmek">
+<roles>
+<role descr="rastlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="rastlanan" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nerede rastlandığı" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Amcama yolda rastladım.</text>
+<note/>
+<arg f="" n="1" suffix="">Amcama</arg>
+<arg f="" n="2" suffix="">yolda</arg>
+<rel f="">rastladım</rel>
+</example>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

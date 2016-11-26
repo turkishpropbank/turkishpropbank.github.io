@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yum">
+
+
+<roleset id="yum.01" name="Kısarak kapamak, sıkarak kapalı duruma getirmek">
+<roles>
+<role descr="yuman" f="" n="0" suffix="NOM"/>
+
+<role descr="yumulan (genelde el ya da göz)" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Otomobile bindiğimiz zaman başını arkaya yaslamış, gözlerini yummuştu.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Otomobile bindiğimiz zaman</arg>
+<arg f="" n="1" suffix="">gözlerini</arg>
+<rel f="">yummuştu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

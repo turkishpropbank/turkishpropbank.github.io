@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bildir">
+
+
+<roleset id="bildir.01" name="Herhangi bir şeyi haber vermek">
+<roles>
+<role descr="bildiren" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi bildirdiği" f="" n="1" suffix="ACC"/>
+<role descr="kime/nereye bildirdiği" f="" n="2" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Babası ile arasındaki bütün mektuplaşmaları bana da bildiriyor.</text>
+
+
+
+<arg f="" n="1" suffix="">Babası ile arasındaki bütün mektuplaşmaları</arg>
+<arg f="" n="2" suffix="">bana (da)</arg>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

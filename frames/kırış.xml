@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kırış">
+
+
+<roleset id="kırış.01" name="Kırışık oluşmak">
+<roles>
+<role descr="kırışan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Boynu uzamış, kararmış, yaşlı adamların boynu gibi kırışmıştı.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Boynu</arg>
+<arg f="mnr" n="m" suffix="">yaşlı adamların boynu gibi</arg>
+<rel f="">kırışmıştı</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kırış.02" name="Bir şeyi eşit olarak paylaşmak">
+<roles>
+<role descr="paylaşanlar" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="paylaşılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Parayı babasıyla kırıştılar.</text>
+<note/>
+<arg f="" n="1" suffix="">Parayı</arg>
+<arg f="com" n="m" suffix="">babasıyla</arg>
+<rel f="">kırıştılar</rel>
+</example>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

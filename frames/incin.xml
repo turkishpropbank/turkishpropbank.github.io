@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="incin">
+
+
+<roleset id="incin.01" name="Çarpma, sıkışma, burkulma">
+<roles>
+<role descr="incinen kişi/şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İncinir düz caddede dağda gezen ayaklar.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">düz caddede dağda gezen ayaklar</arg>
+<rel f="">İncinir</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

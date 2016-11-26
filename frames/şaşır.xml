@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="şaşır">
+
+
+<roleset id="şaşır.01" name="Herhangi bir durum karşısında şaşkınlık duymak, hayret etmek">
+<roles>
+<role descr="şaşıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye şaşırdığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aldığı kilolara şaştım kaldım.</text>
+<note/>
+<arg f="" n="1" suffix="">Aldığı kilolara</arg>
+<rel f="">şaştım</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

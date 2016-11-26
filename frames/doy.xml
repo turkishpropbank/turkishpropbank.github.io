@@ -1,0 +1,76 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="doy">
+
+
+<roleset id="doy.01" name="Açlığı kalmamak">
+<roles>
+<role descr="doyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben biraz zeytin, biraz patates, biraz da yemişle doyarım.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="inst" n="m" suffix="">biraz zeytin, biraz patates, biraz da yemişle</arg>
+<rel f="">doyarım</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="doy.02" name="Bir gereksinimini yeteri kadar karşılamak (mecazi anlam)">
+<roles>
+<role descr="doyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye doyduğu" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Paraya doydum.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Paraya</arg>
+<rel f="">doydum</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

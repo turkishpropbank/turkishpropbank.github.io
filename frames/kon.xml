@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kon">
+
+
+<roleset id="kon.01" name="Kuş, kelebek, uçak, toz vb. bir yere inmek">
+<roles>
+<role descr="konan" f="" n="0" suffix="NOM"/>
+
+<role descr="nereye konduğu" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir bülbül gelip konmuştu havuzun kıyısına</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bir bülbül</arg>
+<arg f="mnr" n="m" suffix="">gelip</arg>
+<rel f="">konmuştu</rel>
+<arg f="" n="2" suffix="">havuzun kıyısına</arg>
+</example>
+
+<note>perch</note>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

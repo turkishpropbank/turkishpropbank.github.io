@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gammazla">
+
+
+<roleset id="gammazla.01" name="İspiyonlamak">
+<roles>
+<role descr="gammazlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="gammazlanan" f="" n="1" suffix="ACC"/>
+<role descr="kime ispiyonlandığı" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona, Celâl seni müdüre gammazlıyor, haberin olsun, dedi.</text>
+
+
+<note/>
+<rel f="">gammazlıyor</rel>
+<arg f="" n="0" suffix="">Celâl</arg>
+<arg f="" n="1" suffix="">seni</arg>
+<arg f="" n="2" suffix="">müdüre</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,86 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kirala">
+
+
+<roleset id="kirala.01" name="Kiraya vermek">
+<roles>
+<role descr="kiraya veren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kiraya verilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kime kiralandığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O evi dul bir kadına kiraladılar.</text>
+<note/>
+<arg f="" n="1" suffix="">O evi</arg>
+<arg f="" n="2" suffix="">dul bir kadına</arg>
+<rel f="">kiraladılar</rel>
+</example>
+</roleset>
+<roleset id="kirala.02" name="Kira ile tutmak">
+<roles>
+<role descr="tutan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="tutulan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kimin için/kime kiraladığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+<role descr="ne kadara kiraladığı" f="" n="3" suffix="DAT">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+<role descr="ne kadar süreliğine kiraladığı" f="" n="4" suffix="">
+<vnrole vncls="" vntheta="time"/>
+</role>
+<role descr="nerede kiralandığı" f="" n="5" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tuttu, sevgili eşi ve iki yavrusu için lüks iki daire kiraladı Sinan Apartmanı'nda.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Tuttu</arg>
+<arg f="" n="2" suffix="">sevgili eşi ve iki yavrusu için</arg>
+<arg f="" n="1" suffix="">lüks iki daire</arg>
+<arg f="loc" n="m" suffix="">Sinan Apartmanı'nda</arg>
+<rel f="">kiraladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

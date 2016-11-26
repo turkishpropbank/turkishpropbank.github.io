@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="büyü">
+ 
+
+<roleset id="büyü.01" name="İrileşmek" vncls="">
+<roles>	
+    <role descr="büyüyen şey/kimse" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>				
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>İkinci de okuduktan sonra kavga büyüdü.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">İkinci de okuduktan sonra</arg>
+<arg f="" n="1" suffix="">kavga</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

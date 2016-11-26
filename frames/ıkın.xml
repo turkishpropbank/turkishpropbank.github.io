@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ıkın">
+
+
+<roleset id="ıkın.01" name="Soluğunu içinde tutarak kendini zorlamak">
+<roles>
+<role descr="zorlanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-OA16B2A-0095" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sedef doğurmak için ıkınıyordu.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Sedef</arg>
+<arg f="gol" n="m" suffix="">doğurmak için</arg>
+<rel f="">ıkınıyordu</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

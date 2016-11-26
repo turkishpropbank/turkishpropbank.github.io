@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="boğ">
+
+
+<roleset id="boğ.01" name="Soluk almasını engellemek" vncls="">
+<roles>	
+    <role descr="boğan kimse/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="boğulan kimse/şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Zavallıyı az kalsın gırtlağından yakalayıp boğacaktı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Zavallıyı</arg>
+<arg f="tmp" n="m" suffix="">az kalsın</arg>
+<arg f="mnr" n="m" suffix="">gırtlağından yakalayıp</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıvazla">
+
+
+<roleset id="sıvazla.01" name="Bir şeyin üstünde yavaş yavaş, hafifçe el gezdirmek">
+<roles>
+<role descr="sıvazlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sıvazlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kaşlarından süzülen yağmur damlalarını eliyle sıvazlayarak onlara baktı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Kaşlarından süzülen yağmur damlalarını</arg>
+<arg f="inst" n="m" suffix="">eliyle</arg>
+<rel f="">sıvazlayarak</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,129 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kazan">
+
+
+<roleset id="kazan.01" name="Kazanç sağlamak">
+<roles>
+<role descr="kazanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kazanılan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu beş lirayı bitirmeden ben para kazanmalıyım.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Bu beş lirayı bitirmeden</arg>
+<arg f="" n="0" suffix="">ben</arg>
+<rel f="">kazanmalıyım</rel>
+<arg f="" n="1" suffix="">para</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kazan.02" name="Olumlu, iyi bir sonuç elde etmek">
+<roles>
+<role descr="kazanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+<role descr="kazanılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Böyle yazılara hiç cevap vermeyiz ve yazı çok ağırsa dava açarak çok defa kazanırız.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="mnr" n="m" suffix="">dava açarak</arg>
+<arg f="ext" n="m" suffix="">çok defa</arg>
+<rel f="">kazanırız</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

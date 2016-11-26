@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="koy">
+
+
+<roleset id="koy.01" name="Bir şeyi bir yere bırakmak, belli bir yere yerleştirmek">
+<roles>
+<role descr="bırakan yerleştiren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="bırakılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye bırakıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bardağı masanın üstüne koydu.</text>
+
+
+
+
+<arg f="" n="1" suffix="">Bardağı</arg>
+<arg f="" n="2" suffix="">masanın üstüne</arg>
+<rel f="">koydu</rel>
+
+<note/>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

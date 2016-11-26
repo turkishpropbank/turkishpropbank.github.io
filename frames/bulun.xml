@@ -1,0 +1,57 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bulun">
+
+
+<roleset id="bulun.01" name="Herhangi bir durumda/yerde olmak">
+<roles>
+<role descr="bulunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nerede/hangi durumda bulunduğu" f="" n="1" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

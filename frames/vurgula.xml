@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="vurgula">
+
+
+<roleset id="vurgula.01" name="Vurgu ile söylemek">
+<roles>
+<role descr="vurgulayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="vurgulanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

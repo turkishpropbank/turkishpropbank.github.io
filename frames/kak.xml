@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kak">
+
+
+<roleset id="kak.01" name="İtmek, vurmak">
+<roles>
+<role descr="kakan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kakılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Etiler'in renkli gece hayatında, onlarca kamera önünde sevgilisini dövdü, itip kaktı</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Etiler'in renkli gece hayatında</arg>
+<arg f="loc" n="m" suffix="">onlarca kamera önünde</arg>
+<arg f="" n="1" suffix="">sevgilisini</arg>
+<arg f="mnr" n="m" suffix="">itip</arg>
+<rel f="">kaktı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

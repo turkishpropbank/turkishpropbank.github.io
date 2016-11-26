@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="değin">
+
+
+<roleset id="değin.01" name="Kısaca söz etmek">
+<roles>
+<role descr="değinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye değinildiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gündüz yüzme havuzunda açmadığı bir konuya değinmek gereksinmesi duyuyordu</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Gündüz</arg>
+<arg f="" n="1" suffix="">yüzme havuzunda açmadığı bir konuya</arg>
+<rel f="">değinmek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

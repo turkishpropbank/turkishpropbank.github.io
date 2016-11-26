@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ağrı">
+
+
+<roleset id="ağrı" name="Vücudun bir yeri ağrılı durumda olmak" vncls="">
+<roles>
+  <role descr="ağrıyan yer" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Başım ağrıyor.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Başım</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="başvur">
+
+
+<roleset id="başvur.01" name="Bir işin yapılması için bir kimsenin aracılığını istemek">
+<roles>
+<role descr="başvuran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="başvurulan şey/yer" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Fakat ben ona başvurmadan belki Hatice bana müracaat eder.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">ben</arg>
+<arg f="" n="1" suffix="">ona</arg>
+<rel f="">başvurmadan</rel>
+<arg f="dis" n="m" suffix="">Fakat</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dene">
+
+
+<roleset id="dene.01" name="Sınamak">
+<roles>
+<role descr="deneyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="denenen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gelecek ise daha denemediğimiz zaman kesitidir.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Gelecek</arg>
+<arg f="adv" n="m" suffix="">ise</arg>
+<arg f="tmp" n="m" suffix="">daha</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

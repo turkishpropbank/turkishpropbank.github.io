@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sürt">
+
+
+<roleset id="sürt.01" name="Bir şeyi bastırarak diğer bir şeyin üzerinden geçirmek">
+<roles>
+<role descr="sürten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sürtülen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye sürtüldüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Cemal ellerini hızlı hızlı birbirine sürttü.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Cemal</arg>
+<arg f="" n="1" suffix="">ellerini</arg>
+<arg f="mnr" n="m" suffix="">hızlı hızlı</arg>
+<arg f="" n="2" suffix="">birbirine</arg>
+<rel f="">sürttü</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

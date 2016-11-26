@@ -1,0 +1,16 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="önemse">
+<infSuffixes/>
+<note/>
+<roleset id="önemse.01" name="Önem vermek">
+<roles>
+<role descr="önemseyen" f="" n="0" suffix="NOM"/>
+<note/>
+<role descr="önemsenen" f="" n="1" suffix="ACC"/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

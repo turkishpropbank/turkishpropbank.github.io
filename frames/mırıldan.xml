@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="mırıldan">
+
+
+<roleset id="mırıldan.01" name="Alçak sesle şarkı söylemek">
+<roles>
+<role descr="mırıldanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="mırıldanılan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Eve dönünce yatakta uyuyuncaya kadar hep o şarkıları mırıldanıyordu</text>
+
+
+
+<arg f="tmp" n="m" suffix="">Eve dönünce</arg>
+<arg f="adv" n="m" suffix="">yatakta uyuyuncaya kadar</arg>
+<arg f="adv" n="m" suffix="">hep</arg>
+<rel f="">mırıldanıyordu</rel>
+<arg f="" n="1" suffix="">o şarkıları</arg>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

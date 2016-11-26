@@ -1,0 +1,118 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="es">
+
+
+<roleset id="es.01" name="rüzgar olması">
+<roles>
+<role descr="esen şey (genelde rüzgar)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki üç günden beri sert bir kış rüzgârı esiyor.</text>
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">İki üç günden beri</arg>
+<arg f="" n="1" suffix="">sert bir kış rüzgârı</arg>
+<rel f="">esiyor</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="es.02" name="Birdenbire karar vermek">
+<roles>
+<role descr="karar verilen şey (esen)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="karar veren kişi (kime estiği)" f="" n="0" suffix="DAT">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu yolculuk size nereden esti?</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu yolculuk</arg>
+<arg f="" n="0" suffix="">size</arg>
+<arg f="mnr" n="m" suffix="">nereden</arg>
+<rel f="">esti</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

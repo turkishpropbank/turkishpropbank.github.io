@@ -1,0 +1,131 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gez">
+
+
+<roleset id="gez.01" name="Dolaşmak, yürümek">
+<roles>
+<role descr="dolaşan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kunduralarını çıkarır, satar, yalın ayak gezerdi.</text>
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">yalın ayak</arg>
+<rel f="">gezerdi</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gez.02" name="Bulunmak">
+<roles>
+<role descr="bulunan kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nerede bulunduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şapkam burada ne geziyor?</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Şapkam</arg>
+<arg f="" n="2" suffix="">burada</arg>
+<arg f="cau" n="m" suffix="">ne</arg>
+<rel f="">geziyor</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="gez.03" name="Bir yerde gezi yapmak">
+<roles>
+<role descr="gezen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gezilen yer" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Geçen yaz Batı Anadolu'yu gezdik.</text>
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Geçen yaz</arg>
+<arg f="" n="1" suffix="">Batı Anadolu'yu</arg>
+<rel f="">gezdik</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ata">
+
+
+<roleset id="ata.01" name="Birini bir göreve getirmek" vncls="">
+<roles>	
+    <role descr="atayan kişi/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="atanan kişi/şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="atandığı yer/görev" f="" n="4" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Abdullah Gül üç üniversiteye rektör atadı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Abdullah Gül</arg>
+<arg f="" n="1" suffix="">rektör</arg>
+<arg f="" n="4" suffix="">üç üniversiteye</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

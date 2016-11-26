@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="anlat">
+
+
+<roleset id="anlat.01" name="Söylemek, bir konu hakkında konuşmak">
+<roles>
+<role descr="konuşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="konuşulan konu" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kiminle konuşulduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Son beraber olduğum adamı anlatmış mıydım sana ?</text>
+
+<arg f="" n="1" suffix="">Son beraber olduğum adamı</arg>
+<arg f="" n="2" suffix="">sana</arg>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

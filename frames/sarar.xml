@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sarar">
+
+
+<roleset id="sarar.01" name="Sarı olmak">
+<roles>
+<role descr="sararan" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sigaradan sararmış dişleriyle dolgun dudaklarını kemiriyor.</text>
+
+
+
+<note/>
+<arg f="cau" n="m" suffix="">Sigaradan</arg>
+<arg f="" n="1" suffix="">dişleriyle</arg>
+<rel f="">sararmış</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

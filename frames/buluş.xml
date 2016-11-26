@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="buluş">
+
+
+<roleset id="buluş.01" name="Bir araya gelmek">
+<roles>
+<role descr="buluşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle buluşulduğu" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="nerede buluşulduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ertesi gün yine pastacıda buluştular.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Ertesi gün</arg>
+<arg f="tmp" n="m" suffix="">yine</arg>
+<arg f="" n="2" suffix="">pastacıda</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

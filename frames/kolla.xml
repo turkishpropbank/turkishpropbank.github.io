@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kolla">
+
+
+<roleset id="kolla.01" name="Olmasını, ortaya çıkmasını beklemek, gözetmek">
+<roles>
+<role descr="kollayan" f="" n="0" suffix="NOM"/>
+
+
+<role descr="kollanan şey" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ona yardım etmek için fırsat kolluyordu.</text>
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Ona yardım etmek için</arg>
+<arg f="" n="1" suffix="">fırsat</arg>
+<rel f="">kolluyordu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<roleset id="kolla.02" name="Korumak, gözetmek">
+<roles>
+<role descr="kollayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kollanan" f="" n="1" suffix="ACC"/>
+<role descr="neyden kollandığı" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Seni gözümden bile korur, kollarım.</text>
+<note/>
+<arg f="" n="1" suffix="">Seni</arg>
+<arg f="" n="2" suffix="">gözümden (bile)</arg>
+<rel f="">kollarım</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

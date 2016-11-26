@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hapşır">
+
+
+<roleset id="hapşır.01" name="Aksırmak">
+<roles>
+<role descr="aksıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aksi gibi benim hiç durmadan esneyeceğim geliyor, hapşırmak istiyordum.</text>
+
+
+
+<note/>
+<rel f="">hapşırmak</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

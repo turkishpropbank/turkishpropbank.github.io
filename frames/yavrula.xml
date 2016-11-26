@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yavrula">
+
+
+<roleset id="yavrula.01" name="doğurmak">
+<roles>
+<role descr="yavrulayan" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

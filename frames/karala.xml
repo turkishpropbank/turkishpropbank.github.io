@@ -1,0 +1,56 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="karala">
+
+
+<roleset id="karala.01" name="Boya veya kalemle birtakım şekiller çizmek">
+<roles>
+<role descr="karalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="karalanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Deftere birşeyler karalamıştım.</text>
+<note/>
+<arg f="gol" n="m" suffix="">Deftere</arg>
+<arg f="" n="1" suffix="">birşeyler</arg>
+<rel f="">karalamıştım</rel>
+</example>
+</roleset>
+<roleset id="karala.02" name="Leke sürmek, kötülük yüklemek, iftira etmek">
+<roles>
+<role descr="karalayan" f="" n="0" suffix="NOM"/>
+
+<role descr="karalanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İftiralarla ismimi karalamaya hakkınız yok.</text>
+<note/>
+<arg f="mnr" n="m" suffix="">İftiralarla</arg>
+<arg f="" n="1" suffix="">ismimi</arg>
+<rel f="">karalamaya</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

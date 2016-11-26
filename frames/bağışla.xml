@@ -1,0 +1,70 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bağışla">
+
+
+<roleset id="bağışla.01" name="Hoşgörmek, affetmek">
+<roles>
+<role descr="bağışlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="bağışlanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="ne için bağışladığı / suç" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk elindeki çiçek demetini kumandanın ayağı altına atarak, babamı bağışlayınız, diyordu</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">babamı</arg>
+<rel f="">bağışlayınız</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="bağışla.02" name="Bir mal veya hakkı karşılık beklemeden birine vermek">
+<roles>
+<role descr="veren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="verilen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kime verildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ödünç aldığı parayı bile kendinden daha ihtiyaçlısına bağışlayan ancak bir masal adamıdır.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Ödünç aldığı parayı (ble)</arg>
+<arg f="" n="2" suffix="">kendinden daha ihtiyaçlısına</arg>
+<rel f="">bağışlayan</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

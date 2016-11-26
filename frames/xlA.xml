@@ -1,0 +1,16 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="xlA">
+<infSuffixes/>
+<note/>
+<roleset id="xlA.01" name="Bir şeyi ismin/sıfatın belirttiği hale getirmek">
+<roles>
+<role descr="getiren (xleyen)" f="" n="0" suffix="NOM"/>
+<note/>
+<role descr="hale getirilen (xlenen)" f="" n="1" suffix="ACC"/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

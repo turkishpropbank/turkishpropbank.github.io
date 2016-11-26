@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yığ">
+
+
+<roleset id="yığ.01" name="Bırakmak">
+<roles>
+<role descr="yığan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yığılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye yığıldığı" f="" n="3" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Odunları bodruma yığ.</text>
+<note/>
+<arg f="" n="1" suffix="">Odunları</arg>
+<arg f="" n="3" suffix="">bodruma</arg>
+<rel f="">yığ</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

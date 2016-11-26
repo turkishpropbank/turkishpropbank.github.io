@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yetin">
+
+
+<roleset id="yetin.01" name="Bir şeyi kendisi için yeter bularak daha çoğuna gerek görmemek,">
+<roles>
+<role descr="yetinen" f="" n="0" suffix="NOM"/>
+
+<role descr="ne ile yetinildiği" f="" n="1" suffix="WITH"/>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Küçük bir başarıyla yetinmezsin sen.</text>
+
+<arg f="" n="1" suffix="">Küçük bir başarıyla</arg>
+<arg f="" n="0" suffix="">sen</arg>
+<rel f="">yetinmezsin</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

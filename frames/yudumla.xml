@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yudumla">
+
+
+<roleset id="yudumla.01" name="Yudum yudum içmek">
+<roles>
+<role descr="içen" f="" n="0" suffix="NOM"/>
+
+<role descr="içilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

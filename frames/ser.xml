@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ser">
+
+
+<roleset id="ser.01" name="asmak veya yaymak">
+<roles>
+<role descr="seren" f="" n="0" suffix="NOM"/>
+
+<role descr="serilen" f="" n="1" suffix="ACC"/>
+<role descr="nereye serildiği" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kar gibi çamaşırları serip eve döndü.</text>
+
+
+<note/>
+<rel f="">serip</rel>
+<arg f="" n="1" suffix="">Kar gibi çamaşırları</arg>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çerçeveli çerçevesiz bir sürü fotoğraf çıkarıp masanın üzerine serdi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Çerçeveli çerçevesiz bir sürü fotoğraf</arg>
+<arg f="mnr" n="m" suffix="">çıkarıp</arg>
+<rel f="">serdi</rel>
+<arg f="" n="1" suffix="">masanın üzerine</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

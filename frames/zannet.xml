@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="zannet">
+
+
+<roleset id="zannet.01" name="Sanmak">
+<roles>
+<role descr="zanneden" f="" n="0" suffix="NOM"/>
+
+
+<role descr="sanılan / zannedilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ada, güneşin içinde kavrulacaklarını zannetti.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Ada</arg>
+<arg f="" n="1" suffix="">güneşin içinde kavrulacaklarını</arg>
+<rel f="">zannetti</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

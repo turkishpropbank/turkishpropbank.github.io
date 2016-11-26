@@ -1,0 +1,73 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kan">
+
+
+<roleset id="kan.01" name="Konunun doğruluğuna inanmak">
+<roles>
+<role descr="inanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye inandığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-LA16B4A-0687" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kızların cilvesine kanma.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kızların cilvesine</arg>
+<rel f="">kanma</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="kan.02" name="Bir gereksinimini, bir isteğini yeteri kadar karşılamış olmak, doymak (mecazi)">
+<roles>
+<role descr="doyan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="doyulan şey" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Siz bile bu şekil, renk, koku zenginliğine kanmış ve yorulmuş ruhunuzla...</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Siz (bile)</arg>
+<arg f="" n="1" suffix="">bu şekil, renk, koku zenginliğine</arg>
+<rel f="">kanmış</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

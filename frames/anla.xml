@@ -1,0 +1,170 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="anla">
+
+
+<roleset id="anla.01" name="Bir şeyin ne demek olduğunu kavramak" vncls="">
+<roles>
+  <role descr="anlayan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="anladığı kişi/şey" f="" n="1" suffix="ACC">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kabul etmeyeceğini ben daha o gün anlamıştım.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Kabul etmeyeceğini</arg>
+<arg f="" n="0" suffix="">ben</arg>
+<arg f="tmp" n="m" suffix="">daha o gün</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="anla.02" name="Bir şey hakkında bilgisi bulunmak" vncls="">
+<roles>
+  <role descr="anlayan kişi" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="anladığı konu" f="" n="1" suffix="ABL">
+	<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Denizcilikten hiç anlamam.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Denizcilikten</arg>
+<arg f="neg" n="m" suffix="">hiç</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="anla.03" name="Yarar sağlamak" vncls="">
+<roles>
+  <role descr="anlayan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="beneficiary"/>
+</role>	
+  <role descr="neyden anladığı" f="" n="3" suffix="ABL">
+	<vnrole vncls="" vntheta="source"/>
+</role>
+  <role descr="ne kadar anladığı" f="" n="2" suffix="NOM">
+	<vnrole vncls="" vntheta="extent"/>
+</role>	
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bu ilaçtan hiçbir şey anlamadım.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="3" suffix="">Bu ilaçtan</arg>
+<arg f="" n="2" suffix="">hiçbir şey</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

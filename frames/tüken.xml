@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tüken">
+
+
+<roleset id="tüken.01" name="Bitmek, sona ermek">
+<roles>
+<role descr="tükenen şey/kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Vaktiyle yaşamış olan büyük musiki ustaları nesillerinin artık tükenmiş olduğu da söylenirdi</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">nesillerinin</arg>
+<arg f="adv" n="m" suffix="">artık</arg>
+<rel f="">tükenmiş</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

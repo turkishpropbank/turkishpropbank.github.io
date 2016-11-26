@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ilet">
+
+
+<roleset id="ilet.01" name="Götürmek, ulaştırmak">
+<roles>
+<role descr="ileten" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="iletilen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye iletildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu sözlerimi lütfen kendisine de iletin.</text>
+
+
+
+<note/>
+<rel f="">iletin</rel>
+<arg f="" n="4" suffix="">kendisine de</arg>
+<arg f="dis" n="m" suffix="">lütfen</arg>
+<arg f="" n="1" suffix="">Bu sözlerimi</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

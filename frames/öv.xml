@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öv">
+
+
+<roleset id="öv.01" name="Birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek">
+<roles>
+<role descr="öven" f="" n="0" suffix="NOM"/>
+
+<role descr="övülen" f="" n="1" suffix="ACC"/>
+<role descr="yapılan övgü (diye ile beraber genelde)" f="" n="2" suffix=""/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hatta kimi Alman eleştirmenler, "Dilimizi tazeledi' diye Özdamar'ı övdü.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Hatta</arg>
+<arg f="" n="0" suffix="">kimi Alman eleştirmenler</arg>
+<arg f="cau" n="m" suffix="">"Dilimizi tazeledi' diye</arg>
+<rel f="">övdü</rel>
+<arg f="" n="1" suffix="">Özdamar'ı</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

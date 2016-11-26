@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="abartıl">
+
+
+<roleset id="abartıl" name="Abartma işine konu olmak" vncls="">
+<roles>
+  <role descr="abartılan şey/kimse" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles> 
+<example name="tdc" src="" type="">
+<text>Şüphesiz siviller öldü, ancak sayı abartılıyor.</text>
+
+
+
+<arg f="" n="" suffix=""/>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

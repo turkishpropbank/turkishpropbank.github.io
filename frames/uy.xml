@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uy">
+
+
+<roleset id="uy.01" name="Ölçüleri birbirini tutmak">
+<roles>
+<role descr="uyan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+<role descr="neye uyduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şapkan montuna uymuş.</text>
+
+<arg f="" n="1" suffix="">Şapkan</arg>
+<arg f="" n="2" suffix="">montuna</arg>
+<rel f="">uymuş</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

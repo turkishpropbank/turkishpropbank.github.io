@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="şımar">
+
+
+<roleset id="şımar.01" name="Kendisine gösterilen sevgi ve saygıdan veya verilen değerden yüreklenerek yersiz ve aşırı davranışlarda bulunmak">
+<roles>
+<role descr="şımaran" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şımarma.</text>
+<note/>
+<rel f="">Şımarma</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

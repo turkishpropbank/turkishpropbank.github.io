@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yıl">
+
+
+<roleset id="yıl.01" name="Bir işten gözü korkup vazgeçmek">
+<roles>
+<role descr="vazgeçen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neden yıldığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Düşman bile onun cesaretinden yılmıştı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Düşman</arg>
+<arg f="adv" n="m" suffix="">bile</arg>
+<arg f="" n="1" suffix="">onun cesaretinden</arg>
+<rel f="">yılmıştı</rel>
+</example>
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

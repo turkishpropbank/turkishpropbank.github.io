@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sav">
+
+
+<roleset id="sav.01" name="İstenmeyen birini yanından uzaklaştırmak">
+<roles>
+<role descr="uzaklaştıran" f="" n="0" suffix="NOM"/>
+
+<role descr="uzaklaştırılan" f="" n="1" suffix="ACC"/>
+<role descr="nereden uzaklaştırıldığı" f="" n="2" suffix="ABL"/>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Öğrencisini başından savdı.</text>
+<note/>
+<arg f="" n="1" suffix="">Öğrencisini</arg>
+<arg f="" n="2" suffix="">başından</arg>
+<rel f="">savdı</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

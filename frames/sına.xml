@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sına">
+
+
+<roleset id="sına.01" name="Test etmek">
+<roles>
+<role descr="test eden" f="" n="0" suffix="NOM"/>
+
+<role descr="test edilen" f="" n="1" suffix="ACC"/>
+<role descr="ne ile/nasıl test edildiği" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Allah kimseyi evlat acısıyla sınamasın</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Allah</arg>
+<arg f="" n="1" suffix="">kimseyi</arg>
+<arg f="" n="2" suffix="">evlat acısıyla</arg>
+<rel f="">sınamasın</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,80 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aban">
+
+
+<roleset id="aban.01" name="Bir yere yaslanmak, dayanmak" vncls="">
+<roles>
+  <role descr="abanan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="nereye/kime abanıldığı" f="" n="2" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdc" src="" type="">
+<text>Kapıdan çıkar çıkmaz yüreğime dağlar taşlar abandı sanki.</text>
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="nom">taşlar</arg>
+<arg f="" n="2" suffix="dat">yüreğime</arg>
+<arg f="tmp" n="m" suffix="nom">çıkmaz</arg>
+
+
+<note/>
+<rel f="">abandı</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+   
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

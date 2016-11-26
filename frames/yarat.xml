@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yarat">
+
+
+<roleset id="yarat.01" name="Olmasına, ortaya çıkmasına yol açmak, sebep olmak">
+<roles>
+<role descr="yaratan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="cause"/>
+</role>
+
+<role descr="yaratılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu haber sinirli bir hava yarattı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu haber</arg>
+<arg f="" n="1" suffix="">sinirli bir hava</arg>
+<rel f="">yarattı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yayımla">
+
+
+<roleset id="yayımla.01" name="Kitap, gazete, dergi vb. şeyleri basmak ve dağıtmak">
+<roles>
+<role descr="basan ve dağıtan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="basılan dağıtılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="product"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türk Dil Kurumunun yeni yayımladığı kitapları gördüm.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Türk Dil Kurumunun</arg>
+<arg f="adv" n="m" suffix="">yeni</arg>
+<arg f="" n="1" suffix="">kitapları</arg>
+<rel f="">yayımladığı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

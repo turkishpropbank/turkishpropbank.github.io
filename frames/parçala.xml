@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="parçala">
+
+
+<roleset id="parçala.01" name="parçalara ayırmak">
+<roles>
+<role descr="parçalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="parçalanan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Biraz iyi bakınca gördüm ki kuş, yılanı parçalayıp yiyor.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">kuş</arg>
+<arg f="" n="1" suffix="">yılanı</arg>
+<arg f="adv" n="m" suffix="">Biraz iyi bakınca gördüm ki</arg>
+<rel f="">parçalayıp</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

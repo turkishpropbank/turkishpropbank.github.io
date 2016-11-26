@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yanaş">
+
+
+<roleset id="yanaş.01" name="Bir şeyin, bir kimsenin yanına gelmek">
+<roles>
+<role descr="yanaşan" f="" n="0" suffix="NOM"/>
+
+<role descr="kime/nereye yanaştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Usulca avluya indim, rafa doğru yanaştım.</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">rafa doğru</arg>
+<rel f="">yanaştım</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

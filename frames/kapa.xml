@@ -1,0 +1,168 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kapa">
+
+
+<roleset id="kapa.01" name="Bir açıklığı örtmek">
+<roles>
+<role descr="kapayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kapatılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hasan, hemen kapıyı kapadı, kaçtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Hasan</arg>
+<arg f="tmp" n="m" suffix="">hemen</arg>
+<arg f="" n="1" suffix="">kapıyı</arg>
+<rel f="">kapadı</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="kapa.02" name="Çalışamaz, görev ve iş yapamaz duruma getirmek">
+<roles>
+<role descr="kapayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kapanan şey" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dükkanı beş gibi kapıyoruz.</text>
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Dükkanı</arg>
+<arg f="tmp" n="m" suffix="">beş gibi</arg>
+<rel f="">kapıyoruz</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="kapa.03" name="Bitirmek">
+<roles>
+<role descr="bitiren" f="" n="0" suffix="NOM"/>
+
+<role descr="bitirdiği şey" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Endeks ilk seansı 5 bin 100 puandan kapadı.</text>
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Endeks</arg>
+<arg f="" n="1" suffix="">ilk seansı</arg>
+<arg f="ext" n="m" suffix="">5 bin 100 puandan</arg>
+<rel f="">kapadı</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,123 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dayan">
+
+
+<roleset id="dayan.01" name="Bir yere yaslanmak">
+<roles>
+<role descr="dayanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye dayandığı" f="" n="1" suffix="DAT"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Köşeye dayanmış bir adam, sanki sızmış gibi görünüyor.</text>
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Köşeye</arg>
+<arg f="" n="0" suffix="">bir adam</arg>
+<rel f="">dayanmış</rel>
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dayan.02" name="Karşı durmak">
+<roles>
+<role descr="karşı koyan, dayanan" f="" n="0" suffix="NOM"/>
+
+<role descr="karşı duyduğu, dayandığı şey" f="" n="1" suffix="DAT"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Haydi biraz daha dayan</text>
+
+
+
+
+
+
+<arg f="dis" n="m" suffix="">Haydi</arg>
+<arg f="ext" n="m" suffix="">biraz daha</arg>
+<rel f="">dayan</rel>
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="dayan.03" name="Uzun süre kullanılmaya uygun olmak">
+<roles>
+<role descr="dayanan" f="" n="1" suffix="NOM"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu kumaş çok dayandı</text>
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu kumaş</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">dayandı</rel>
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

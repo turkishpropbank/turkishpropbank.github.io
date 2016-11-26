@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kımılda">
+
+
+<roleset id="kımılda.01" name="Yerinde hafifçe hareketlenmek">
+<roles>
+<role descr="kımıldayan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Güneş kuru bir kütük ateşi gibi kımıldayan al alevler arasında gurup ediyordu.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">al alevler</arg>
+<arg f="mnr" n="m" suffix="">kuru bir kütük ateşi gibi</arg>
+<rel f="">kımıldayan</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

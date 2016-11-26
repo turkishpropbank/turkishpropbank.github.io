@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yüklen">
+
+
+<roleset id="yüklen.01" name="Üstüne düşmek, zorlamak">
+<roles>
+<role descr="yüklenen" f="" n="0" suffix="NOM"/>
+
+<role descr="nereye/kime yüklenildiği" f="" n="1" suffix="DAT"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hep birden yüklenmişlerdi o zaman Rahmi'ye; saygısızlık ettin, kırdın diye.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Hep birden</arg>
+<arg f="tmp" n="m" suffix="">o zaman</arg>
+<arg f="" n="1" suffix="">Rahmi'ye</arg>
+<rel f="">yüklenmişlerdi</rel>
+<arg f="cau" n="m" suffix="">saygısızlık ettin, kırdın diye</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

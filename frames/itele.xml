@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="itele">
+
+
+<roleset id="itele.01" name="Sürekli itmek, arka arkaya itmek, iteklemek">
+<roles>
+<role descr="iteleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="itelenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu, insanı yanlış yollara itelese de bir çıkış noktası bulunmasına omuz verebilir.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu</arg>
+<arg f="" n="1" suffix="">insanı</arg>
+<arg f="gol" n="m" suffix="">yanlış yollara</arg>
+<rel f="">itelese de</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sağ">
+
+
+<roleset id="sağ.01" name="Memeyi parmaklar arasında sıkarak sütünü akıtmak">
+<roles>
+<role descr="sağan" f="" n="0" suffix="NOM"/>
+
+<role descr="sağılan (genelde süt)" f="" n="1" suffix="NOM-ACC"/>
+<role descr="kimden sağıldığı" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözümüzün önünde keçilerden sağdıkları köpüklü sütlerimizi yarıda bırakıp kalktık.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Gözümüzün önünde</arg>
+<arg f="" n="2" suffix="">keçilerden</arg>
+<arg f="" n="1" suffix="">köpüklü sütlerimizi</arg>
+<rel f="">sağdıkları</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

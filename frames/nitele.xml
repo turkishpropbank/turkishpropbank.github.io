@@ -1,0 +1,29 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="nitele">
+
+
+<roleset id="nitele.01" name="Bir şeyin niteliğini belirtmek">
+<roles>
+<role descr="niteleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nitelenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text/>
+<note/>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

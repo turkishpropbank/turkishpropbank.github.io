@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ban">
+
+
+<roleset id="ban" name="Maddelerin içine batırıp çıkarmak." vncls="">
+<roles>	
+    <role descr="banan kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="banılan şey" f="" n="1" suffix="NOM-ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+	<role descr="banıldığı yer" f="" n="2" suffix="DAT">
+		<vnrole vncls="" vntheta="destination"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Reçele ekmek banar, yerim.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">Reçele</arg>
+<arg f="" n="1" suffix="">ekmek</arg>
+<rel f="">banar</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

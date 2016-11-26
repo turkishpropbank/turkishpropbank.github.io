@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="betimle">
+
+
+<roleset id="betimle.01" name="Bir nesnenin niteliklerini söz veya yazı ile anlatmak">
+<roles>
+<role descr="betimleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="betimlenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="betimleme (şeklinde, biçiminde vs...)" f="" n="2" suffix=""/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ana Britannica, 12 Eylül sonrası Atatürkçülüğü de şöyle betimliyor.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Ana Britannica</arg>
+<arg f="" n="1" suffix="">12 Eylül sonrası Atatürkçülüğü (de)</arg>
+<arg f="" n="2" suffix="">şöyle</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

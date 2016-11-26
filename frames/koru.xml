@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="koru">
+
+
+<roleset id="koru.01" name="Bir kimseyi veya bir şeyi dış etkilerden, tehlikeden, zor bir durumdan uzak tutmak">
+<roles>
+<role descr="koruyan" f="" n="0" suffix="NOM"/>
+
+<role descr="korunan" f="" n="1" suffix="ACC"/>
+<role descr="neyden korunduğu" f="" n="2" suffix="ABL"/>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onları yangından korumak için elinden geleni yaptı.</text>
+
+<arg f="" n="1" suffix="">Onları</arg>
+<arg f="" n="2" suffix="">yangından</arg>
+<rel f="">korumak</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tap">
+
+
+<roleset id="tap.01" name="Tutku ile sevmek, bağlanmak">
+<roles>
+<role descr="tapan" f="" n="0" suffix="NOM"/>
+
+<role descr="tapılan varlık" f="" n="1" suffix="DAT"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bütün Bucaklıların bana taptıklarını anlıyorsun</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bütün Bucaklıların</arg>
+<arg f="" n="1" suffix="">bana</arg>
+<rel f="">taptıklarını</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

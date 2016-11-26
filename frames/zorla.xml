@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="zorla">
+
+
+<roleset id="zorla.01" name="Birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak">
+<roles>
+<role descr="zorlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="zorlanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="yapmaya zorlandığı iş" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hükümeti erken genel seçime gitmeye zorladı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Hükümeti</arg>
+<arg f="" n="2" suffix="">erken genel seçime gitmeye</arg>
+<rel f="">zorladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

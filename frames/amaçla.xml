@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="amaçla">
+
+
+<roleset id="amaçla.01" name="Bir amaca ulaşmayı istemek">
+<roles>
+<role descr="amaçlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="amaçlanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+<role descr="nasıl hedefe ulaşacağı (-erek, -arak da olabilir)" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İlerdeki müzik yaşamı için tecrübe edinmeyi amaçlıyordu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">tecrübe edinmeyi</arg>
+<arg f="gol" n="m" suffix="">İlerdeki müzik yaşamı için</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

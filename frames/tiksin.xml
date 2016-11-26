@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tiksin">
+
+
+<roleset id="tiksin.01" name="Aşağılık bulmak">
+<roles>
+<role descr="tiksinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neyden tiksindiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kıllarından tiksiniyorum.</text>
+<note/>
+<arg f="" n="3" suffix="">Kıllarından</arg>
+<rel f="">tiksiniyorum</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

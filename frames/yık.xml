@@ -1,0 +1,81 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yık">
+
+
+<roleset id="yık.01" name="Bozmak, tahrip etmek">
+<roles>
+<role descr="yıkan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yıkılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="ne ile / nasıl yıkıldığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="instrument"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yangın yarım saatin içinde her yeri sardı, uğruna gelen ne varsa yaktı, yıktı.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Yangın</arg>
+<arg f="tmp" n="m" suffix="">yarım saatin içinde</arg>
+<arg f="" n="1" suffix="">uğruna gelen ne varsa</arg>
+<rel f="">yıktı.</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="yık.02" name="Herhangi bir suç, iş vb.ni birine yüklemek">
+<roles>
+<role descr="yükleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="yüklenen" f="" n="1" suffix="ACC"/>
+<role descr="kime yüklendiği" f="" n="2" suffix="DAT"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Suçu bana yıktı.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Suçu</arg>
+<arg f="" n="2" suffix="">bana</arg>
+<rel f="">yıktı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

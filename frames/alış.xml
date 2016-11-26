@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="alış">
+
+
+<roleset id="alış.01" name="Bir işi tekrarlayarak kolaylıkla yapabilmek." vncls="">
+<roles>
+  <role descr="alışan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>	
+   <role descr="alıştığı şey" f="" n="2" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Muhtaç değiliz ama ben çalışmaya alıştım.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ama</arg>
+<arg f="" n="0" suffix="">ben</arg>
+<arg f="" n="2" suffix="">çalışmaya</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

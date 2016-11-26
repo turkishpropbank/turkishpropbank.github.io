@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="az">
+
+
+<roleset id="az.01" name="Taşkınlıkta ileri gitmek." vncls="">
+<roles>	
+    <role descr="azan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Çocuklar azdı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Çocuklar</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

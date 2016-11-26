@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sinirlen">
+
+
+<roleset id="sinirlen.01" name="öfkelenmek, köpürmek,">
+<roles>
+<role descr="sinirlenen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye sinirlendiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>En çok adamın tasasız, güleç yüzüne sinirlendi.</text>
+
+
+<note/>
+<arg f="ext" n="m" suffix="">En çok</arg>
+<arg f="" n="2" suffix="">adamın tasasız, güleç yüzüne</arg>
+<rel f="">sinirlendi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

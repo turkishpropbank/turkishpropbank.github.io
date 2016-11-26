@@ -1,0 +1,24 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yoğunlaş">
+
+
+<roleset id="yoğunlaş.01" name="Odaklanmak">
+<roles>
+<role descr="yoğunlaşan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye yoğunlaşıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

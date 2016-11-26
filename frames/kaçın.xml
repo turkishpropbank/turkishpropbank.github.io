@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaçın">
+
+
+<roleset id="kaçın.01" name="Geri durmak">
+<roles>
+<role descr="kaçınan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyden kaçınıldığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Onu sinirlendirmekten kaçın.</text>
+<note/>
+<arg f="" n="3" suffix="">Onu sinirlendirmekten</arg>
+<rel f="">kaçın</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

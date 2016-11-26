@@ -1,0 +1,79 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="becer">
+
+
+<roleset id="becer.01" name="Üstesinden gelmek" vncls="">
+<roles>	
+    <role descr="beceren kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+	<role descr="becerilen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bu işi de becerdik</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu işi (de)</arg>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+<roleset id="becer.02" name="Kirletmek">
+<roles>
+<role descr="kirleten" f="" n="0" suffix="NOM"/>
+
+<role descr="kirlenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bayramlık elbiseni hemen becerdin.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bayramlık elbiseni</arg>
+<arg f="tmp" n="m" suffix="">hemen</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

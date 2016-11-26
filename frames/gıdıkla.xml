@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gıdıkla">
+
+
+<roleset id="gıdıkla.01" name="Vücudun bazı yerlerine dokunarak ürperme">
+<roles>
+<role descr="gıdıklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="gıdıklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-PA16B1A-1220" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Seslendi, ayağının altını gıdıkladı, yüzünü tokatladı, ama Toto'yu canlandıramadı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">ayağının altını</arg>
+<rel f="">gıdıkladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

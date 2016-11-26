@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tamamla">
+
+
+<roleset id="tamamla.01" name="Eksiksiz, tamam duruma getirmek, bütünlemek">
+<roles>
+<role descr="tamamlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="tamamlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Rehberim sille, tokat hatta asker süngüsü, bir hayli darbe yedikten sonra işini tamamladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Rehberim</arg>
+<arg f="tmp" n="m" suffix="">sille, tokat hatta asker süngüsü, bir hayli darbe yedikten sonra</arg>
+<arg f="" n="1" suffix="">işini</arg>
+<rel f="">tamamladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

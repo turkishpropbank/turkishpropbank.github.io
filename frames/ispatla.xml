@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ispatla">
+
+
+<roleset id="ispatla.01" name="Kanıtlamak">
+<roles>
+<role descr="kanıtlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="kanıtlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Daha sonraki olaylar bunu ispatladı</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Daha sonraki olaylar</arg>
+<arg f="" n="1" suffix="">bunu</arg>
+<rel f="">ispatladı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

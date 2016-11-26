@@ -1,0 +1,151 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yatır">
+
+
+<roleset id="yatır.01" name="Uyutmak">
+<roles>
+<role descr="uyutan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<role descr="uyutulan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="nerede uyutulduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gece beni en üst katta bir odada yatırdılar.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Gece</arg>
+<arg f="" n="1" suffix="">beni</arg>
+<arg f="" n="2" suffix="">en üst katta bir odada</arg>
+<rel f="">yatırdılar</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="yatır.02" name="Parayı vermek, teslim etmek">
+<roles>
+<role descr="yatıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yatırılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+<role descr="kime / neye yatırıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Eline geçen serveti emlağa yatırıyordu.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Eline geçen serveti</arg>
+<arg f="" n="2" suffix="">emlağa</arg>
+<rel f="">yatırıyordu</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Telefon parasını PTT'ye yatırdım.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Telefon parasını</arg>
+<arg f="" n="2" suffix="">PTT'ye</arg>
+<rel f="">yatırdım</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<roleset id="yatır.03" name="Hastaneye kaldırmak">
+<roles>
+<role descr="yatıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yatırılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+<role descr="nereye yatırıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note>all rolesets + causative of yat.01</note>
+</frameset>

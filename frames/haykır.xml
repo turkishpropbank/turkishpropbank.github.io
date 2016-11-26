@@ -1,0 +1,50 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="haykır">
+
+
+<roleset id="haykır.01" name="Telaş, şikâyet vb. sebeplerle yüksek sesle bağırmak">
+<roles>
+<role descr="bağıran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+<note/>
+<role descr="ne diye/ nasıl bağırdığı" f="" n="1" suffix=""/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk haykırarak ağlamaya başlamıştı.</text>
+
+
+
+
+<arg f="" n="0" suffix="">Çocuk</arg>
+<rel f="">haykırarak</rel>
+
+<note/>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

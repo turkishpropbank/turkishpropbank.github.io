@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yadsı">
+
+
+<roleset id="yadsı.01" name="Yaptığını saklamak, inkar etmek">
+<roles>
+<role descr="inkar eden" f="" n="0" suffix="NOM"/>
+
+<role descr="inkar edilen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Söylediklerini sonradan yadsımış, duyduğu güvensizliği ortaya koymuştur.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Söylediklerini</arg>
+<arg f="tmp" n="m" suffix="">sonradan</arg>
+<rel f="">yadsımış</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

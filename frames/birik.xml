@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="birik">
+
+
+<roleset id="birik.01" name="Yığılmak" vncls="">
+<roles>	
+    <role descr="yığılan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Sana verilecek havadislerim birikti.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Sana verilecek havadislerim</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

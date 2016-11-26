@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="imren">
+
+
+<roleset id="imren.01" name="Beğenilen, hoşlanılan bir şeyi edinme isteği duymak">
+<roles>
+<role descr="imrenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neye imrendiği" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk1" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki gün evvel bir muhallebici dükkânının vitrinindeki kazandibine imrendim.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">bir muhallebici dükkânının vitrinindeki kazandibine</arg>
+<arg f="tmp" n="m" suffix="">İki gün evvel</arg>
+<rel f="">imrendim</rel>
+</example>
+<example name="tdk2" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çağımızın yazarları arasında da klasiklere imrenenler yok değildir.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">klasiklere</arg>
+<rel f="">imrenenler</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

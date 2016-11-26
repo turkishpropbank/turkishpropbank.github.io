@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sars">
+
+
+<roleset id="sars.01" name="Birdenbire ve güçle kımıldatmak, sallamak, oynatmak, titretmek">
+<roles>
+<role descr="sarsan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sarsılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annesinin ölümü onu çok sarstı.</text>
+<note/>
+<arg f="" n="0" suffix="">Annesinin ölümü</arg>
+<arg f="" n="1" suffix="">onu</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">sarstı</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

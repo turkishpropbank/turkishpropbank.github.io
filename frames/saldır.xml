@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="saldır">
+<infSuffixes/>
+<note/>
+<roleset id="saldır.01" name="Hücum etmek">
+<roles>
+<role descr="saldıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<note/>
+<role descr="kime / neye saldırdığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

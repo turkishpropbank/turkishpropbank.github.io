@@ -1,0 +1,482 @@
+<div class="html-element-wrapper"></div>
+<p>
+ <strong>Eylem: </strong>  
+{% if pred_no != "1"%}
+ Cümledeki 
+{{pred_no}}. 
+{{pred}}
+{% else %}
+ {{pred}}
+{% endif %}  
+</p>
+<p>
+ <strong>Cümle: </strong>
+{% capture duz_sent %}
+{% for word in sent %}  
+{{ word }} 
+{% endfor %}
+{% endcapture %}
+{{duz_sent}}
+</p>
+
+<p>
+  <strong>Eylemin Anlamı: </strong>
+{{pred_meaning}}
+</p>
+<p>
+Lütfen sözcük öbeklerine en uygun açıklamaları seçiniz:
+</p>
+
+{% if farg0 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg0_wrong" gold="true" />
+<cml:select label="... {{farg0}}" class="" validates="required" gold="true" name="farg0_birinci_secim" aggregation="agg" only-if="farg0_wrong:unchecked" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg0_birinci_secim:[Diğer]" validates="required" gold="true" name="farg0_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+{% if farg1 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg1_wrong" gold="true" />
+<cml:select label="... {{farg1}}" class="" validates="required" gold="true" name="farg1_birinci_secim" only-if="farg1_wrong:unchecked" aggregation="agg">
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg1_birinci_secim:[Diğer]" validates="required" gold="true" name="farg1_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+
+{% if farg2 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg2_wrong" gold="true" />
+<cml:select label="... {{farg2}}" class="" validates="required" gold="true" name="farg2_birinci_secim" aggregation="agg" only-if="farg2_wrong:unchecked" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg2_birinci_secim:[Diğer]" validates="required" gold="true" name="farg2_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+
+{% if farg3 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg3_wrong" gold="true" />
+<cml:select label="... {{farg3}}" class="" validates="required" gold="true" name="farg3_birinci_secim" only-if="farg3_wrong:unchecked" aggregation="agg">
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %} 
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg3_birinci_secim:[Diğer]" validates="required" gold="true" name="farg3_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+{% if farg4 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg4_wrong" gold="true" />
+<cml:select label="... {{farg4}}" class="" validates="required" gold="true" only-if="farg4_wrong:unchecked" name="farg4_birinci_secim" aggregation="agg" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg4_birinci_secim:[Diğer]" validates="required" gold="true" name="farg4_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+{% if farg5 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg5_wrong" gold="true" />
+<cml:select label="... {{farg5}}" class="" validates="required" gold="true" only-if="farg5_wrong:unchecked" name="farg5_birinci_secim" aggregation="agg">
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}   
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg5_birinci_secim:[Diğer]" validates="required" gold="true" name="farg5_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+
+{% if farg6 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg6_wrong" gold="true"/>
+<cml:select label="... {{farg6}}" class="" validates="required" gold="true" only-if="farg6_wrong:unchecked" name="farg6_birinci_secim" aggregation="agg" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="farg6_birinci_secim:[Diğer]" validates="required" gold="true" name="farg6_ikinci_secim" aggregation="agg">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+{% endif %}
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" gold="true" name="more_args" />
+
+<cml:select label="Argüman olan sözcük (1)" validates="required" only-if="more_args" gold="true" name="argman_olan_szck_1">
+{% for word in sent %}  
+<cml:option label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:option>
+{% endfor %}
+</cml:select>
+
+<cml:select label="Sözcüğün Görevi (1) " class="" validates="required" gold="true" only-if="more_args" name="ekstra_birinci_secim" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim:[Diğer]" gold="true" validates="required" name="ekstra_ikinci_secim">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" name="more_args2" gold="true" only-if="more_args"/>
+
+<cml:select label="Argüman olan sözcük (2)" validates="required" only-if="more_args2" gold="true" name="argman_olan_szck_2">
+{% for word in sent %}  
+<cml:option label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:option>
+{% endfor %}
+</cml:select>
+
+<cml:select label="Sözcüğün Görevi (2) " class="" validates="required"  only-if="more_args2" gold="true" name="ekstra_birinci_secim2" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim2:[Diğer]" gold="true" validates="required" name="ekstra_ikinci_secim2">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" gold="true" name="more_args3" only-if="more_args2"/>
+
+<cml:select label="Argüman olan sözcük (3)" validates="required" only-if="more_args3" gold="true" name="argman_olan_szck_3">
+{% for word in sent %}  
+<cml:option label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:option>
+{% endfor %}
+</cml:select>
+
+<cml:select label="Sözcüğün Görevi (3) " class="" validates="required" gold="true" only-if="more_args3" name="ekstra_birinci_secim3" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim3:[Diğer]" gold="true" validates="required" name="ekstra_ikinci_secim3">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" gold="true" name="more_args4" only-if="more_args3"/>
+
+<cml:select label="Argüman olan sözcük (4)" validates="required" only-if="more_args4" gold="true" name="argman_olan_szck_4">
+{% for word in sent %}  
+<cml:option label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:option>
+{% endfor %}
+</cml:select>
+
+<cml:select label="Sözcüğün Görevi (4) " class="" validates="required"  gold="true" only-if="more_args4" name="ekstra_birinci_secim4" >
+  {% if arg0 != "N.A" %}  
+  <cml:option label="{{arg0}}"></cml:option>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:option label="{{arg1}}"></cml:option>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:option label="{{arg2}}"></cml:option>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:option label="{{arg3}}"></cml:option>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:option label="{{arg4}}"></cml:option>
+  {% endif %} 
+  <cml:option label="Diğer"></cml:option>
+</cml:select>
+<cml:select label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim4:[Diğer]" gold="true" validates="required" name="ekstra_ikinci_secim4">
+  <cml:option label="{{a-a}}"></cml:option>
+  <cml:option label="{{am-com}}"></cml:option>
+  <cml:option label="{{am-loc}}"></cml:option>
+  <cml:option label="{{am-dir}}"></cml:option>
+  <cml:option label="{{am-gol}}"></cml:option>
+  <cml:option label="{{am-mnr}}"></cml:option>
+  <cml:option label="{{am-ext}}"></cml:option>
+  <cml:option label="{{am-prd}}"></cml:option>
+  <cml:option label="{{am-cau}}"></cml:option>
+  <cml:option label="{{am-dis}}"></cml:option>
+  <cml:option label="{{am-neg}}"></cml:option>
+  <cml:option label="{{am-lvb}}"></cml:option>
+  <cml:option label="{{am-tmp}}"></cml:option>
+  <cml:option label="{{am-adv}}"></cml:option>
+  <cml:option label="{{am-two}}"></cml:option>
+</cml:select>
+

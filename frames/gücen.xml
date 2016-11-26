@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gücen">
+
+
+<roleset id="gücen.01" name="Kırılmak">
+<roles>
+<role descr="kırılan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<role descr="kime/neye kırıldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+<note/>
+</roles>
+
+<example name="tnc-QE37C4A-0402" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Benim bu işi yapmaktan kaçındığımı sandı ve haklı olarak da gücendi.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">ve</arg>
+<rel f="">gücendi</rel>
+<arg f="adv" n="m" suffix="">haklı olarak da</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

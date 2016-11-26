@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yen">
+
+
+<roleset id="yen.01" name="Savaş veya yarışmada üstünlük sağlamak, üstün gelmek">
+<roles>
+<role descr="kazanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yenilen/kaybeden" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kahramanlar daima yenmek veya düşmanlarını yendikten sonra da yine yenecek düşman bulmak isterler.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Kahramanlar</arg>
+<arg f="tmp" n="m" suffix="">daima</arg>
+<rel f="">yenmek</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

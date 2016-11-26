@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uğurla">
+
+
+<roleset id="uğurla.01" name="Yolcu etmek">
+<roles>
+<role descr="uğurlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="uğurlanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ev sahibi onları uğurladıktan sonra döndü.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Ev sahibi</arg>
+<arg f="" n="1" suffix="">onları</arg>
+<rel f="">uğurladıktan</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

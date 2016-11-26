@@ -1,0 +1,76 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yansı">
+
+
+<roleset id="yansı.01" name="Işık dalgaları yansıtıcı bir yüzeye çarparak yön değiştirmek">
+<roles>
+<role descr="yansıyan" f="" n="1" suffix="NOM"/>
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Işık yansıyor.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Işık</arg>
+<rel f="">yansıyor</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+<roleset id="yansı.02" name="Aksetmek, etki etmek">
+<roles>
+<role descr="etkileyen şey (yansıyan)" f="" n="0" suffix="NOM"/>
+
+<role descr="etkilediği şey (neye yansıdığı)" f="" n="1" suffix="DAT"/>
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gezi Parkının protestosu, seçim sonuçlarına da yansıdı.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Gezi Parkının protestosu</arg>
+<arg f="" n="1" suffix="">seçim sonuçlarına (da)</arg>
+<rel f="">yansıdı</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

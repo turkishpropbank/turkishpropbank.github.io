@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="saç">
+
+
+<roleset id="saç.01" name="etrafa dağıtmak, dökmek, yaymak">
+<roles>
+<role descr="saçan" f="" n="0" suffix="NOM"/>
+
+<role descr="saçılan" f="" n="1" suffix="NOM-ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Oraya birikmiş sulara basarak çamurları etrafa saçtı.</text>
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Oraya birikmiş sulara basarak</arg>
+<arg f="" n="1" suffix="">çamurları</arg>
+<arg f="gol" n="m" suffix="">etrafa</arg>
+<rel f="">saçtı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Büyümüş gözler örste dövülen kızgın demir gibi kıvılcımlar saçtı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Büyümüş gözler</arg>
+<arg f="mnr" n="m" suffix="">örste dövülen kızgın demir gibi</arg>
+<arg f="" n="1" suffix="">kıvılcımlar</arg>
+<rel f="">saçtı</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

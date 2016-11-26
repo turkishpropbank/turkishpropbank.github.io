@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gönder">
+
+
+<roleset id="gönder.01" name="iletmek, taşımak">
+<roles>
+<role descr="gönderici" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gönderilen şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye gönderildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hepimizi esir edip Malta'ya gönderecekleri ağızlarda dolaşıyordu.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Hepimizi</arg>
+<arg f="" n="2" suffix="">Malta'ya</arg>
+<rel f="">gönderecekleri</rel>
+<arg f="mnr" n="m" suffix="">esir edip</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

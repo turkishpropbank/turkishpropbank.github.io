@@ -1,0 +1,535 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaç">
+
+
+<roleset id="kaç.01" name="Saklanmak">
+<roles>
+<role descr="saklanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="saklandığı yer" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<role descr="kimden/neden saklanıldığı" f="" n="3" suffix="ABL"/>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir tehlike sezdiğin anda hemen eve kaçarsın.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bir tehlike sezdiğin anda</arg>
+<arg f="tmp" n="m" suffix="">hemen</arg>
+<arg f="" n="4" suffix="">eve</arg>
+<rel f="">kaçarsın</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaç.02" name="Firar etmek">
+<roles>
+<role descr="firar eden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<role descr="nereden kaçtığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Silahını hatta başındaki şapkasını bırakıp kaçıyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Silahını hatta başındaki şapkasını bırakıp</arg>
+<rel f="">kaçıyor</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="kaç.03" name="Kaçınmak">
+<roles>
+<role descr="kaçınan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kaçındığı şey" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben zahmetten kaçmam.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="3" suffix="">zahmetten</arg>
+<rel f="">kaçmam</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaç.04" name="İpi kopmak">
+<roles>
+<role descr="ipi kopan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çorabım kaçtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Çorabım</arg>
+<rel f="">kaçtı</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaç.05" name="Girmek">
+<roles>
+<role descr="giren şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="girdiği yer" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kulağına su kaçmış.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="4" suffix="">Kulağına</arg>
+<arg f="" n="1" suffix="">su</arg>
+<rel f="">kaçmış</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaç.06" name="Yok olmak">
+<roles>
+<role descr="yok olan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Rahatı kaçtı.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Rahatı</arg>
+<rel f="">kaçtı</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaç.07" name="Andırmak">
+<roles>
+<role descr="benzeyen şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="benzediği şey" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu mavi yeşile kaçıyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu mavi</arg>
+<arg f="" n="4" suffix="">yeşile</arg>
+<rel f="">kaçıyor</rel>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<roleset id="kaç.08" name="Olmak">
+<roles>
+<role descr="olan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="ne olduğu" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Buraya bu muhabbet soğuk kaçtı.</text>
+
+
+
+
+
+
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Buraya</arg>
+<arg f="" n="1" suffix="">bu muhabbet</arg>
+<arg f="" n="2" suffix="">soğuk</arg>
+<rel f="">kaçtı</rel>
+</example>
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

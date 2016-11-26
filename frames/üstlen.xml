@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üstlen">
+
+
+<roleset id="üstlen.01" name="Üstüne almak, yüklenmek">
+<roles>
+<role descr="üstlenen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="üstlenilen iş" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Babam üzerinde durmamış, onun papara payını da üstlenen annem ise bunu bir mesele hâline getirip küplere binmişti resmen.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">onun papara payını (da)</arg>
+<arg f="" n="0" suffix="">annem</arg>
+<rel f="">üstlenen</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

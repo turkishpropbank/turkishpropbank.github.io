@@ -1,0 +1,91 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ayrıl">
+
+
+<roleset id="ayrıl.01" name="Ayırma işine konu olmak">
+<roles>
+<role descr="ayrılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye ayrıldığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Emekliye ayrılmak</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Emekliye</arg>
+<rel f="">ayrılmak</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="ayrıl.02" name="Bir yerden, birinden uzaklaşmak">
+<roles>
+<role descr="ayrılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden ayrıldığı" f="" n="3" suffix="ABL"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Oradan ayrıldı.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">Oradan</arg>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

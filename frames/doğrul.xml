@@ -1,0 +1,52 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="doğrul">
+
+
+<roleset id="doğrul.01" name="Dik bir duruma gelmek">
+<roles>
+<role descr="doğrulan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden doğrulduğu" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="nereye doğrulduğu" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gülsüm kulağında dayanılmaz bir kaşıntıyla yatağından doğruldu.</text>
+
+
+<note/>
+<arg f="" n="3" suffix="">yatağından</arg>
+<arg f="" n="0" suffix="">Gülsüm</arg>
+<rel f="">doğruldu</rel>
+<arg f="mnr" n="m" suffix="">kulağında dayanılmaz bir kaşıntıyla</arg>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kalkıp, kapıya doğruldu.</text>
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Kalkıp</arg>
+<arg f="" n="4" suffix="">kapıya</arg>
+<rel f="">doğruldu</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

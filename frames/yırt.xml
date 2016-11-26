@@ -1,0 +1,59 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yırt">
+
+
+<roleset id="yırt.01" name="Kağıt, kumaş gibi bükülüp katlanan şeyleri parçalamak">
+<roles>
+<role descr="yırtan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yırtılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Artık küstahlığın perdelerini yırtmasam da camlarını çatlatabilirim.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">küstahlığın perdelerini</arg>
+<rel f="">yırtmasam</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="yırt.02" name="Bir işi yapmaktan kurtulmak">
+<roles>
+<role descr="yırtan" f="" n="0" suffix="NOM"/>
+
+<role descr="neyden yırttığı" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Haydi bu işten de yırttık</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Haydi</arg>
+<arg f="" n="1" suffix="">bu işten (de)</arg>
+<rel f="">yırttık</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

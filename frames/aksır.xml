@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aksır">
+
+
+<roleset id="aksır" name="Hapşırmak." vncls="">
+<roles>
+  <role descr="aksıran" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Açığa aksır, mikropları üstümüze savurma.</text>
+
+
+
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Açığa</arg>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

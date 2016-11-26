@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tartış">
+
+
+<roleset id="tartış.01" name="Bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak">
+<roles>
+<role descr="tartışan kişi" f="" n="0" suffix="NOM">
+
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle tartıştığı" f="" n="2" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+<role descr="neyi tartıştığı" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Güney Kore Ulusal Güvenlik Konseyi de dün tarafları uzlaştırma önerilerini tartıştı.</text>
+
+
+
+
+<arg f="" n="0" suffix="">Güney Kore Ulusal Güvenlik Konseyi (de)</arg>
+<arg f="tmp" n="m" suffix="">dün</arg>
+<arg f="" n="1" suffix="">tarafları uzlaştırma önerilerini</arg>
+<rel f="">tartıştı</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

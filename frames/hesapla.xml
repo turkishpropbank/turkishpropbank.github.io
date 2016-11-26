@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hesapla">
+
+
+<roleset id="hesapla.01" name="Hesap işlemini yapmak, hesap etmek">
+<roles>
+<role descr="hesaplayan" f="" n="0" suffix="NOM"/>
+
+<role descr="hesaplanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dönem giderlerini hesapladık.</text>
+<note/>
+<arg f="" n="1" suffix="">Dönem giderlerini</arg>
+<rel f="">hesapladık</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

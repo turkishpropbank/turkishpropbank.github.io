@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uzat">
+
+
+<roleset id="uzat.01" name="vermek">
+<roles>
+<role descr="uzatan" f="" n="0" suffix="NOM"/>
+
+<role descr="uzatılan" f="" n="1" suffix="NOM-ACC"/>
+<role descr="kime/nereye uzatıldığı" f="" n="2" suffix="DAT"/>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tuzu bana uzatır mısın ?</text>
+
+<arg f="" n="1" suffix="">Tuzu</arg>
+<rel f="">uzatır mısın</rel>
+<arg f="" n="2" suffix="">bana</arg>
+
+
+
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

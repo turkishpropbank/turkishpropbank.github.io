@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="elle">
+
+
+<roleset id="elle.01" name="Elle dokunmak">
+<roles>
+<role descr="dokunan" f="" n="0" suffix="NOM"/>
+
+<role descr="dokunulan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Görüyorsunuz, ben hiçbirini ellemiyor, hiçbirini açmıyorum.</text>
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Görüyorsunuz</arg>
+<arg f="" n="0" suffix="">ben</arg>
+<rel f="">ellemiyor</rel>
+<arg f="" n="1" suffix="">hiçbirini</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="aş">
+
+
+
+
+<roleset id="aş.01" name="Geçmek , üstesinden gelmek" vncls="">
+<roles>	
+    <role descr="aşan kişi/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>
+    <role descr="aştığı şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Sokulganlığı aşarak girişkenlik derecesini bulmuştu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Sokulganlığı</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

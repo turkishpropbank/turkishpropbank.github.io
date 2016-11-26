@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dola">
+
+
+<roleset id="dola.01" name="Sarmak">
+<roles>
+<role descr="saran kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sardığı şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye sardığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kollarını boynuma doladı, dizlerime oturmuştu.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kollarını</arg>
+<arg f="" n="4" suffix="">boynuma</arg>
+<rel f="">doladı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

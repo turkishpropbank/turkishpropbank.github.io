@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="türe">
+
+
+<roleset id="türe.01" name="Oluşmak">
+<roles>
+<role descr="türeyen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereden türediği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu kelime diğerinden türemiştir.</text>
+<note/>
+<arg f="" n="1" suffix="">Bu kelime</arg>
+<arg f="" n="3" suffix="">diğerinden</arg>
+<rel f="">türemiştir</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

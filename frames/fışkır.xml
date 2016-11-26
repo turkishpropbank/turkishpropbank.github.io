@@ -1,0 +1,76 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="fışkır">
+
+
+<roleset id="fışkır.01" name="Yukarıya doğru birdenbire ve hızla çıkmak">
+<roles>
+<role descr="fışkıran şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereden fışkırdığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hemen hemen memleketimizin dört bucağından su fışkırmasıdır.</text>
+
+
+
+
+
+<arg f="" n="2" suffix="">Hemen hemen memleketimizin dört bucağından</arg>
+<arg f="" n="1" suffix="">su</arg>
+<rel f="">fışkırmasıdır</rel>
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+<roleset id="fışkır.02" name="Bol bol olmak">
+<roles>
+<role descr="bol olan şey" f="" n="1" suffix="NOM"/>
+
+<role descr="nerede bol olduğu" f="" n="2" suffix="ABL"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kaldırım taşları arasından fışkırmış otların bütün sokağı bürüyeceği muhakkak</text>
+
+
+<arg f="" n="2" suffix="">Kaldırım taşları arasından</arg>
+<arg f="" n="1" suffix="">otların</arg>
+<rel f="">fışkırmış</rel>
+<note/>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

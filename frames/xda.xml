@@ -1,0 +1,15 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="xda">
+<infSuffixes/>
+<note/>
+<roleset id="xda.01" name="x ile belirtilen ışık veya ses saçma">
+<roles>
+<role descr="saçan" f="" n="1" suffix="NOM"/>
+<note/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

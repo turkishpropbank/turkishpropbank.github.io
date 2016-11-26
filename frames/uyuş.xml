@@ -1,0 +1,63 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uyuş">
+
+
+<roleset id="uyuş.01" name="Vücudun bir yerinde hareketin geçici olarak azalması">
+<roles>
+<role descr="uyuşan - genelde bir vücut parçası" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Öğle yemeğinden sonra sinirlerim uyuştu, ufak bir uyku kestireyim diye kompartımanımda uzandım</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Öğle yemeğinden sonra</arg>
+<arg f="" n="1" suffix="">sinirlerim</arg>
+<rel f="">uyuştu</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="uyuş.02" name="Her konuda birbirine uymak, imtizaç etmek">
+<roles>
+<role descr="uyan parça" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+<role descr="ne ile uyuştuğu" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note>İşteş</note>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Birbirinizle uyuşmuşsunuz</text>
+<note/>
+<rel f="">uyuşmuşsunuz</rel>
+<arg f="" n="1" suffix="">Birbirinizle</arg>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

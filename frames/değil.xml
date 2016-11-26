@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="değil">
+
+
+<roleset id="değil.01" name="Olumsuzluk için kullanılan ek fiil (copula)">
+<roles>
+<role descr="isim" f="" n="0" suffix="NOM"/>
+
+<role descr="predicate" f="" n="1" suffix=""/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

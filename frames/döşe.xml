@@ -1,0 +1,67 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="döşe">
+
+
+<roleset id="döşe.01" name="sermek">
+<roles>
+<role descr="döşeyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="döşenen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereye serildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tnc-EA16B4A-0489" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Renklileri de kalorifer borularına döşedi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Renklileri (de)</arg>
+<arg f="" n="4" suffix="">kalorifer borularına</arg>
+<rel f="">döşedi</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="döşe.02" name="yerleştirmek">
+<roles>
+<role descr="evi yerleştiren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yerleştirilen şey (ev)" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>On parça eşya ile döşeyip süslenmiş yaz evi...</text>
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">On parça eşya ile döşeyip</arg>
+<arg f="" n="1" suffix="">yaz evi</arg>
+<rel f="">süslenmiş</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

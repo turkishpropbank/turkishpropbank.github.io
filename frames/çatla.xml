@@ -1,0 +1,64 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çatla">
+
+
+<roleset id="çatla.01" name="Parçaları ayrılıp dağılmayacak biçimde yarılmak." vncls="">
+<roles>	
+    <role descr="çatlayan şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Eğer çay doldururken bardak çatlarsa, üzerlerinde nazar olduğuna hükmeder, gidip bir koşu ateşte tuz çevirirdi.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">bardak</arg>
+<arg f="tmp" n="m" suffix="">çay doldururken</arg>
+<arg f="dis" n="m" suffix="">Eğer</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+<roleset id="çatla.02" name="Kıskançlık duymak" vncls="">
+<roles>	
+    <role descr="çatlayan" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="experiencer"/>
+</role>
+	<role descr="neden çatladığı" f="" n="3" suffix="ABL">
+		<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kıskançlıktan yüreği çat deyip ortasından çatlayacaktı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">yüreği</arg>
+<arg f="" n="3" suffix="">Kıskançlıktan</arg>
+<arg f="mnr" n="m" suffix="">çat deyip</arg>
+<arg f="dir" n="m" suffix="">ortasından</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yararlan">
+
+
+<roleset id="yararlan.01" name="Kendine yarar sağlamak, faydalanmak, istifade etmek">
+<roles>
+<role descr="yararlanan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+<role descr="neyden yararlanıldığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aftan yararlanarak üniversiteye girdi.</text>
+<note/>
+<arg f="" n="1" suffix="">Aftan</arg>
+<rel f="">yararlanarak</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

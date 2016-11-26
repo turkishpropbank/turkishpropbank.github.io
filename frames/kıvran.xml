@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıvran">
+
+
+<roleset id="kıvran.01" name="Acı çekmek, üzülmek">
+<roles>
+<role descr="kıvranan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+</roleset>
+<roleset id="kıvran.02" name="Bir şeye çok gereksinim duymak">
+<roles>
+<role descr="ihtiyaç duyan" f="" n="0" suffix="NOM"/>
+
+<role descr="ihtiyaç duyulan - diye ile birlikte" f="" n="1" suffix=""/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Su, su diye kıvrandı.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Su, su diye</arg>
+<rel f="">kıvrandı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

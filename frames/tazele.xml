@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tazele">
+
+
+<roleset id="tazele.01" name="Yenisiyle veya tazesiyle değiştirmek">
+<roles>
+<role descr="yenileyen" f="" n="0" suffix="NOM"/>
+
+<role descr="yenilenen" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Barmenle yardımcısı boşalan kadehleri tazeliyorlardı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Barmenle yardımcısı</arg>
+<arg f="" n="1" suffix="">boşalan kadehleri</arg>
+<rel f="">tazeliyorlardı.</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yürü">
+
+
+<roleset id="yürü.01" name="Adım atarak ilerlemek, gitmek">
+<roles>
+<role descr="yürüyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye yürüdüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<role descr="nereden yürüdüğü, izlediği yol" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="trajectory"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kenardan kenardan kaleye doğru yürüyordu.</text>
+
+
+<note/>
+<arg f="" n="3" suffix="">Kenardan kenardan</arg>
+<arg f="" n="2" suffix="">kaleye doğru</arg>
+<rel f="">yürüyordu.</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,102 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="salla">
+
+
+<roleset id="salla.01" name="Düzenli bir biçimde ve hep aynı doğrultuda hareket ettirmek">
+<roles>
+<role descr="sallayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sallanan" f="" n="1" suffix="ACC"/>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sen yine anahtarını çıkar, salla, eğlendir.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Sen</arg>
+<rel f="">salla</rel>
+<arg f="tmp" n="m" suffix="">yine</arg>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="salla.02" name="Uydurmak, kafadan atmak">
+<roles>
+<role descr="sallayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sallanan" f="" n="1" suffix="ACC"/>
+
+
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Cevabını salladım.</text>
+<note/>
+<arg f="" n="1" suffix="">Cevabını</arg>
+<rel f="">salladım</rel>
+</example>
+</roleset>
+<roleset id="salla.03" name="Ertelemek">
+<roles>
+<role descr="erteleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="ertelenen" f="" n="1" suffix="ACC"/>
+<role descr="ertelenme süresi" f="" n="2" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ev sahibinin gözünü boyarım, kalan borcu bir müddet daha sallarım diyordu</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">kalan borcu</arg>
+<arg f="" n="2" suffix="">bir müddet daha</arg>
+<rel f="">sallarım</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

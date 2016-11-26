@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gerin">
+
+
+<roleset id="gerin.01" name="Kolları açarak gövdeyi gergin bir duruma sokmak">
+<roles>
+<role descr="gerinen" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Geç uyanmıştı, geç ve güç. Yatakta uzun uzun gerindi, esnedi.</text>
+
+
+<note/>
+<arg f="loc" n="m" suffix="">Yatakta</arg>
+<arg f="tmp" n="m" suffix="">uzun uzun</arg>
+<rel f="">gerindi</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

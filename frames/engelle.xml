@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="engelle">
+
+
+<roleset id="engelle.01" name="Bir şeyin gerçekleşmesini veya yapılmasını önlemek">
+<roles>
+<role descr="engelleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="engellediği şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çözüm çabalarını Denktaş'ın olağanüstü inatçılığı engelliyor.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Çözüm çabalarını</arg>
+<arg f="" n="0" suffix="">Denktaş'ın olağanüstü inatçılığı</arg>
+<rel f="">engelliyor</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,27 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sök">
+
+
+<roleset id="sök.01" name="Çıkarmak, ayırmak">
+<roles>
+<role descr="söken" f="" n="0" suffix="NOM"/>
+
+<role descr="sökülen" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çivileri sökmemiz gerek.</text>
+<note/>
+<arg f="" n="1" suffix="">Çivileri</arg>
+<rel f="">sökmemiz</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

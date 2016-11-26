@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="düzenle">
+
+
+<roleset id="düzenle.01" name="Yapmak hazırlamak">
+<roles>
+<role descr="yapan, hazırlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yapılan, hazırlanan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="product"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

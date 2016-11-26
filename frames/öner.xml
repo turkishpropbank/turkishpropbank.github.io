@@ -1,0 +1,50 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="öner">
+
+
+<roleset id="öner.01" name="Tavsiye vermek">
+<roles>
+<role descr="öneren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="önerilen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+<role descr="kime/nereye önerildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Daha sonraları, Edebiyat Fakültesi'nde asistan olduğum sırada, Falih Rıfkı, Anadolu Ajansında bana bir iş önerdi.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Daha sonraları</arg>
+<arg f="tmp" n="m" suffix="">Edebiyat Fakültesi'nde asistan olduğum sırada</arg>
+<arg f="" n="0" suffix="">Falih Rıfkı</arg>
+<arg f="loc" n="m" suffix="">Anadolu Ajansında</arg>
+<arg f="" n="2" suffix="">bana</arg>
+<arg f="" n="1" suffix="">bir iş</arg>
+<rel f="">önerdi</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

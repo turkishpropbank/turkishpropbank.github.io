@@ -1,0 +1,30 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sakinleş">
+
+
+<roleset id="sakinleş.01" name="Yatışmak, durgun duruma gelmek">
+<roles>
+<role descr="sakinleşen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annen sakinleşti, gelebilirsin.</text>
+<note/>
+<arg f="" n="1" suffix="">Annen</arg>
+<rel f="">sakinleşti</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

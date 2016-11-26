@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hakla">
+
+
+<roleset id="hakla.01" name="Perişan etmek, yenmek">
+<roles>
+<role descr="haklayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="haklanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben de dördünü beşini evelallah haklarım.</text>
+
+
+
+<arg f="" n="0" suffix="">Ben de</arg>
+<arg f="" n="1" suffix="">dördünü beşini</arg>
+<arg f="adv" n="m" suffix="">evelallah</arg>
+<rel f="">haklarım.</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

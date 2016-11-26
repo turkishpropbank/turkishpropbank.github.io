@@ -1,0 +1,54 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yüz">
+
+
+<roleset id="yüz.01" name="Su yüzeyinde veya su içinde ilerlemek, durmak:">
+<roles>
+<role descr="yüzen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nerede yüzüldüğü" f="" n="1" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tahta suda yüzer</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Tahta</arg>
+<arg f="" n="1" suffix="">suda</arg>
+<rel f="">yüzer</rel>
+</example>
+
+<note/>
+</roleset>
+<roleset id="yüz.02" name="Derisini çıkarmak, derisini soymak.">
+<roles>
+<role descr="yüzen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="yüzülen hayvan/şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

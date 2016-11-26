@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="fingirde">
+
+
+<roleset id="fingirde.01" name="Oynak davranmak">
+<roles>
+<role descr="gülen, oynak davranan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Senin tabirince kadın erkek hayli fingirdediler.</text>
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Senin tabirince</arg>
+<arg f="" n="0" suffix="">kadın erkek</arg>
+<arg f="ext" n="m" suffix="">hayli</arg>
+<rel f="">fingirdediler</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

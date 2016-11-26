@@ -1,0 +1,88 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kaydet">
+
+
+<roleset id="kaydet.01" name="Hatırlamak için yazmak, not etmek">
+<roles>
+<role descr="kaydeden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kaydedilen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Önüne bir şeyler kaydederken görür gibiyim.</text>
+
+
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Önüne</arg>
+<arg f="" n="1" suffix="">bir şeyler</arg>
+<rel f="">kaydederken</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="kaydet.02" name="Belirtmek, söylemek">
+<roles>
+<role descr="belirten kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="belirtilen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-QG24D1B-2318" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Abdurrahman Çelik, devletin sansürcü olmadığını kaydetti.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Abdurrahman Çelik</arg>
+<arg f="" n="1" suffix="">devletin sansürcü olmadığını</arg>
+<rel f="">kaydetti</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="vazgeç">
+
+
+<roleset id="vazgeç.01" name="Kendi hakkı saydığı bir şeyi artık istemez olmak">
+<roles>
+<role descr="vazgeçen" f="" n="0" suffix="NOM"/>
+
+<role descr="neyden vazgeçtiği" f="" n="1" suffix="ABL"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ben bu sevdadan vazgeçmez iken</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Ben</arg>
+<arg f="" n="1" suffix="">bu sevdadan</arg>
+<rel f="">vazgeçmez</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

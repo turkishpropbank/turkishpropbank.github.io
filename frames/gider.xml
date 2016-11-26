@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gider">
+
+
+<roleset id="gider.01" name="Ortadan kaldırmak, yok etmek">
+<roles>
+<role descr="gideren" f="" n="0" suffix="NOM"/>
+
+<role descr="giderilen" f="" n="1" suffix="NOM-ACC"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Vapur sorar, yol öğrenir, merakımızı gideririz.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">merakımızı</arg>
+<rel f="">gideririz</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

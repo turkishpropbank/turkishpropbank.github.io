@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="algıla">
+
+
+<roleset id="algıla.01" name="İdrak etmek">
+<roles>
+<role descr="algılayan" f="" n="0" suffix="NOM"/>
+
+<role descr="algılanan" f="" n="1" suffix="ACC"/>
+<role descr="ne olarak algılandığı" f="" n="2" suffix=""/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Önceleri sadece bir göz yanılması veya benzerlik olarak algıladı yaralı bilincim.</text>
+
+
+<note/>
+<arg f="" n="2" suffix="">bir göz yanılması veya benzerlik olarak</arg>
+<arg f="" n="0" suffix="">yaralı bilincim</arg>
+<arg f="tmp" n="m" suffix="">Önceleri</arg>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Toplum da onu bizim gösterdiğimiz şekilde algıladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Toplum</arg>
+<arg f="" n="1" suffix="">onu</arg>
+<arg f="" n="2" suffix="">bizim gösterdiğimiz şekilde</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

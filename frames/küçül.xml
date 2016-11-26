@@ -1,0 +1,51 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="küçül">
+
+
+<roleset id="küçül.01" name="Büyükken herhangi bir sebeple küçük duruma gelmek">
+<roles>
+<role descr="küçülen parça" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Buz eridikçe küçüldü.</text>
+<note/>
+<arg f="" n="1" suffix="">Buz</arg>
+<arg f="tmp" n="m" suffix="">eridikçe</arg>
+<rel f="">küçüldü</rel>
+</example>
+</roleset>
+<roleset id="küçül.02" name="Değer ve onurunu azaltacak davranışta bulunmak">
+<roles>
+<role descr="küçülen kimse" f="" n="1" suffix="NOM"/>
+
+<role descr="kimin için değerinin (nerede) azaldığı" f="" n="2" suffix="LOC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Daha fazla yalan söyleyip gözümde küçülme.</text>
+<note/>
+<arg f="mnr" n="m" suffix="">Daha fazla yalan söyleyip</arg>
+<arg f="" n="2" suffix="">gözümde</arg>
+<rel f="">küçülme</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,90 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çöz">
+
+
+<roleset id="çöz.01" name="Düğmeyi iliğinden açmak" vncls="">
+<roles>	
+    <role descr="çözen" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>		
+    <role descr="çözülen" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>			
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Yalnız göğsünün düğmelerini çöz.</text>
+
+
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Yalnız</arg>
+<arg f="" n="1" suffix="">göğsünün düğmelerini</arg>
+<rel f="">çöz</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="çöz.02" name="Çözüm bulmak" vncls="">
+<roles>	
+    <role descr="çözen" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>		
+    <role descr="çözülen" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>			
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kır saçlı postacı bulmacayı çözmüştü.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Kır saçlı postacı</arg>
+<arg f="" n="1" suffix="">bulmacayı</arg>
+<rel f="">çözmüştü</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

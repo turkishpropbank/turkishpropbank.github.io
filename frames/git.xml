@@ -1,0 +1,643 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="git">
+
+
+<roleset id="git.01" name="Bir yere doğru yönelmek, ulaşmak">
+<roles>
+<role descr="giden" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye gidildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<role descr="nereden gidildiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Nereye gidiyorsun?</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="4" suffix="">Nereye</arg>
+<rel f="">gidiyorsun</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="git.02" name="Bir durumun sürmesi">
+<roles>
+<role descr="süren şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ama böyle giderse Allah hemen sonunu hayırlara tebdil etsin.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="dis" n="m" suffix="">Ama</arg>
+<arg f="mnr" n="m" suffix="">böyle</arg>
+<rel f="">giderse</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="git.03" name="Yakışmak">
+<roles>
+<role descr="yakışan kişi/şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="neye/kime yakıştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu renk ona gitmedi.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu renk</arg>
+<arg f="" n="2" suffix="">ona</arg>
+<rel f="">gitmedi</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="git.04" name="Tüketilmek, harcanmak">
+<roles>
+<role descr="tüketilen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Eline geçen paranın çoğu da İstanbul'da çoluğa çocuğa gidiyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Eline geçen paranın çoğu (da)</arg>
+<arg f="gol" n="m" suffix="">İstanbul'da çoluğa çocuğa</arg>
+<rel f="">gidiyor</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="git.05" name="Yeter olmak, yetmek, yetişmek">
+<roles>
+<role descr="yeten şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="yettiği süre" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="time"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İki ton kömür üç ay gider.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">İki ton kömür</arg>
+<arg f="" n="2" suffix="">üç ay</arg>
+<rel f="">gider</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="git.06" name="Yok olmak">
+<roles>
+<role descr="yok olan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gemiler ve saray hepsi gitti.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Gemiler ve saray hepsi</arg>
+<rel f="">gitti</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="git.07" name="Satılmak">
+<roles>
+<role descr="satılan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="ne kadara satıldığı" f="" n="2" suffix="ABL">
+<vnrole vncls="" vntheta="asset"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Altın kaçtan gidiyor?</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Altın</arg>
+<arg f="" n="2" suffix="">kaçtan</arg>
+<rel f="">gidiyor</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<roleset id="git.08" name="Yardımcı Fiil: Değerlendirmek, saymak, karşılamak">
+<roles>
+<role descr="değerlendirilen şey (giden)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="değerlendirme sonucu (neye gittiği)" f="" n="2" suffix="DAT"/>
+<role descr="değerlendiren" f="" n="0" suffix="">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu iş hoşuma gitmedi, tuhafıma gitti.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Bu iş</arg>
+<arg f="" n="2" suffix="">hoşuma</arg>
+<rel f="">gitmedi</rel>
+<arg f="" n="2" suffix="">tuhafıma</arg>
+<rel f="">gitti</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,96 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ekle">
+
+
+<roleset id="ekle.01" name="Bir söze ilave yapmak">
+<roles>
+<role descr="ekleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="eklenen" f="" n="1" suffix="">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Pinhan'ın bu sözlerden bir şey anlamadığını gördüğünde, "meyhane" diye ekledi.</text>
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Pinhan'ın bu sözlerden bir şey anlamadığını gördüğünde</arg>
+<arg f="" n="1" suffix="">"meyhane" diye</arg>
+<rel f="">ekledi</rel>
+</example>
+
+
+
+<note>1. rol:  genelde öncesinde "diye" kullanılır (diye ekledi)</note>
+</roleset>
+<roleset id="ekle.02" name="Bir şeyi ilave etmek">
+<roles>
+<role descr="ekleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="eklenen" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="eklendiği yer" f="" n="2" suffix="DAT"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çevre hareketleri bu yaklaşıma yeni bir boyut ekledi.</text>
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Çevre hareketleri</arg>
+<arg f="" n="2" suffix="">bu yaklaşıma</arg>
+<arg f="" n="1" suffix="">yeni bir boyut</arg>
+<rel f="">ekledi.</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sonra mimarlar yaptıkları her eve bir banyo ekledi ve hamam denilen o masal evi, zarafetli mimarisi, incelikli kültürü, kırk çeşit raconuyla hayattan çekiliverdi.</text>
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Sonra</arg>
+<arg f="" n="0" suffix="">mimarlar</arg>
+<arg f="" n="2" suffix="">yaptıkları her eve</arg>
+<arg f="" n="1" suffix="">bir banyo</arg>
+<rel f="">ekledi</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

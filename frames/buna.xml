@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="buna">
+ 
+
+<roleset id="buna" name="Zihin gücünü yitirmek" vncls="">
+<roles>	
+    <role descr="bunayan kimse" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>			
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ajda Pekkan bunadı.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Ajda Pekkan</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

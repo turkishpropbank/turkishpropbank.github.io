@@ -1,0 +1,112 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="in">
+
+
+<roleset id="in.01" name="Yukarıdan aşağıya gelmek">
+<roles>
+<role descr="inen kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden indiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+<role descr="nereye indiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dağdan kurt indi.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="3" suffix="">Dağdan</arg>
+<arg f="" n="0" suffix="">kurt</arg>
+<rel f="">indi</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<roleset id="in.02" name="Azalmak">
+<roles>
+<role descr="azalan şey (sayı)" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereye kadar azaldığı" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sayımız son günlerde bu miktara inmiştir.</text>
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Sayımız</arg>
+<arg f="tmp" n="m" suffix="">son günlerde</arg>
+<arg f="" n="4" suffix="">bu miktara</arg>
+<rel f="">inmiştir</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="bahset">
+
+
+<roleset id="bahset.01" name="Bir konu üzerinde söz söylemek, konuşmak">
+<roles>
+<role descr="konuşan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kime anlatıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+<role descr="bahsedilen konu" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>O, yanıma oturarak kara haberlerden, kötü rivayetlerden bahsetti.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">O</arg>
+<arg f="mnr" n="m" suffix="">yanıma oturarak</arg>
+<arg f="" n="3" suffix="">kara haberlerden, kötü rivayetlerden</arg>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

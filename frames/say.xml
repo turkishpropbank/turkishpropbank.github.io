@@ -1,0 +1,134 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="say">
+
+
+<roleset id="say.01" name="Yerine koymak">
+<roles>
+<role descr="sayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="sayılan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+
+
+
+
+
+<role descr="neyin yerine konduğu (neye sayıldığı)" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Her çiçekten bal eyledik / Arıya saydılar bizi</text>
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Arıya</arg>
+<arg f="" n="1" suffix="">bizi</arg>
+<rel f="">saydılar</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="say.02" name="Sayısını bulmak için saymak">
+<roles>
+<role descr="sayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sayılan" f="" n="1" suffix="ACC"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kaç kalem var say bakalım.</text>
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Kaç kalem var</arg>
+<arg f="dis" n="m" suffix="">bakalım</arg>
+<rel f="">say</rel>
+<note/>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="say.03" name="Hesaba katmak">
+<roles>
+<role descr="hesaba katan (sayan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="hesaba katılan (sayılan)" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bundan önce verdiğimi saymıyor musun ?</text>
+
+
+
+
+
+<arg f="" n="1" suffix="">Bundan önce verdiğimi</arg>
+<rel f="">saymıyor musun</rel>
+<note/>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

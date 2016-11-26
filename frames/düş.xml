@@ -1,0 +1,769 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="düş">
+
+
+<roleset id="düş.01" name="Dengesini yitirerek aşağı inmek">
+<roles>
+<role descr="inen şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<role descr="nereye indiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+<role descr="nereden indiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Havada uçan kuş vurulmuş gibi birdenbire sokağa düşüyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Havada uçan kuş</arg>
+<arg f="mnr" n="m" suffix="">vurulmuş gibi</arg>
+<arg f="mnr" n="m" suffix="">birdenbire</arg>
+<arg f="" n="4" suffix="">sokağa</arg>
+<rel f="">düşüyor</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="düş.02" name="Eksilmek">
+<roles>
+<role descr="eksilen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gündelikleri yarı yarıya düşmüştü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Gündelikleri</arg>
+<arg f="ext" n="m" suffix="">yarı yarıya</arg>
+<rel f="">düşmüştü</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="düş.03" name="Aşırı ilgi veya sevgi göstermek">
+<roles>
+<role descr="ilgi gösteren kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ilgi gösterdiği konu" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sen bu işin üstüne çok düştün.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Sen</arg>
+<arg f="" n="1" suffix="">bu işin üstüne</arg>
+<arg f="ext" n="m" suffix="">çok</arg>
+<rel f="">düştün</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="düş.04" name="Payına ayrılmak">
+<roles>
+<role descr="payına düşen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="kimin payına düştüğü" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Mirastan ona bu ev düştü.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="cau" n="m" suffix="">Mirastan</arg>
+<arg f="" n="2" suffix="">ona</arg>
+<arg f="" n="1" suffix="">bu ev</arg>
+<rel f="">düştü</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<roleset id="düş.05" name="Deyimlerde kullanılan Yürümek, birlikte gelmek">
+<roles>
+<role descr="yürüyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="gidilen yön, yer" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Önüne, peşine, arkasına düşmek. Yola düşmek.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Önüne, peşine, arkasına</arg>
+<rel f="">düşmek</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="düş.06" name="Olmak, olumsuz bir duruma girmek">
+<roles>
+<role descr="durumda bulunan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="sebep" f="" n="3" suffix="">
+<vnrole vncls="" vntheta="cause"/>
+</role>
+<role descr="bulunduğu durum" f="" n="2" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yorgun düşmek. Zayıf düşmek. Şehit düşmek. Esir düşmek</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="2" suffix="">Yorgun</arg>
+<rel f="">düşmek</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="düş.07" name="Uğramak, kapılmak">
+<roles>
+<role descr="kapılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="kapıldığı duygu" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kadınlar yeni baştan telaşa, heyecana, korkuya düştüler.</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Kadınlar</arg>
+<arg f="tmp" n="m" suffix="">yeni baştan</arg>
+<arg f="" n="1" suffix="">telaşa, heyecana, korkuya</arg>
+<rel f="">düştüler</rel>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+<roleset id="düş.08" name="İptal olmak">
+<roles>
+<role descr="iptal olan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="iptal olma sebebi" f="" n="2" suffix="">
+<vnrole vncls="" vntheta="cause"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ders düştü, milletvekilliği düştü vb...</text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Ders</arg>
+<rel f="">düştü</rel>
+<arg f="" n="1" suffix="">milletvekilliği</arg>
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<roleset id="düş.09" name="Yakışmak, denk gelmek, uymak">
+<roles>
+<role descr="yakışan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+<role descr="neye yakıştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+
+
+<role descr="ne düştüğü (uygun, denk vb...)" f="" n="3" suffix="NOM">
+<vnrole vncls="" vntheta="attribute"/>
+</role>
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

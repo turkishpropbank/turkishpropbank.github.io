@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="belirle">
+
+
+<roleset id="belirle.01" name="Belirli duruma getirmek, tayin etmek">
+<roles>
+<role descr="belirleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="belirlenen" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Başına ne geleceğini tamamen tesadüfler belirledi.</text>
+
+
+
+<arg f="" n="1" suffix="">Başına ne geleceğini</arg>
+<arg f="" n="0" suffix="">tesadüfler</arg>
+<arg f="adv" n="m" suffix="">tamamen</arg>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

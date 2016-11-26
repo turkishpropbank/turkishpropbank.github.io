@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="doluş">
+
+
+<roleset id="doluş.01" name="Bir yerde toplanmak">
+<roles>
+<role descr="toplanan" f="" n="0" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="şiş">
+
+
+<roleset id="şiş.01" name="hacimce büyümek">
+<roles>
+<role descr="şişen" f="" n="1" suffix="NOM"/>
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Balon şişti.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Balon</arg>
+<rel f="">şişti</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

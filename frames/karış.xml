@@ -1,0 +1,142 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="karış">
+
+
+<roleset id="karış.01" name="Birbirinin içine girmek">
+<roles>
+<role descr="karışan şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="ne ile karıştığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Araba sallana sallana içim bağrım birbirine karıştı.</text>
+
+
+
+
+
+
+
+<arg f="cau" n="m" suffix="">Araba sallana sallana</arg>
+<arg f="" n="1" suffix="">içim bağrım</arg>
+<arg f="" n="2" suffix="">birbirine</arg>
+<rel f="">karıştı</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="karış.02" name="Bulanmak, duruluğunu yitirmek">
+<roles>
+<role descr="karışan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aklım karıştı</text>
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Aklım</arg>
+<rel f="">karıştı</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="karış.03" name="Müdahale etmek, burnunu sokmak">
+<roles>
+<role descr="müdahele eden (karışan)" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="müdahele ettiği iş/şey/kişi (neye karıştığı)" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sokakta herkes kadın kıyafetine karışmak hakkını kendinde görürdü.</text>
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Sokakta herkes</arg>
+<arg f="" n="1" suffix="">kadın kıyafetine</arg>
+<rel f="">karışmak</rel>
+<note/>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

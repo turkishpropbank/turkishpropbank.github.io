@@ -1,0 +1,74 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="göç">
+
+
+<roleset id="göç.01" name="Yerleşmek amacıyla mahalle, köy, şehir veya ülke değiştirmek">
+<roles>
+<role descr="yer değiştiren" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereden gidildiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<role descr="nereye gidildiği" f="" n="4" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Selanik elden çıkınca ailesi İzmir'e göçmüştür.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Selanik elden çıkınca</arg>
+<arg f="" n="0" suffix="">ailesi</arg>
+<rel f="">göçmüştür</rel>
+<arg f="" n="4" suffix="">İzmir'e</arg>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="göç.02" name="Ölmek">
+<roles>
+<role descr="ölen kişi" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="none" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hepimiz bir gün bu dünyadan göçeceğiz.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Hepimiz</arg>
+<arg f="tmp" n="m" suffix="">bir gün</arg>
+<arg f="dir" n="m" suffix="">bu dünyadan</arg>
+<rel f="">göçeceğiz.</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

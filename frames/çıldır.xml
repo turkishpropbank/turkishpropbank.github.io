@@ -1,0 +1,37 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="çıldır">
+
+
+<roleset id="çıldır" name="Delirmek, aklını oynatmak." vncls="">
+<roles>	
+    <role descr="çıldıran kişi" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Ölümünün üzerinden üç gün geçmemişti ki büyük kızı çıldırdı.</text>
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Ölümünün üzerinden üç gün geçmemişti (ki)</arg>
+<arg f="" n="1" suffix="">büyük kızı</arg>
+<rel f="">çıldırdı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yorumla">
+
+
+<roleset id="yorumla.01" name="Bir yazıyı veya bir sözü yorum yaparak açıklamak, tefsir etmek">
+<roles>
+<role descr="yorumlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="yorumlanan" f="" n="1" suffix="ACC"/>
+<role descr="nasıl yorumladığı" f="" n="2" suffix=""/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bütün ülkede bugün aynı anda yapılacak biyoloji sınavının sorularının dün karaborsada alıcı bulduğunu iddia eden İngiliz basını, bu durumu "eğitim rezaleti" olarak yorumladı.</text>
+
+
+<note/>
+<arg f="" n="0" suffix="">Bütün ülkede bugün aynı anda yapılacak biyoloji sınavının sorularının dün karaborsada alıcı bulduğunu iddia eden İngiliz basını</arg>
+<arg f="" n="1" suffix="">bu durumu</arg>
+<arg f="" n="2" suffix="">"eğitim rezaleti" olarak</arg>
+<rel f="">yorumladı.</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

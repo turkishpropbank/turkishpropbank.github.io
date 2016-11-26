@@ -1,0 +1,218 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çalış">
+
+
+<roleset id="çalış.01" name="emek harcamak">
+<roles>
+<role descr="emek harcayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çalışan ilerler, yerinde kalmaz.</text>
+
+
+
+
+
+
+
+
+
+
+
+<rel f="">Çalışan</rel>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="çalış.02" name="İşi veya görevi olmak, bulunmak">
+<roles>
+<role descr="görevli olan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="görevli olduğu yer" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta=""/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<role descr="hangi görevde çalıştığı" f="" n="1" suffix=""/>
+</roles>
+
+<example name="tnc-SI09C2A-0405" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Artık, diğer otellerde kaç kişi çalışıyor hesaplayın.</text>
+
+
+
+
+
+
+
+
+
+
+
+<rel f="">çalışıyor</rel>
+<arg f="" n="2" suffix="">diğer otellerde</arg>
+<arg f="" n="0" suffix="">kaç kişi</arg>
+<arg f="dis" n="m" suffix="">Artık</arg>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="çalış.03" name="Bir şeyi öğrenmek veya yapmak için uğraşmak">
+<roles>
+<role descr="emek harcayan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="emek harcadığı şey" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="goal"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-LA16B4A-0687" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Üç senedir piyano çalmaya çalışıyor.</text>
+
+
+
+
+
+
+
+
+
+
+
+<arg f="tmp" n="m" suffix="">Üç senedir</arg>
+<arg f="" n="2" suffix="">piyano çalmaya</arg>
+
+
+
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

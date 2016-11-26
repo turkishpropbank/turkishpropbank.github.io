@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="düşle">
+
+
+<roleset id="düşle.01" name="Hayal etmek">
+<roles>
+<role descr="hayal eden" f="" n="0" suffix="NOM"/>
+
+<role descr="hayal edilen" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

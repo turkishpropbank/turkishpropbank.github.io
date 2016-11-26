@@ -1,0 +1,53 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="söyle">
+
+
+<roleset id="söyle.01" name="Düşündüğünü veya bildiğini sözle anlatmak">
+<roles>
+<role descr="anlatan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="anlatılan konu" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="topic"/>
+</role>
+
+<role descr="kime anlatıldığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu konak için de yine senelerden beri aynı şeyi söylerim.</text>
+
+
+
+
+<note/>
+<arg f="gol" n="m" suffix="">Bu konak için (de)</arg>
+<arg f="tmp" n="m" suffix="">yine</arg>
+<arg f="tmp" n="m" suffix="">senelerden beri</arg>
+<rel f="">söylerim.</rel>
+<arg f="" n="1" suffix="">aynı şeyi</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

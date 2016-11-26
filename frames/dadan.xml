@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dadan">
+
+
+<roleset id="dadan.01" name="Bir şeyi sık sık istemek">
+<roles>
+<role descr="dadanan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye dadandığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk çikolataya pek dadandı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Çocuk</arg>
+<arg f="" n="1" suffix="">çikolataya</arg>
+<arg f="ext" n="m" suffix="">pek</arg>
+<rel f="">dadandı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

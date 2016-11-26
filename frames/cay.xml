@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="cay">
+
+
+<roleset id="cay.01" name="Sözünden, kararından dönmek, vazgeçmek">
+<roles>
+<role descr="cayan" f="" n="0" suffix="NOM"/>
+
+
+<role descr="neyden caydığı" f="" n="1" suffix="ABL"/>
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu saatten sonra sözünden cayamazsın.</text>
+<note/>
+<arg f="tmp" n="m" suffix="">Bu saatten sonra</arg>
+<arg f="" n="1" suffix="">sözünden</arg>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

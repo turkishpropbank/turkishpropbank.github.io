@@ -1,0 +1,118 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="otur">
+
+
+<roleset id="otur.01" name="Bir yere yerleşmek (sandalye, koltuk vb...)">
+<roles>
+<role descr="oturan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nereye oturduğu" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Şöyle geç, koltuğa otur.</text>
+<note/>
+<arg f="" n="2" suffix="">koltuğa</arg>
+<rel f="">otur</rel>
+</example>
+</roleset>
+<roleset id="otur.02" name="Bir yerde sürekli olarak kalmak">
+<roles>
+<role descr="oturan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="nerede oturduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bostancı, Kadıköy'de oturuyordu.</text>
+<note/>
+<arg f="" n="2" suffix="">Bostancı, Kadıköy'de</arg>
+<rel f="">oturuyordu</rel>
+</example>
+</roleset>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

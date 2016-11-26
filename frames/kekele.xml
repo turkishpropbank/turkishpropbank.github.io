@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kekele">
+
+
+<roleset id="kekele.01" name="Yineleyerek ve keserek konuşmak">
+<roles>
+<role descr="kekeleyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Çocuk kekelemeye başladı.</text>
+<note/>
+<arg f="" n="0" suffix="">Çocuk</arg>
+<rel f="">kekelemeye</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kıvır">
+
+
+<roleset id="kıvır.01" name="Herhangi bir şeyi bükmek">
+<roles>
+<role descr="kıvıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kıvrılan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Belini kıvırıyor.</text>
+<note/>
+<arg f="" n="1" suffix="">Belini</arg>
+<rel f="">kıvırıyor</rel>
+</example>
+</roleset>
+
+
+<roleset id="kıvır.02" name="Uydurmak">
+<roles>
+<role descr="kıvıran" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi kıvırdığı" f="" n="1" suffix="NOM-ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hadi canım kıvırma.</text>
+<note/>
+<arg f="dis" n="m" suffix="">Hadi canım</arg>
+<rel f="">kıvırma</rel>
+</example>
+</roleset>
+<roleset id="kıvır.03" name="Başarmak">
+<roles>
+<role descr="başaran" f="" n="0" suffix="NOM"/>
+
+<role descr="başarılan iş" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Helal olsun marangozluğu hemen kıvırdın.</text>
+<note/>
+<arg f="dis" n="m" suffix="">Helal olsun</arg>
+<arg f="" n="1" suffix="">marangozluğu</arg>
+<arg f="tmp" n="m" suffix="">hemen</arg>
+<rel f="">kıvırdın.</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

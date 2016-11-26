@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="taşın">
+
+
+<roleset id="taşın.01" name="Başka bir yere gitmek, göçmek">
+<roles>
+<role descr="taşınan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye taşındığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Elif geçen sene Amerika'ya taşındı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Elif</arg>
+<arg f="tmp" n="m" suffix="">geçen sene</arg>
+<arg f="" n="2" suffix="">Amerika'ya</arg>
+<rel f="">taşındı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

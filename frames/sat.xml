@@ -1,0 +1,47 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sat">
+
+
+<roleset id="sat.01" name="Bir değer karşılığında bir malı alıcıya vermek">
+<roles>
+<role descr="satan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="satılan şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kime/nereye sattığı" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="recipient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-KE05A4A-2618" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir kadın oğluna meyve bahçesi sattı.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bir kadın</arg>
+<arg f="" n="1" suffix="">oğluna</arg>
+<arg f="" n="2" suffix="">meyve bahçesi</arg>
+<rel f="">sattı</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

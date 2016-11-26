@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="piş">
+
+
+<roleset id="piş.01" name="Ateşte, fırında, kaynar suda veya yağda ısı etkisiyle yenilebilir duruma gelmek">
+<roles>
+<role descr="pişen" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Börek geç pişer.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Börek</arg>
+<arg f="mnr" n="m" suffix="">geç</arg>
+<rel f="">pişer</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

@@ -1,0 +1,28 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıfırla">
+
+
+<roleset id="sıfırla.01" name="Sıfıra getirmek">
+<roles>
+<role descr="sıfırlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="sıfırlanan" f="" n="1" suffix="ACC"/>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Hesabı sıfırladım babacım.</text>
+<note/>
+<arg f="" n="1" suffix="">Hesabı</arg>
+<arg f="dis" n="m" suffix="">babacım</arg>
+<rel f="">sıfırladım</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

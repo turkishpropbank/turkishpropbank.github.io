@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="varol">
+
+
+<roleset id="varol.01" name="yaşamak">
+<roles>
+<role descr="varolan" f="" n="0" suffix="NOM"/>
+
+
+<role descr="ne ile var olduğu" f="" n="1" suffix="WITH"/>
+<role descr="nerede var olduğu" f="" n="2" suffix="LOC"/>
+
+
+<note/>
+</roles>
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türküleriyle varoldu Kahramanmaraş'ın Elbistan ilçesinin Berçencik köyünde 1940 yılında doğdu Mahsuni Şerif.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Türküleriyle</arg>
+<rel f="">varoldu</rel>
+<arg f="" n="0" suffix="">Mahsuni Şerif</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

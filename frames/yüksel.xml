@@ -1,0 +1,23 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yüksel">
+
+
+<roleset id="yüksel.01" name="Yükseğe çıkmak">
+<roles>
+<role descr="yükselen" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

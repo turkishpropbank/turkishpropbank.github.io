@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="gecik">
+
+
+<roleset id="gecik.01" name="Geç kalmak">
+<roles>
+<role descr="geç kalan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye gecikti" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+<role descr="ne kadar gecikti" f="" n="3" suffix="NOM">
+<vnrole vncls="" vntheta="time"/>
+</role>
+<role descr="hangi konuda gecikildiği" f="" n="1" suffix="LOC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

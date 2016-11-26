@@ -1,0 +1,34 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="zayıfla">
+
+
+<roleset id="zayıfla.01" name="Zayıf duruma gelmek">
+<roles>
+<role descr="zayıflayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Biraz zayıflamış, kolalı beyaz yakalığı bollaşmıştı.</text>
+
+
+<note/>
+<arg f="ext" n="m" suffix="">Biraz</arg>
+<rel f="">zayıflamış</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

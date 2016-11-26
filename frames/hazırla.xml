@@ -1,0 +1,45 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="hazırla">
+
+
+<roleset id="hazırla.01" name="Bir şeyi kullanılacak, yararlanılacak duruma getirmek">
+<roles>
+<role descr="hazırlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="hazırlanan" f="" n="1" suffix="ACC"/>
+<role descr="kime/neye hazırlandığı" f="" n="3" suffix="DAT">
+<vnrole vncls="" vntheta="beneficiary"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir çeyrek saat içinde bavullarımızı bile hazırlayamazdık.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bir çeyrek saat içinde</arg>
+<arg f="" n="1" suffix="">bavullarımızı</arg>
+<arg f="adv" n="m" suffix="">bile</arg>
+<rel f="">hazırlayamazdık</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

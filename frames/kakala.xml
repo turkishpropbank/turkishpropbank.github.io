@@ -1,0 +1,49 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="kakala">
+
+
+<roleset id="kakala.01" name="kötü mal satmak">
+<roles>
+<role descr="kakalayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="kakalanan" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-PI09C2A-1187" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sonra paraları sayıyorum ki, tedavülden kalkmış kağıt yüzbinlikleri bize kakalamış.</text>
+
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Sonra paraları sayıyorum ki</arg>
+<arg f="" n="1" suffix="">tedavülden kalkmış kağıt yüzbinlikleri</arg>
+<arg f="gol" n="m" suffix="">bize</arg>
+<rel f="">kakalamış</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

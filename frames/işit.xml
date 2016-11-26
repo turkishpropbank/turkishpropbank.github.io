@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="işit">
+
+
+<roleset id="işit.01" name="Duymak">
+<roles>
+<role descr="duyan kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="duyulan şey" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Doktorun sesini işitince koştu, yanakları kırmızı, gözleri parlıyordu.</text>
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Doktorun sesini</arg>
+<rel f="">işitince</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

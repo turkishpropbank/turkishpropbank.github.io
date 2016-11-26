@@ -1,0 +1,492 @@
+<div class="html-element-wrapper"></div>
+<p>
+  <strong>Eylem: </strong>  
+{% if pred_no != "1"%}
+ Cümledeki 
+{{pred_no}}. 
+{{pred}}
+{% else %}
+ {{pred}}
+{% endif %}  
+</p>
+<p>
+ <strong>Cümle: </strong>
+{% capture duz_sent %}
+{% for word in sent %}  
+{{ word }} 
+{% endfor %}
+{% endcapture %}
+{{duz_sent}}
+</p>
+<p>
+  <strong>Eylemin Anlamı: </strong>
+{{pred_meaning}}
+</p>
+<p>
+Lütfen argümanlara en uygun açıklamaları seçiniz:
+</p>
+
+{% if farg0 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg0_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg0}} " validates="required" gold="true" name="farg0_birinci_secim" aggregation="agg" only-if="farg0_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg0_birinci_secim:[Diğer]" validates="required" gold="true" name="farg0_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+
+{% if farg1 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg1_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg1}}" validates="required" gold="true" name="farg1_birinci_secim" aggregation="agg" only-if="farg1_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg1_birinci_secim:[Diğer]" validates="required" gold="true" name="farg1_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+
+{% if farg2 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg2_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg2}}" validates="required" gold="true" name="farg2_birinci_secim" aggregation="agg" only-if="farg2_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg2_birinci_secim:[Diğer]" validates="required" gold="true" name="farg2_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+{% if farg3 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg3_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg3}}" validates="required" gold="true" name="farg3_birinci_secim" aggregation="agg" only-if="farg3_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg3_birinci_secim:[Diğer]" validates="required" gold="true" name="farg3_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+
+{% if farg4 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg4_wrong" gold="true" validates="required"></cml:checkbox>
+<cml:radios label="... {{farg4}}" validates="required" gold="true" name="farg4_birinci_secim" aggregation="agg" only-if="farg4_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg4_birinci_secim:[Diğer]" validates="required" gold="true" name="farg4_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+{% if farg5 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg5_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg5}}" validates="required" gold="true" name="farg5_birinci_secim" aggregation="agg" only-if="farg5_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg5_birinci_secim:[Diğer]" validates="required" gold="true" name="farg5_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+{% if farg6 != "N.A" %}  
+<cml:checkbox label="Bu bir argüman değil" name="farg6_wrong" gold="true"></cml:checkbox>
+<cml:radios label="... {{farg6}}" validates="required" gold="true" name="farg6_birinci_secim" aggregation="agg" only-if="farg6_wrong:unchecked">
+  {% if arg0 != "N.A"%}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}} "></cml:radio>
+  {% endif %}
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}} "></cml:radio>
+  {% endif %}
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}} "></cml:radio>
+  {% endif %}
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}} "></cml:radio>
+  {% endif %}
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+
+<cml:radios label="Diğer ilişkiler:" class="" only-if="farg6_birinci_secim:[Diğer]" validates="required" gold="true" name="farg6_ikinci_secim" aggregation="agg">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+{% endif %}
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" name="more_args" gold="true"></cml:checkbox>
+
+<cml:radios label="Argüman olan sözcük (1)" validates="required" only-if="more_args" gold="true" name="argman_olan_szck_1">
+{% for word in sent %}  
+<cml:radio label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:radio>
+{% endfor %}
+</cml:radios>
+
+<cml:radios label="Sözcüğün Görevi (1) " class="" validates="required" only-if="more_args" name="ekstra_birinci_secim" gold="true">
+  {% if arg0 != "N.A" %}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}}"></cml:radio>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}}"></cml:radio>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}}"></cml:radio>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}}"></cml:radio>
+  {% endif %} 
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+<cml:radios label=" Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim:[Diğer]" validates="required" name="ekstra_ikinci_secim" gold="true">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" name="more_args2" only-if="more_args" gold="true"></cml:checkbox>
+
+<cml:radios label="Argüman olan sözcük (2) " validates="required" only-if="more_args2" name="argman_olan_szck_2" gold="true">
+{% for word in sent %}  
+<cml:radio label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:radio>
+{% endfor %}
+</cml:radios>
+
+<cml:radios label="Sözcüğün Görevi (2)" class="" validates="required" only-if="more_args2" name="ekstra_birinci_secim2" gold="true">
+  {% if arg0 != "N.A" %}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}}"></cml:radio>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}}"></cml:radio>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}}"></cml:radio>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}}"></cml:radio>
+  {% endif %} 
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+<cml:radios label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim2:[Diğer]" validates="required" name="ekstra_ikinci_secim2" gold="true">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" name="more_args3" only-if="more_args2" gold="true"></cml:checkbox>
+
+<cml:radios label="Argüman olan sözcük (3) " validates="required" only-if="more_args3" name="argman_olan_szck_3" gold="true">
+{% for word in sent %}  
+<cml:radio label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:radio>
+{% endfor %}
+</cml:radios>
+
+<cml:radios label="Sözcüğün Görevi (3)" class="" validates="required" only-if="more_args3" name="ekstra_birinci_secim3" gold="true">
+  {% if arg0 != "N.A" %}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}}"></cml:radio>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}}"></cml:radio>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}}"></cml:radio>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}}"></cml:radio>
+  {% endif %} 
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+<cml:radios label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim3:[Diğer]" validates="required" name="ekstra_ikinci_secim3" gold="true">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+
+
+
+<cml:checkbox label="Bu eylemin yukarıdakilerden daha fazla argümanı var" name="more_args4" only-if="more_args3" gold="true"></cml:checkbox>
+
+<cml:radios label="Argüman olan sözcük (4) " validates="required" only-if="more_args4" name="argman_olan_szck_4" gold="true">
+{% for word in sent %}  
+<cml:radio label="{{word}}" value="{{ sent[forloop.index0]}}"></cml:radio>
+{% endfor %}
+</cml:radios>
+
+<cml:radios label="Sözcüğün Görevi (4)" class="" validates="required" only-if="more_args4" name="ekstra_birinci_secim4" gold="true">
+  {% if arg0 != "N.A" %}  
+  <cml:radio label="{{arg0}}"></cml:radio>
+  {% endif %}
+  {% if arg1 != "N.A" %}  
+  <cml:radio label="{{arg1}}"></cml:radio>
+  {% endif %} 
+  {% if arg2 != "N.A" %}  
+  <cml:radio label="{{arg2}}"></cml:radio>
+  {% endif %} 
+  {% if arg3 != "N.A" %}  
+  <cml:radio label="{{arg3}}"></cml:radio>
+  {% endif %} 
+  {% if arg4 != "N.A" %}  
+  <cml:radio label="{{arg4}}"></cml:radio>
+  {% endif %} 
+  <cml:radio label="Diğer"></cml:radio>
+</cml:radios>
+<cml:radios label="Diğer ilişkiler:" class="" only-if="ekstra_birinci_secim4:[Diğer]" validates="required" name="ekstra_ikinci_secim4" gold="true">
+  <cml:radio label="{{a-a}}"></cml:radio>
+  <cml:radio label="{{am-com}}"></cml:radio>
+  <cml:radio label="{{am-loc}}"></cml:radio>
+  <cml:radio label="{{am-dir}}"></cml:radio>
+  <cml:radio label="{{am-gol}}"></cml:radio>
+  <cml:radio label="{{am-mnr}}"></cml:radio>
+  <cml:radio label="{{am-ext}}"></cml:radio>
+  <cml:radio label="{{am-prd}}"></cml:radio>
+  <cml:radio label="{{am-cau}}"></cml:radio>
+  <cml:radio label="{{am-dis}}"></cml:radio>
+  <cml:radio label="{{am-neg}}"></cml:radio>
+  <cml:radio label="{{am-lvb}}"></cml:radio>
+  <cml:radio label="{{am-tmp}}"></cml:radio>
+  <cml:radio label="{{am-adv}}"></cml:radio>
+  <cml:radio label="{{am-two}}"></cml:radio>
+</cml:radios>
+
+
+

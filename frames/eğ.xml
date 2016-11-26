@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="eğ">
+
+
+<roleset id="eğ.01" name="Bükmek">
+<roles>
+<role descr="büken kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="bükülen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ağır ağır başını eğip yere baktı ve boynunu büktü.</text>
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Ağır ağır</arg>
+<arg f="" n="1" suffix="">başını</arg>
+<rel f="">eğip</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,112 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıkıl">
+
+
+<roleset id="sıkıl.01" name="Bıkmak">
+<roles>
+<role descr="sıkılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="neyden sıkıldığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sonra bu düşüncesinden de sıkıldı.</text>
+
+
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Sonra</arg>
+<arg f="" n="1" suffix="">bu düşüncesinden de</arg>
+<rel f="">sıkıldı</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+<roleset id="sıkıl.02" name="Sıkıntıya düşmek">
+<roles>
+<role descr="sıkılan" f="" n="1" suffix="NOM-ACC"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Canı sıkıldı.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Canı</arg>
+<rel f="">sıkıldı</rel>
+</example>
+
+
+
+
+<note>genelde canı sıkılmak olarak kullanılıyor</note>
+</roleset>
+<roleset id="sıkıl.03" name="Utanıp çekinmek">
+<roles>
+<role descr="sıkılan" f="" n="0" suffix="NOM"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Evde annesi tarafından yeterince azarlanmış olan Burak çok sıkıldı.</text>
+
+
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Evde annesi tarafından yeterince azarlanmış olan Burak</arg>
+<arg f="mnr" n="m" suffix="">çok</arg>
+<rel f="">sıkıldı</rel>
+</example>
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+<note/>
+</frameset>

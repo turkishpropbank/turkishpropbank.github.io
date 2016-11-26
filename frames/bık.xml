@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="bık">
+
+
+<roleset id="bık.01" name="Usanmak" vncls="">
+<roles>	
+    <role descr="bıkan kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="bıkılan şey" f="" n="1" suffix="ABL">
+		<vnrole vncls="" vntheta="source"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Kibrit kullanmaktan bıktığımız için bir eski çakmakla gazı yakmaktayız.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kibrit kullanmaktan</arg>
+<rel f="">bıktığımız</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

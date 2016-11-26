@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="içer">
+
+
+<roleset id="içer.01" name="İçine almak, içinde bulundurmak, ihtiva etmek">
+<roles>
+<role descr="içeren" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi içerdiği" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Düpedüz tehdit içeren yazıların sayısı da hayli kabarıktı.</text>
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Düpedüz</arg>
+<arg f="" n="1" suffix="">tehdit</arg>
+<arg f="" n="0" suffix="">yazıların</arg>
+<rel f="">içeren</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

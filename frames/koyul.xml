@@ -1,0 +1,20 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="koyul">
+<infSuffixes/>
+<note/>
+<roleset id="koyul.01" name="Girişmek, başlamak">
+<roles>
+<role descr="başlayan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+<note/>
+<role descr="neye başladığı" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

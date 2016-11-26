@@ -1,0 +1,41 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yetiş">
+
+
+<roleset id="yetiş.01" name="Ulaşmak, ermek, varmak">
+<roles>
+<role descr="yetişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye/kime yetiştiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Mühendislikte babasına yetişti.</text>
+
+<arg f="loc" n="m" suffix="">Mühendislikte</arg>
+<arg f="" n="2" suffix="">babasına</arg>
+<rel f="">yetişti</rel>
+<note/>
+</example>
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

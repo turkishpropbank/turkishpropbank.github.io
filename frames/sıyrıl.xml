@@ -1,0 +1,39 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sıyrıl">
+
+
+<roleset id="sıyrıl.01" name="Bir yerden veya bir durumdan çıkmak, kurtulmak">
+<roles>
+<role descr="sıyrılan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neyden sıyrıldığı" f="" n="1" suffix="ABL">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu donukluktan ilk sıyrılan Cemal oldu.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu donukluktan</arg>
+<arg f="tmp" n="m" suffix="">ilk</arg>
+<arg f="" n="0" suffix="">Cemal</arg>
+<rel f="">sıyrılan</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

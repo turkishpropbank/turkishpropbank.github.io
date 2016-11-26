@@ -1,0 +1,46 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="boya">
+
+
+<roleset id="boya.01" name="Renk vermek" vncls="">
+<roles>	
+    <role descr="boyayan kimse/şey" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="boyanan şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>		
+
+
+
+<note/>
+<role descr="neye boyandığı" f="" n="2" suffix="DAT"/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Rastıkla, yanağındaki beni de boyadı.</text>
+
+
+
+<arg f="inst" n="m" suffix="">Rastıkla</arg>
+<arg f="" n="1" suffix="">yanağındaki beni (de)</arg>
+<rel f="">boyadı</rel>
+<note/>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="etkile">
+
+
+<roleset id="etkile.01" name="Etkiye uğratmak, tesir etmek">
+<roles>
+<role descr="etkileyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+<role descr="neyi/kimi etkilediği" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+<role descr="nasıl etkilediği" f="" n="2" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Toplumu etkileyen olaylara herkes kendi yorumunu katıyor.</text>
+
+
+
+<arg f="" n="1" suffix="">Toplumu</arg>
+<arg f="" n="0" suffix="">olaylara</arg>
+<rel f="">etkileyen</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

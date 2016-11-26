@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uygula">
+
+
+<roleset id="uygula.01" name="hayata geçirmek">
+<roles>
+<role descr="uygulayan" f="" n="0" suffix="NOM"/>
+
+<role descr="uygulanan" f="" n="1" suffix="NOM-ACC"/>
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yaranın üzerine soğuk uygulayın.</text>
+<note/>
+<arg f="gol" n="m" suffix="">Yaranın üzerine</arg>
+<arg f="" n="1" suffix="">soğuk</arg>
+<rel f="">uygulayın</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

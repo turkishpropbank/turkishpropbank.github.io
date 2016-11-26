@@ -1,0 +1,36 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sağlamlaş">
+
+
+<roleset id="sağlamlaş.01" name="Sağlam duruma gelmek">
+<roles>
+<role descr="sağlam duruma gelen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bacaklarım sağlamlaştı.</text>
+<note/>
+<arg f="" n="1" suffix="">Bacaklarım</arg>
+<rel f="">sağlamlaştı</rel>
+</example>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

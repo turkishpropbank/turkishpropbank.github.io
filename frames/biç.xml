@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="biç">
+
+
+<roleset id="biç.01" name="Belli bir biçim vererek kesmek" vncls="">
+<roles>	
+    <role descr="biçen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="biçilen şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="patient"/>
+</role>	
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Tahtayı biçti.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Tahtayı</arg>
+</example>
+
+
+
+<note/>
+</roleset>
+
+<roleset id="biç.02" name="Tahmin etmek" vncls="">
+<roles>	
+    <role descr="biçen kimse" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="biçilen şey" f="" n="1" suffix="NOM">
+		<vnrole vncls="" vntheta="theme"/>
+</role>	
+
+
+
+<note/>
+<role descr="neye/kime biçildiği" f="" n="2" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+</roles>
+<example name="tdk" src="" type="">
+<text>Her denizci gibi onun da yol yol kırışmış yüzüne bir yaş biçmek zordu.</text>
+
+
+
+<note/>
+<arg f="" n="2" suffix="">yol yol kırışmış yüzüne</arg>
+<arg f="" n="1" suffix="">bir yaş</arg>
+<rel f="">biçmek</rel>
+</example>
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

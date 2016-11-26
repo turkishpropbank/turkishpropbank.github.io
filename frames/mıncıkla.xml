@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="mıncıkla">
+
+
+<roleset id="mıncıkla.01" name="Örseleyecek veya biçimini bozacak gibi ellemek, sıkıştırmak">
+<roles>
+<role descr="mıncıklayan" f="" n="0" suffix="NOM"/>
+
+<role descr="mıncıklanan" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ellerinin parmakları bir lastik top mıncıklar gibi açılıp kapanıyor.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">bir lastik top</arg>
+<rel f="">mıncıklar</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

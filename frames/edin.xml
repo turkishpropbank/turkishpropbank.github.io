@@ -1,0 +1,75 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="edin">
+
+
+<roleset id="edin.01" name="Kendini bir şeye sahip kılmak">
+<roles>
+<role descr="edinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<role descr="edinilen şey" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Başlangıçta ücretini düşük tutup el mahareti edindi.</text>
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Başlangıçta ücretini düşük tutup</arg>
+<arg f="" n="1" suffix="">el mahareti</arg>
+<rel f="">edindi</rel>
+</example>
+
+
+<note/>
+</roleset>
+<roleset id="edin.02" name="İzlenim edinmek">
+<roles>
+<role descr="izlenim edinen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="experiencer"/>
+</role>
+
+<role descr="nereden izlenim edindiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+<note/>
+<role descr="edindiği izlenim" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu izlenimi nereden edindin ?</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Bu izlenimi</arg>
+<arg f="" n="3" suffix="">nereden</arg>
+<rel f="">edindin</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note>Etmek fiilinden anlamca uzaklaşmış</note>
+</frameset>

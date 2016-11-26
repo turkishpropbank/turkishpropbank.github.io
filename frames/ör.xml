@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="ör">
+
+
+<roleset id="ör.01" name="Dokumak">
+<roles>
+<role descr="ören" f="" n="0" suffix="NOM"/>
+
+<role descr="örülen" f="" n="1" suffix="NOM-ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Annem bana kazak örmüş.</text>
+<note/>
+<arg f="" n="0" suffix="">Annem</arg>
+<arg f="gol" n="m" suffix="">bana</arg>
+<arg f="" n="1" suffix="">kazak</arg>
+<rel f="">örmüş</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

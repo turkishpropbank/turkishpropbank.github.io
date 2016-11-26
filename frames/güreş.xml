@@ -1,0 +1,51 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="güreş">
+
+
+<roleset id="güreş.01" name="İki kişi türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak">
+<roles>
+<role descr="güreşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="kiminle güreştiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-FD36C2A-0564" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ama çocuk fırsatını buldu mu, koca öküzün sırtına bile biner, boğanın üstünden atlar, köpeğiyle güreşir.</text>
+
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">Ama</arg>
+<arg f="" n="0" suffix="">çocuk</arg>
+<arg f="tmp" n="m" suffix="">fırsatını buldu mu</arg>
+<arg f="" n="1" suffix="">köpeğiyle</arg>
+<rel f="">güreşir</rel>
+</example>
+
+
+
+<note>işteş</note>
+</roleset>
+
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

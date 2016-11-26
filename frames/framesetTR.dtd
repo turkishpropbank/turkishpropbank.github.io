@@ -1,0 +1,63 @@
+
+<!ELEMENT frameset (note | predicate)*>
+<!ELEMENT note (#PCDATA)>
+
+<!ELEMENT predicate (note | roleset | infSuffixes)*>
+<!ATTLIST predicate lemma CDATA #REQUIRED>
+
+<!ELEMENT roleset (note*, roles, ( example | note )*)>
+<!ATTLIST roleset 
+  id   ID #REQUIRED
+  name CDATA #IMPLIED
+  vncls CDATA #IMPLIED
+  framnet CDATA #IMPLIED>
+  
+<!ELEMENT roles   (note | role)*>
+
+<!ELEMENT role (vnrole*) >
+<!ATTLIST role 
+  n CDATA #REQUIRED
+  f CDATA #IMPLIED
+  suffix CDATA #REQUIRED
+  descr CDATA #REQUIRED>
+
+<!ELEMENT vnrole EMPTY>
+<!ATTLIST vnrole
+  vncls CDATA #IMPLIED
+
+  vntheta (Actor1 | Actor2| Agent| Asset| Attribute| Beneficiary| Cause|
+  Destination| Experiencer| Extent| Instrument| Location| Material| Patient|
+  Patient1| Patient2| Predicate| Product| Recipient| Source| Stimulus| Theme|
+  Theme1| Theme2| Time| Topic) #IMPLIED>
+       
+<!ELEMENT infSuffix (infSuffix*)>	   
+<!ATTLIST infSuffix 
+  id CDATA #REQUIRED
+  desc CDATA #IMPLIED>
+  
+<!ELEMENT example (inflection?, note?, text, (arg | rel | note)*)>
+<!ATTLIST example
+  name CDATA #IMPLIED
+  type CDATA #IMPLIED
+  src  CDATA #IMPLIED>
+
+<!ELEMENT text (#PCDATA)>
+
+<!ELEMENT inflection EMPTY>
+<!ATTLIST inflection
+  person (third | other | ns) "ns"
+  tense  (present | past | future | ns) "ns"
+  aspect (perfect | progressive | both | ns) "ns"
+  voice  (active | passive | ns) "ns"
+  form   (infinitive | gerund | participle | full | ns) "ns">
+
+<!ELEMENT arg (#PCDATA)>
+<!ATTLIST arg
+  n CDATA #REQUIRED
+  f CDATA #IMPLIED
+  suffix CDATA #REQUIRED>
+<!ELEMENT rel (#PCDATA)>
+<!ATTLIST rel
+  f CDATA #IMPLIED>
+
+

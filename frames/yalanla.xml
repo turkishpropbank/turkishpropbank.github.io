@@ -1,0 +1,32 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yalanla">
+
+
+<roleset id="yalanla.01" name="gerçek olmadığını bildirmek">
+<roles>
+<role descr="yalanlayan" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi yalanladığı" f="" n="1" suffix="ACC"/>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Terim, iddiaları yalanladı.</text>
+<note/>
+<arg f="" n="0" suffix="">Terim</arg>
+<arg f="" n="1" suffix="">iddiaları</arg>
+<rel f="">yalanladı</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

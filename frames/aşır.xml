@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="aşır">
+
+
+<roleset id="aşır.01" name="Alıkoymak, almak">
+<roles>
+<role descr="aşıran" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="aşırılan" f="" n="1" suffix="NOM-ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="nereden aşırıldığı" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+<note/>
+</roles>
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Söyle benden aşırdığın kalemleri nereye sakladığını.</text>
+<note/>
+<arg f="" n="3" suffix="">benden</arg>
+<arg f="" n="1" suffix="">kalemleri</arg>
+<rel f="">aşırdığın</rel>
+</example>
+</roleset>
+<note/>
+</predicate>
+<note/>
+</frameset>

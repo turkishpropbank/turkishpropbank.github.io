@@ -1,0 +1,44 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sürtüş">
+
+
+<roleset id="sürtüş.01" name="Tartışmak, kavga etmek">
+<roles>
+<role descr="sürtüşen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+
+
+<role descr="kim ile sürtüştüğü" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+<note/>
+</roles>
+
+
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kocasıyla sürtüşmüşler yine.</text>
+<note/>
+<arg f="" n="1" suffix="">Kocasıyla</arg>
+<arg f="tmp" n="m" suffix="">yine</arg>
+<rel f="">sürtüşmüşler</rel>
+</example>
+</roleset>
+
+
+
+<note/>
+</predicate>
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,31 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="aydınlan">
+
+
+<roleset id="aydınlan.01" name="Aydınlık olmak">
+<roles>
+<role descr="aydınlanan" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Ve o anda herşey aydınlandı.</text>
+<note/>
+<arg f="dis" n="m" suffix="">Ve</arg>
+<arg f="tmp" n="m" suffix="">o anda</arg>
+<arg f="" n="1" suffix="">herşey</arg>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

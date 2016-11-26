@@ -1,0 +1,106 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="uza">
+
+
+<roleset id="uza.01" name="Uzun duruma gelmek, boyu büyümek">
+<roles>
+<role descr="uzayan" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="patient"/>
+</role>
+
+<role descr="nasıl/ne ile uzadığı" f="" n="2" suffix="WITH"/>
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kısa boylu Japon cinsi bile sporla üç parmak uzadı.</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Kısa boylu Japon cinsi (bile)</arg>
+<arg f="" n="2" suffix="">sporla</arg>
+<arg f="ext" n="m" suffix="">üç parmak</arg>
+<rel f="">uzadı</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="uza.02" name="Çok zaman tutmak, uzun sürmek">
+<roles>
+<role descr="uzayan" f="" n="1" suffix="NOM"/>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yılan masalı gibi uzadı gitti bu iş</text>
+
+
+
+
+
+
+
+
+<note/>
+<arg f="mnr" n="m" suffix="">Yılan masalı gibi</arg>
+<arg f="" n="1" suffix="">bu iş</arg>
+<rel f="">uzadı</rel>
+</example>
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+<note/>
+</frameset>

@@ -1,0 +1,55 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="incit">
+
+
+<roleset id="incit.01" name="İncinmesine yol açmak">
+<roles>
+<role descr="inciten kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="incittiği/gücendirdiği şey/kişi" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tdk1" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sol ayağımı geçen gün biraz incitmiştim.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Sol ayağımı</arg>
+<arg f="tmp" n="m" suffix="">geçen gün</arg>
+<arg f="ext" n="m" suffix="">biraz</arg>
+<rel f="">incitmiştim</rel>
+</example>
+<example name="tdk2" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bu gibi işlerin halkı incitmeyeceğini söylediler.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bu gibi işlerin</arg>
+<arg f="" n="1" suffix="">halkı</arg>
+<rel f="">incitmeyeceğini</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,42 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="çeliş">
+
+
+<roleset id="çeliş.01" name="Düşünce ve davranış birbirini tutmamak">
+<roles>
+<role descr="çelişen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="theme1"/>
+</role>
+
+<role descr="ne ile çeliştiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="theme2"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Anlattıklarının hemen tümü birbiriyle çelişiyor.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Anlattıklarının hemen tümü</arg>
+<arg f="" n="1" suffix="">birbiriyle</arg>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

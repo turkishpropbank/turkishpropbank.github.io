@@ -1,0 +1,33 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yaşlan">
+
+
+<roleset id="yaşlan.01" name="Yaşı ilerlemek, ihtiyarlamak">
+<roles>
+<role descr="yaşlanan" f="" n="1" suffix="NOM"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Allah'ın takdiri bilinmez ama ben seni hayli yaşlanmış görüyorum.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">seni</arg>
+<arg f="ext" n="m" suffix="">hayli</arg>
+<rel f="">yaşlanmış</rel>
+</example>
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

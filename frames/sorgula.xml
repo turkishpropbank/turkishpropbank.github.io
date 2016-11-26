@@ -1,0 +1,16 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<note/>
+<predicate lemma="sorgula">
+<infSuffixes/>
+<note/>
+<roleset id="sorgula.01" name="İlgililere sorular sormak">
+<roles>
+<role descr="sorgulayan" f="" n="0" suffix="NOM"/>
+<note/>
+<role descr="sorgulanan" f="" n="1" suffix="ACC"/>
+</roles>
+<note/>
+</roleset>
+</predicate>
+</frameset>

@@ -1,0 +1,25 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="duyur">
+
+
+<roleset id="duyur.01" name="Duymasını sağlamak">
+<roles>
+<role descr="duyuran" f="" n="0" suffix="NOM"/>
+
+<role descr="neyi duyurduğu" f="" n="1" suffix="ACC"/>
+<role descr="kime / neye duyurduğu" f="" n="2" suffix="DAT"/>
+
+<note/>
+</roles>
+
+
+<note/>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

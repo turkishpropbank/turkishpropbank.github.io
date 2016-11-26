@@ -1,0 +1,180 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="iste">
+
+
+<roleset id="iste.01" name="Arzulamak">
+<roles>
+<role descr="isteyen" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="ne istediği" f="" n="1" suffix="NOM">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-GA16B2A-0606" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Kımıldamak istedi kımıldayamadı.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Kımıldamak</arg>
+<rel f="">istedi</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="iste.02" name="Bir şeyin kendisine verilmesini veya yapılmasını söylemek">
+<roles>
+<role descr="isteyen kişi" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="istenen şey" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<role descr="kimden istendiği" f="" n="3" suffix="ABL">
+<vnrole vncls="" vntheta="source"/>
+</role>
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tnc-QE30D1B-2097" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>İspanyol aileler, savcılıktan soruşturma açmasını istedi.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">İspanyol aileler</arg>
+<arg f="" n="3" suffix="">savcılıktan</arg>
+<arg f="" n="1" suffix="">soruşturma açmasını</arg>
+<rel f="">istedi</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="iste.03" name="Evlenmek dileğinde bulunmak">
+<roles>
+<role descr="erkek tarafı" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="evlenilmek istenen kız" f="" n="1" suffix="ACC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Komşunun kızını istemişler.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Komşunun kızını</arg>
+<rel f="">istemişler</rel>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>

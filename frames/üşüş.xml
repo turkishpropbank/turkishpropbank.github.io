@@ -1,0 +1,43 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="üşüş">
+
+
+<roleset id="üşüş.01" name="Bir araya gelmek, toplanmak, birikmek">
+<roles>
+<role descr="üşüşenler" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="nereye üşüşüldüğü" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="destination"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Herifin etrafına daha trenden inerken üşüştük.</text>
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Herifin etrafına</arg>
+<arg f="tmp" n="m" suffix="">daha trenden inerken</arg>
+<rel f="">üşüştük</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

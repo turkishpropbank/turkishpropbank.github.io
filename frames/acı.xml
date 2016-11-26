@@ -1,0 +1,129 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="acı">
+
+
+<roleset id="acı.01" name="Tadı acı duruma gelmek" vncls="">
+<roles>
+  <role descr="tadı acıyan şey" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk.01" src="" type="">
+<text>Yağ acıdı.</text>
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Yağ</arg>
+<note/>
+<rel f="">acıdı</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="acı.02" name="Acılı, ağrılı olmak" vncls="">
+<roles>
+  <role descr="acılı olan şey" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tcd.KA16B1A-0705" src="" type="">
+<text>Nasıl acıdı elim, sopa elimden düştü.</text>
+
+
+
+
+
+
+<arg f="" n="1" suffix="">elim</arg>
+<arg f="mnr" n="m" suffix="">Nasıl</arg>
+<note/>
+<rel f="">acıdı</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="acı.03" name="Merhamet etmek" vncls="">
+<roles>
+  <role descr="acıyan" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="experiencer"/>
+</role>
+  <role descr="acınan şey/kimse" f="" n="2" suffix="DAT">
+	<vnrole vncls="" vntheta="stimulus"/>
+</role>
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tcd.EA16B2A-1563" src="" type="">
+<text>Çekikgöz, temiz giyimli sarhoş beyin gözlerindeki yaşları fark edince ona acıdı.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="2" suffix="">ona</arg>
+<arg f="tmp" n="m" suffix="">fark edince</arg>
+<arg f="" n="0" suffix="">Çekikgöz</arg>
+<rel f="">acıdı</rel>
+</example>
+
+
+
+
+
+
+<note/>
+</roleset>
+ 
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+<note/>
+</frameset>

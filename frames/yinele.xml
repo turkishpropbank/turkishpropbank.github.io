@@ -1,0 +1,38 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="yinele">
+
+
+<roleset id="yinele.01" name="Tekrarlamak">
+<roles>
+<role descr="yineleyen" f="" n="0" suffix="NOM"/>
+
+<role descr="yinelenen" f="" n="1" suffix="ACC"/>
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Loş alanda gidiyor, geliyor, yineliyordu rolünün bütün sözlerini.</text>
+
+
+
+<arg f="" n="1" suffix="">rolünün bütün sözlerini</arg>
+<rel f="">yineliyordu</rel>
+<note/>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

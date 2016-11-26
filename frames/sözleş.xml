@@ -1,0 +1,48 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="sözleş">
+
+
+<roleset id="sözleş.01" name="Herhangi bir iş konusunda birbirine karşılıklı söz vermek">
+<roles>
+<role descr="sözleşen" f="" n="0" suffix="NOM">
+
+<vnrole vncls="" vntheta="actor1"/>
+</role>
+
+<role descr="hangi konuda sözleşildiği" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+<role descr="kiminle sözleşildiği" f="" n="1" suffix="WITH">
+<vnrole vncls="" vntheta="actor2"/>
+</role>
+
+
+<note/>
+</roles>
+
+<example name="tnc-HH42C2A-0709" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bir gün annemle babam sözleşmişler, ikimizi de karşılarına oturtarak ikaz konuşması yaptılar.</text>
+
+
+
+<note/>
+<arg f="tmp" n="m" suffix="">Bir gün</arg>
+<arg f="" n="1" suffix="">annemle</arg>
+<arg f="" n="0" suffix="">babam</arg>
+<rel f="">sözleşmişler</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note>söz</note>
+</frameset>

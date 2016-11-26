@@ -1,0 +1,35 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="tutun">
+
+
+<roleset id="tutun.01" name="Tutup bırakmamak, dayanmak, sarılmak veya asılmak">
+<roles>
+<role descr="tutunan" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+<role descr="neye tutunulduğu" f="" n="1" suffix="DAT">
+<vnrole vncls="" vntheta="theme"/>
+</role>
+
+<note/>
+</roles>
+
+
+<note/>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Tutunacak dalım kalmadı.</text>
+<note/>
+<arg f="" n="1" suffix="">dalım</arg>
+<rel f="">Tutunacak</rel>
+</example>
+</roleset>
+
+<note/>
+</predicate>
+
+<note/>
+</frameset>

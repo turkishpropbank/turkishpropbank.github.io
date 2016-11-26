@@ -1,0 +1,100 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="patla">
+
+
+<roleset id="patla.01" name="İnfilak etmek">
+<roles>
+<role descr="patlayan şey" f="" n="1" suffix="NOM"/>
+
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Dinamit patladı.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">Dinamit</arg>
+<rel f="">patladı</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Gözlerim gene ayakkabılarıma kaydı, yanları patlamıştı.</text>
+
+
+
+
+
+
+<note/>
+<arg f="" n="1" suffix="">yanları</arg>
+<rel f="">patlamıştı</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+<roleset id="patla.02" name="Çok sıkılmak, sıkıntı ve sabırsızlığını belli etmek">
+<roles>
+<role descr="patlayan" f="" n="1" suffix="NOM"/>
+
+<role descr="patlama sebebi" f="" n="2" suffix="ABL"/>
+
+
+
+
+
+<note/>
+</roles>
+
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Sanıyorum ki istimi fazla gelmiş kazanlar gibi hırslarından patlayacaklar.</text>
+
+
+
+
+
+
+<note/>
+<arg f="adv" n="m" suffix="">Sanıyorum ki</arg>
+<arg f="mnr" n="m" suffix="">istimi fazla gelmiş kazanlar gibi</arg>
+<arg f="" n="2" suffix="">hırslarından</arg>
+<rel f="">patlayacaklar</rel>
+</example>
+
+
+
+
+
+<note/>
+</roleset>
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+<note/>
+</frameset>

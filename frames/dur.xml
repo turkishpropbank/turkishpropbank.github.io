@@ -1,0 +1,98 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+
+<predicate lemma="dur">
+
+
+<roleset id="dur.01" name="Hareketsiz durumda olmak, kalmak">
+<roles>
+<role descr="duran kişi/şey" f="" n="0" suffix="NOM">
+<vnrole vncls="" vntheta="agent"/>
+</role>
+
+
+
+<role descr="nerede durduğu" f="" n="2" suffix="LOC">
+<vnrole vncls="" vntheta="location"/>
+</role>
+<note/>
+</roles>
+
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Motorlu su taşıtlarından biri de kanal rıhtımının tam bizim önümüze düşen bir noktasında demir atmış duruyordu.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Motorlu su taşıtlarından biri (de)</arg>
+<arg f="" n="2" suffix="">kanal rıhtımının tam bizim önümüze düşen bir noktasında</arg>
+<arg f="mnr" n="m" suffix="">demir atmış</arg>
+<rel f="">duruyordu</rel>
+</example>
+<example name="tdk2" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Bileğimdeki saat durmuş.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Bileğimdeki saat</arg>
+<rel f="">durmuş</rel>
+</example>
+<example name="" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yağmur durdu.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Yağmur</arg>
+<rel f="">durdu</rel>
+</example>
+<example name="tdk5" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Türklerin yüzlerce yıl önceki kitabeleri hâlâ duruyor.</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Türklerin yüzlerce yıl önceki kitabeleri</arg>
+<arg f="adv" n="m" suffix="">hâlâ</arg>
+<rel f="">duruyor</rel>
+</example>
+<example name="tdk" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Yazlık eviniz hâlâ duruyor mu?</text>
+
+
+
+<note/>
+<arg f="" n="0" suffix="">Yazlık eviniz</arg>
+<arg f="adv" n="m" suffix="">hâlâ</arg>
+<rel f="">duruyor mu</rel>
+</example>
+<example name="tdk11" src="" type="">
+<inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
+<text>Aspirin getirmeyeceğini adı gibi biliyordu çünkü çekmecesinde dokunulmamış bir kutu duruyordu.</text>
+
+
+
+<note/>
+<arg f="dis" n="m" suffix="">çünkü</arg>
+<arg f="" n="2" suffix="">çekmecesinde</arg>
+<arg f="" n="0" suffix="">dokunulmamış bir kutu</arg>
+<rel f="">duruyordu</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

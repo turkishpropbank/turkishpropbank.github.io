@@ -1,0 +1,40 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="başar">
+
+
+<roleset id="başar.01" name="Bir işi istenilen biçimde bitirmek" vncls="">
+<roles>	
+    <role descr="başaran kişi" f="" n="0" suffix="NOM">
+		<vnrole vncls="" vntheta="agent"/>
+</role>	
+	<role descr="başardığı şey" f="" n="1" suffix="ACC">
+		<vnrole vncls="" vntheta="theme"/>
+</role>		
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Bunu bir türlü başaramadım.</text>
+
+
+<note/>
+<arg f="" n="1" suffix="">Bunu</arg>
+<arg f="neg" n="m" suffix="">bir türlü</arg>
+<rel f="">başaramadım</rel>
+</example>
+
+
+<note/>
+</roleset>
+
+ 
+
+
+<note/>
+</predicate>
+
+
+<note/>
+</frameset>

@@ -1,0 +1,181 @@
+<!DOCTYPE frameset SYSTEM "framesetTR.dtd">
+<frameset>
+<predicate lemma="ak">
+
+
+<roleset id="ak.01" name="Sıvı maddelerin bir yerden başka bir yere doğru gitmesi" vncls="">
+<roles>
+  <role descr="akan şey" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+  <role descr="nereden aktığı" f="" n="3" suffix="ABL">
+	<vnrole vncls="" vntheta="source"/>
+</role>	
+  <role descr="nereye doğru aktığı" f="" n="4" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Eskiden Sakarya, bu köprünün altından akarmış.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Sakarya</arg>
+<arg f="" n="3" suffix="">bu köprünün altından</arg>
+<arg f="tmp" n="m" suffix="">Eskiden</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="ak.02" name="Sıvı sızdırmak" vncls="">
+<roles>
+  <role descr="akan şey" f="" n="1" suffix="NOM">
+	<vnrole vncls="" vntheta="theme"/>
+</role>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Dam akıyor.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="1" suffix="">Dam</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+<roleset id="ak.03" name="Art arda ve toplu olarak gitmek" vncls="">
+<roles>
+  <role descr="akan kişi/ler" f="" n="0" suffix="NOM">
+	<vnrole vncls="" vntheta="agent"/>
+</role>
+  <role descr="nereden yolculuğa başladıkları" f="" n="3" suffix="ABL">
+	<vnrole vncls="" vntheta="source"/>
+</role>	
+  <role descr="nereye doğru gittikleri" f="" n="4" suffix="DAT">
+	<vnrole vncls="" vntheta="destination"/>
+</role>	
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roles>
+<example name="tdk" src="" type="">
+<text>Öfkeli insanlar, el ele, omuz omuza Taksim'e doğru akıyorlardı.</text>
+
+
+
+
+
+
+
+
+
+
+<arg f="" n="0" suffix="">Öfkeli insanlar</arg>
+<arg f="" n="4" suffix="">Taksim'e doğru</arg>
+<arg f="mnr" n="m" suffix="">el ele, omuz omuza</arg>
+<note/>
+</example>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</roleset>
+
+ 
+
+
+
+
+
+
+
+
+
+
+<note/>
+</predicate>
+
+
+
+
+
+
+
+
+
+
+<note/>
+</frameset>
