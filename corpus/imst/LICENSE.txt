@@ -7,8 +7,8 @@ NLP group, Department of Computer Engineering, Istanbul Technical University
 Acknowledgements:
 * Text is originally form Metu Sabanci Treebank[2,3], morphological and 
   syntactic annotation layer is taken from Itu-Metu-Sabanci-TreeBank(IMST)[1]
-  http://tools.nlp.itu.edu.tr/Datasets which is also distributed under Creative 
-  Commons Attribution-ShareAlike 4.0 International license.
+  http://tools.nlp.itu.edu.tr/Datasets which is also distributed under 
+  Creative Commons BY-NC-SA license.
 
 References:
 * [1] Umut Sulubacak, Tuğba Pamay and Gülşen Eryiğit. IMST: A Revisited 
@@ -24,5 +24,4 @@ References:
   Linguistically Interpreted Corpora (LINC), Budapest, Hungary, 2003.
 
 
-Please check https://creativecommons.org/licenses/by-nc-sa/4.0/ page for terms of use. 
-
+Please check https://creativecommons.org/licenses/by-nc-sa/4.0/ page for terms of use.
