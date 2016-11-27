@@ -24,7 +24,6 @@ Frame files can be download from [this link](https://github.com/turkishpropbank/
 </div>
 <p id="outputcontent"> </p>
 
-
 ### Turkish Semantic Role Labeling
 
 
