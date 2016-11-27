@@ -4,7 +4,7 @@ title: Turkish PropBank
 published: true
 ---
 
-Turkish Proposition Bank is the first semantically annotated corpus built for Turkish language. It is constructed upon [IMST](http://tools.nlp.itu.edu.tr/Datasets) and later mapped onto [IMST-Universal Dependencies(UD)](http://universaldependencies.org/#tr). It contains sense and semantic argument information of each predicate similar to
+Turkish Proposition Bank is the first semantically annotated corpus built for Turkish language. It is constructed upon [IMST](http://tools.nlp.itu.edu.tr/Datasets) and later mapped onto [IMST Universal Dependencies (UD)](http://universaldependencies.org/#tr). It contains sense and semantic argument information of each predicate similar to
 
 ![_config.yml]({{ site.baseurl }}/images/example_scaledDown.png)
 
