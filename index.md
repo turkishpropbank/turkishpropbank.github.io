@@ -3,6 +3,9 @@ layout: page
 title: Turkish PropBank
 published: true
 ---
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.autocomplete.min.js"></script>
+<script type="text/javascript" src="js/verb-autocomplete.js"></script>
 
 Turkish Proposition Bank is the first semantically annotated corpus built for Turkish language. It is constructed upon [IMST](http://tools.nlp.itu.edu.tr/Datasets) and later mapped onto [IMST Universal Dependencies (UD)](http://universaldependencies.org/#tr). It contains sense and semantic argument information of each predicate similar to
 
@@ -34,6 +37,4 @@ We distribute resources built in scope of this project under [Creative Commons B
 
 ### Publications
 
-<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="js/jquery.autocomplete.min.js"></script>
-<script type="text/javascript" src="js/verb-autocomplete.js"></script>
+
