@@ -24,7 +24,7 @@ Frame files can be download from [here](https://github.com/turkishpropbank/turki
 </div>
 <p id="outputcontent"> </p>
 
-[link to a file]({{ site.baseurl }}/frames/aban.xml)
+click here.[{{ site.baseurl }}/frames/aban.xml]({{ site.baseurl }}/frames/aban.xml)
 
 ### Annotated Corpora
 
