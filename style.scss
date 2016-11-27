@@ -28,6 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -108,6 +109,8 @@ strong, b {
 
 img {
   max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 // Fixes images in popup boxes from Google Translate
