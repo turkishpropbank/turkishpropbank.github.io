@@ -1,6 +1,6 @@
 $(function(){
   var verbs = [
-	{ value: 'aban', data: 'aban-v.html'},
+	{ value: 'aban', data: 'aban.md'},
 	{ value: 'abart', data: 'abart-v.html'},
 	{ value: 'abartıl', data: 'abartıl-v.html'},
 	{ value: 'acı', data: 'acı-v.html'},
