@@ -24,9 +24,9 @@ Frame files can be download from [here](https://github.com/turkishpropbank/turki
 </div>
 <p id="outputcontent"> </p>
 
+Link to a page: [here]({{ site.baseurl }}/frames_web/aban.html)
 
-[a relative link]({{ site.baseurl }}/frames_web/aban.md)
-
+[a relative link](/frames_web/aban.md)
 ### Annotated Corpora
 
 Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the license and readme files before usage.
