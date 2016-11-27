@@ -17,7 +17,7 @@ _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A
 
 Frame files can be download from [here](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames).
 
-# Browse online
+### Browse online
 
 <div id="searchfield">					
 <form><input type="text" name="verb" class="biginput" id="autocomplete"></form>
@@ -38,5 +38,3 @@ We distribute resources built in scope of this project under [Creative Commons B
 
 
 ### Publications
-
-
