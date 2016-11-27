@@ -13,20 +13,17 @@ Turkish Proposition Bank is the first semantically annotated corpus built for Tu
 
 _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A0 and A1 represents semantic arguments. Numbered arguments (A0-A4) of each predicate sense are registered in **frame files** and definitions of adjunct like arguments can be found in original [English PropBank project](http://propbank.github.io/).
 
-### Frames
+### Download Resources
 
-Frame files can be download from [here](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames).
+Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the license and readme files before usage.
 
-### Browse online
+### Browse Frames
 
 <div id="searchfield">					
 <form><input type="text" name="verb" class="biginput" id="autocomplete"></form>
 </div>
 <p id="outputcontent"> </p>
 
-### Annotated Corpora
-
-Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the license and readme files before usage.
 
 ### Turkish Semantic Role Labeling
 
