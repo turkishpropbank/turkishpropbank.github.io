@@ -765,7 +765,7 @@ $(function(){
   $('#autocomplete').autocomplete({
     lookup: verbs,
     onSelect: function (suggestion) {
-      var thehtml = suggestion.value + ' -  <a href="frames_web/'+suggestion.data+'"> <strong>(Fiil Çerçevesi)</strong> </a>';
+      var thehtml = suggestion.value + ' -  <a href="/blob/master/frames_web/'+suggestion.data+'"> <strong>(Fiil Çerçevesi)</strong> </a>';
       $('#outputcontent').html(thehtml);
     }
   });
