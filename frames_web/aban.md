@@ -3,11 +3,6 @@ layout: page
 title: Frameset - aban-v
 published: true
 ---
----
-layout: page
-title: Frameset - aban
-published: true
----
 <center><h2>Predicate: <i>aban</i></h2></center>
 <h4>Roleset id: aban.01 - Bir yere yaslanmak, dayanmak<br>
 <h4>Roles:</h4>
