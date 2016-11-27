@@ -19,7 +19,9 @@ Frame files can be download from [here](https://github.com/turkishpropbank/turki
 
 # Browse online
 
+<div id="searchfield">					
 <form><input type="text" name="verb" class="biginput" id="autocomplete"></form>
+</div>
 <p id="outputcontent"> </p>
 
 ### Annotated Corpora
