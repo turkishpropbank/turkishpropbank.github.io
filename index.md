@@ -31,6 +31,4 @@ Frame files can be download from [this link](https://github.com/turkishpropbank/
 
 We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-
-
 ### Publications
