@@ -775,7 +775,6 @@ $(function(){
     { value: 'şımar', data: 'şımar.md'}
   ];
   
-  // setup autocomplete function pulling from currencies[] array
   $('#autocomplete').autocomplete({
     lookup: verbs,
     onSelect: function (suggestion) {
