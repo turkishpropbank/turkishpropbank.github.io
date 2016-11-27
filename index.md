@@ -15,7 +15,7 @@ _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A
 
 ### Download Resources
 
-Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the license and readme files before usage.
+Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the LICENSE and README files before usage.
 
 ### Browse Frames
 
