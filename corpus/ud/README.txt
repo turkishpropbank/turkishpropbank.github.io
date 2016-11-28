@@ -20,4 +20,4 @@ References:
   Linguistically Interpreted Corpora (LINC), Budapest, Hungary, 2003.
   
 License:
-CC BY-SA 4.0 (see LICENSE.txt)
+CC BY-NC-SA 4.0 (see LICENSE.txt)
