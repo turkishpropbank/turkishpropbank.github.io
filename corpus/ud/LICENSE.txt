@@ -1,5 +1,5 @@
 Semantic annotations of Turkish PropBank are distributed under the
-Creative Commons BY-NC-SA 4.0 International license 
+Creative Commons BY-NC-SA 4.0 International license.
 
 Created by: Copyright © 2016, Gözde Gül Şahin - ITU 
 NLP group, Department of Computer Engineering, Istanbul Technical University 
@@ -24,4 +24,4 @@ References:
   in the Turkish Treebank. In Proceedings of the EACL Workshop on 
   Linguistically Interpreted Corpora (LINC), Budapest, Hungary, 2003.
 
-Please check https://creativecommons.org/licenses/by-nc-sa/4.0/ page for terms of use. 
+Please check https://creativecommons.org/licenses/by-nc-sa/4.0/ page for terms of use.
