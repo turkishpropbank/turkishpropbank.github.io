@@ -15,11 +15,11 @@ _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A
 
 ### Download Resources
 
-Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/corpus). Please check the LICENSE and README files before usage. 
+Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/corpus). Please check the LICENSE and README files before usage. 
 
 ### Crowdsourcing
 
-A part of this corpus has been annotated via crowd workers. To guide researchers we share our design files, screenshots, instructions and task results (aggregation files) [[Verb Sense Annotation]( "https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/crowdresults/vsa")],[[Semantic Role Annotation](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/crowdresults/sra)].   
+A part of this corpus has been annotated via crowd workers. To guide researchers we share our design files, screenshots, instructions and task results (aggregation files) [[Verb Sense Annotation]( "https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/crowdresults/vsa")],[[Semantic Role Annotation](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/crowdresults/sra)].   
 
 ### Browse Frames
 
@@ -33,7 +33,4 @@ A part of this corpus has been annotated via crowd workers. To guide researchers
 
 ### License
 
-We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-
-
-
+We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
