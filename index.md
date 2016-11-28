@@ -20,7 +20,7 @@ Frame files can be download from [this link](https://github.com/turkishpropbank/
 ### Crowdsourcing
 
 A part of this corpus has been annotated via crowd workers. To guide researchers we share our design files, screenshots, instructions and task results (aggregation files)[[Verb Sense Annotation]](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/crowdresults/vsa),
-[[Semantic Role Annotation](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/crowdresults/sra))].   
+[[Semantic Role Annotation](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/crowdresults/sra)].   
 
 ### Browse Frames
 
