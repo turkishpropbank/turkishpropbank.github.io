@@ -1,5 +1,5 @@
-Semantic annotations of Turkish PropBank are distributed under the
-Creative Commons BY-NC-SA 4.0 license 
+Semantic annotations of Turkish PropBank are distributed under 
+Creative Commons BY-NC-SA 4.0 International License.
 
 Created by: Copyright © 2013-2016, Gözde Gül Şahin, Eşref Adalı - ITU 
 NLP group, Department of Computer Engineering, Istanbul Technical University 
