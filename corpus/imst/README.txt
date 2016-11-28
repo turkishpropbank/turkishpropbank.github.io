@@ -11,4 +11,4 @@ Anne Abeille (ed.), Kluwer Academic Publishers, 2003.
 * [3] Nart B. Atalay, Kemal Oflazer, Bilge Say. The Annotation Process in the Turkish Treebank. In Proceedings of the EACL Workshop on Linguistically Interpreted Corpora (LINC), Budapest, Hungary, 2003.
 
 License:
-CC BY-SA 4.0 (see LICENSE.txt)
+CC BY-NC-SA 4.0 (see LICENSE.txt)
