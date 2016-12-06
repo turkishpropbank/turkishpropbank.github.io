@@ -8,7 +8,7 @@
 <roles>
 <role descr="durum alan, olan (xleşen)" f="" n="1" suffix="NOM"/>
 <note/>
-<role descr="aldığı durum(x)" f="lvb" n="m" suffix=""/>
+<role descr="aldığı durum(x)" f="" n="2" suffix="NOM"/>
 </roles>
 <note/>
 <example name="" src="" type="">
@@ -17,7 +17,7 @@
 <note/>
 <rel f="">xlAş</rel>
 <arg f="" n="1" suffix="">Sesi</arg>
-<arg f="lvb" n="m" suffix="">kalın</arg>
+<arg f="" n="2" suffix="">kalın</arg>
 </example>
 </roleset>
 </predicate>

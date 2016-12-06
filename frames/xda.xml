@@ -7,6 +7,7 @@
 <roleset id="xda.01" name="x ile belirtilen ışık veya ses saçma">
 <roles>
 <role descr="saçan" f="" n="1" suffix="NOM"/>
+<role descr="saçılan şey" f="" n="2" suffix="NOM"/>
 <note/>
 </roles>
 <note/>

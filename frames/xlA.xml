@@ -9,6 +9,7 @@
 <role descr="getiren (xleyen)" f="" n="0" suffix="NOM"/>
 <note/>
 <role descr="hale getirilen (xlenen)" f="" n="1" suffix="ACC"/>
+<role descr="aldığı durum(x)" f="" n="2" suffix="NOM"/>
 </roles>
 <note/>
 </roleset>

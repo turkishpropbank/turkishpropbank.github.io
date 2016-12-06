@@ -1203,7 +1203,7 @@
 14	,	,	,	Punc	Punc	_	_	13	13	PUNCTUATION	PUNCTUATION	_	_	_	_
 15	o	o	o	Det	Det	_	_	16	16	DETERMINER	DETERMINER	_	_	_	_
 16	hacmi	hacim	hacim	Noun	Noun	A3sg|Pnon|Acc	A3sg|Pnon|Acc	18	18	OBJECT	OBJECT	_	_	_	A1
-17	_	mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	A3sg|Pnon|Nom	18	18	DERIV	DERIV	_	_	_	AM-LVB
+17	_	mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	A3sg|Pnon|Nom	18	18	DERIV	DERIV	_	_	_	_
 18	mekanlaştırmaz	_	_	Verb	Become	Caus|Neg|Aor|A3sg	Caus|Neg|Aor|A3sg	0	0	PREDICATE	PREDICATE	Y	xlAş.01	_	_
 19	.	.	.	Punc	Punc	_	_	18	18	PUNCTUATION	PUNCTUATION	_	_	_	_
 

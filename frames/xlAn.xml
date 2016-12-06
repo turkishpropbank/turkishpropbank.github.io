@@ -9,7 +9,8 @@
 <role descr="durumu alan" f="" n="1" suffix="NOM">
 <vnrole vncls="" vntheta="patient"/>
 </role>
-
+<role descr="aldığı durum(x)" f="" n="2" suffix="NOM">
+</role>
 <note/>
 </roles>
 
