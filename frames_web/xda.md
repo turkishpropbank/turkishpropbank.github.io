@@ -7,3 +7,4 @@ published: true
 <h4>Roleset id: xda.01 - x ile belirtilen ışık veya ses saçma<br>
 <h4>Roles:</h4>
 <b>Arg-1</b>: <i>saçan</i>  (NOM) <br>
+<b>Arg-2</b>: <i>saçılan şey</i>  (NOM) <br>

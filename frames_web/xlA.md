@@ -8,3 +8,4 @@ published: true
 <h4>Roles:</h4>
 <b>Arg-0</b>: <i>getiren (xleyen)</i>  (NOM) <br>
 <b>Arg-1</b>: <i>hale getirilen (xlenen)</i>  (ACC) <br>
+<b>Arg-2</b>: <i>aldığı durum(x)</i>  (NOM) <br>
