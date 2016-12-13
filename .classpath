@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/liblinear-1.51-with-deps.jar"/>
+	<classpathentry kind="lib" path="lib/whatswrong-0.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/anna-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-tools-1.5.2-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/seg.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-parser.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

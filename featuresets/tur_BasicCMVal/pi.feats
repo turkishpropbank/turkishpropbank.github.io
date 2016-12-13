@@ -1,0 +1,17 @@
+
+PredWord
+PredPOS
+PredPPOS
+PredLemma+PredDeprel
+PredPPOS+PredPOS
+PredDeprel
+PredFeats
+PredParentWord
+PredParentPOS
+PredParentFeats
+PredParentLemma
+PredLemma+PredParentLemma
+DepSubCat
+ChildDepSet
+ChildWordSet
+ChildPOSSet

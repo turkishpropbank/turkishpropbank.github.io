@@ -1,0 +1,73 @@
+<project name="srl" default="compile" basedir=".">
+	
+	<tstamp/>
+	
+	<property name="classes" value="${basedir}/classes"/>
+	<property name="src" value="${basedir}/src"/>
+	<property name="dist" value="${basedir}/dist"/>
+	<property name="lib" value="${basedir}/lib"/>
+	<property name="LICENSE" value="${basedir}/LICENSE"/>
+
+	<property name="dist.version" value="3"/>
+	
+	<path id="classpath">
+		<pathelement location="${lib}/liblinear-1.51-with-deps.jar"/>
+		<pathelement location="${lib}/opennlp-tools-1.5.2-incubating.jar"/>
+		<pathelement location="${lib}/anna-3.3.jar"/>
+		<pathelement location="${lib}/seg.jar"/>
+		<pathelement location="${lib}/whatswrong-0.2.3.jar"/>
+		<pathelement location="${lib}/stanford-parser.jar"/>
+	</path>
+		
+	<target name="compile" description="Compile source" depends="clean">
+		<mkdir dir="${classes}"/>
+		<javac srcdir="${src}" destdir="${classes}" debug="on" classpathref="classpath"/>
+	</target>
+	
+	<target name="dist" description="Create dist" depends="compile">
+		<property name="distname" value="${ant.project.name}-${DSTAMP}"/>
+		<property name="distdir" value="${dist}/${distname}"/>
+		<mkdir dir="${distdir}"/>
+		<copy todir="${distdir}">
+			<fileset file="${LICENSE}" includes="${LICENSE}"/>
+		</copy>
+		<jar jarfile="${distdir}/${ant.project.name}.jar">
+			<fileset dir="${classes}" includes="**/*.class" excludes="**/test/*"/>
+			<fileset file="${LICENSE}" includes="${LICENSE}"/>
+		</jar>
+		<copy todir="${distdir}/lib">
+			<fileset dir="${lib}" includes="**/*" excludes="junit.jar"/>
+		</copy> 
+		<copy todir="${distdir}/featuresets">
+			<fileset dir="featuresets" includes="**/*"/>
+		</copy>
+		<copy todir="${distdir}/scripts">
+			<fileset dir="scripts" includes="**/*"/>
+		</copy>
+<!--    Should the source be included in the dist? I think yes. --> 
+		<jar jarfile="${distdir}/${ant.project.name}-src.jar">
+			<fileset dir="${src}" includes="**/*.java"/>
+			<fileset file="${LICENSE}" includes="${LICENSE}"/>
+		</jar>
+		<property name="tarfile" value="${dist}/${distname}.tar"/>
+		<property name="tgzfile" value="${dist}/${distname}.tgz"/>
+		<tar destfile="${tarfile}" basedir="${dist}"/>
+		<gzip destfile="${tgzfile}" src="${tarfile}"/>
+	</target>
+	
+	<target name="clean" description="Clean">
+		<delete dir="${classes}" failonerror="false"/>
+		<delete dir="${dist}" failonerror="false"/>
+	</target>
+	
+	<target name="test" description="Run unit tests" depends="compile">
+		<!-- Note the tests are probably not working. 
+			 This should be fixed some day... and more tests should be included...
+		-->
+		<java classname="org.junit.runner.JUnitCore" classpath="classes:${lib}/junit.jar">
+			<arg value="se.lth.cs.srl.test.TestFeatures"/>
+			<arg value="se.lth.cs.srl.test.TestCALS"/>
+		</java>
+	</target>
+	
+</project>
