@@ -36,3 +36,16 @@ Source code based on [[mate-tools]](https://code.google.com/archive/p/mate-tools
 ### License
 
 We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### Cite
+
+If you use this resource, please consider citing:
+
+-Şahin, G.G. & Adalı, E. _Lang Resources & Evaluation Journal_ (2017).
+
+-Şahin, G.G. Verb sense annotation for turkish propbank via crowdsourcing. In Proceedings of 17th international conference on intelligent text processing and computational linguistics. CICLING 2016.
+
+-Şahin, G.G. (2015) Framing of verbs for turkish propbank. In Proceedings of 1st international conference on turkic computational linguistics, TurCLing
+
+-Sahin, G.G. & Adalı, E. (2014). Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish. In Workshop on lexical and grammatical resources for language processing (p. 46).
+
