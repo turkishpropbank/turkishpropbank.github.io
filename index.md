@@ -15,7 +15,11 @@ _giy.01_ means the "1st" sense of predicate lemma _giy (wear)_ and labels A-A, A
 
 ### Download Resources
 
-Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/frames). Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/corpus). Please check the LICENSE and README files before usage. 
+Frame files can be download from [this link](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/frames). 
+
+~~Corpora constructed upon IMST and IMST-UD can be investigated from [project's corpus repo](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/resources/corpus). Please check the LICENSE and README files before usage.~~
+
+Annotated corpora are distributed from [İTÜ NLP Group - Datasets page](http://tools.nlp.itu.edu.tr/Datasets). The original version described in [1] is distributed under the tag *Original*. We also distribute the version compatible with the latest treebank release under the *Latest* tag. The same applies to Universal Dependency (UD) compatible annotations.
 
 ### Crowdsourcing
 
@@ -41,11 +45,10 @@ We distribute resources built in scope of this project under [Creative Commons B
 
 If you use this resource, please consider citing:
 
--Şahin, G.G. & Adalı, E. _Lang Resources & Evaluation Journal_ (2017).
+[1] Şahin, G.G. & Adalı, E. _Lang Resources & Evaluation Journal_ (2017).
 
--Şahin, G.G. Verb sense annotation for turkish propbank via crowdsourcing. In Proceedings of 17th international conference on intelligent text processing and computational linguistics. CICLING 2016.
+[2] Şahin, G.G. Verb sense annotation for turkish propbank via crowdsourcing. In Proceedings of 17th international conference on intelligent text processing and computational linguistics. CICLING 2016.
 
--Şahin, G.G. (2015) Framing of verbs for turkish propbank. In Proceedings of 1st international conference on turkic computational linguistics, TurCLing
+[3] Şahin, G.G. (2015) Framing of verbs for turkish propbank. In Proceedings of 1st international conference on turkic computational linguistics, TurCLing
 
--Sahin, G.G. & Adalı, E. (2014). Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish. In Workshop on lexical and grammatical resources for language processing (p. 46).
-
+[4] Sahin, G.G. & Adalı, E. (2014). Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish. In Workshop on lexical and grammatical resources for language processing (p. 46).
