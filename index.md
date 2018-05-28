@@ -41,14 +41,12 @@ Source code based on [[mate-tools]](https://code.google.com/archive/p/mate-tools
 
 We distribute resources built in scope of this project under [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### Cite
+### References
 
-If you use this resource, please consider citing:
+[1] Gözde Gül Şahin and Eşref Adalı. 2017. [Annotation of semantic roles for the Turkish Proposition Bank](https://link.springer.com/article/10.1007/s10579-017-9390-y). *Language Resources and Evaluation* (in press).
 
-[1] Şahin, G.G. & Adalı, E. _Lang Resources & Evaluation Journal_ (2017).
+[2] Gözde Gül Şahin. 2016. [Verb Sense Annotation for Turkish PropBank via Crowdsourcing](https://link.springer.com/chapter/10.1007/978-3-319-75477-2_35). In *Proceedings of 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2016)*, Konya, Turkey, April 3-9, 2016, Revised Selected Papers, Part I. pages 496–506.
 
-[2] Şahin, G.G. Verb sense annotation for turkish propbank via crowdsourcing. In Proceedings of 17th international conference on intelligent text processing and computational linguistics. CICLING 2016.
+[3] Gözde Gül Şahin. 2016. Framing of Verbs for Turkish PropBank. In *Proceedings of 1st International Conference on Turkic Computational Linguistics, TurCLing*, Konya, Turkey, April 9, 2016
 
-[3] Şahin, G.G. (2015) Framing of verbs for turkish propbank. In Proceedings of 1st international conference on turkic computational linguistics, TurCLing
-
-[4] Sahin, G.G. & Adalı, E. (2014). Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish. In Workshop on lexical and grammatical resources for language processing (p. 46).
+[4] Gözde Gül Şahin and Eşref Adalı. 2014. [Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish](http://www.aclweb.org/anthology/W14-5807). In *Proceedings of Workshop on Lexical and Grammatical resources for Language Processing*, Dublin, Ireland.
