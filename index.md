@@ -43,10 +43,12 @@ We distribute resources built in scope of this project under [Creative Commons B
 
 ### References
 
-[1] Gözde Gül Şahin and Eşref Adalı. 2017. [Annotation of semantic roles for the Turkish Proposition Bank](https://link.springer.com/article/10.1007/s10579-017-9390-y). *Language Resources and Evaluation* (in press).
+[1] Gözde Gül Şahin and Eşref Adalı. 2017. [Annotation of semantic roles for the Turkish Proposition Bank](https://link.springer.com/article/10.1007%2Fs10579-017-9390-y). *Language Resources and Evaluation, September 2018, Volume 52, Issue 3, pp 673–706*.
 
 [2] Gözde Gül Şahin. 2016. [Verb Sense Annotation for Turkish PropBank via Crowdsourcing](https://link.springer.com/chapter/10.1007/978-3-319-75477-2_35). In *Proceedings of 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2016)*, Konya, Turkey, April 3-9, 2016, Revised Selected Papers, Part I. pages 496–506.
 
-[3] Gözde Gül Şahin. 2016. Framing of Verbs for Turkish PropBank. In *Proceedings of 1st International Conference on Turkic Computational Linguistics, TurCLing*, Konya, Turkey, April 9, 2016
+[3] Gözde Gül Şahin. 2016. [Framing of Verbs for Turkish PropBank](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/papers/framing.pdf). In *Proceedings of 1st International Conference on Turkic Computational Linguistics, TurCLing*, Konya, Turkey, April 9, 2016
 
 [4] Gözde Gül Şahin and Eşref Adalı. 2014. [Using morphosemantic information in construction of a pilot lexical semantic resource for Turkish](http://www.aclweb.org/anthology/W14-5807). In *Proceedings of Workshop on Lexical and Grammatical resources for Language Processing*, Dublin, Ireland.
+
+[5] Gözde Gül Şahin. [Building of Turkish PropBank and Semantic Role Labeling of Turkish](https://github.com/turkishpropbank/turkishpropbank.github.io/tree/master/papers/phd_thesis.pdf) PhD thesis, Istanbul Technical University, January 2018
